@@ -1,0 +1,2270 @@
+title:Monument of Triumph God Rolls
+description:Curated weapon rolls for Monument of Triumph weapons. Based on the Destiny 2 Weapon Rolls spreadsheet by kimo23.
+
+// Zaouli's Bane - Pantheon 2.0 - PVE
+// Perks: Fluted Barrel / Appended Mag / Firefly / Chaos Reshaped
+// MW: Handling | Mod: Bandolier
+//notes:Zaouli's Bane | Source: Pantheon 2.0 | Use: PVE | MW: Handling | Mod: Bandolier | Origin: Elliptical Orbit | Perks: Fluted Barrel / Appended Mag / Firefly / Chaos Reshaped|tags:pve
+dimwishlist:item=431721920&perks=1840239774,1087426260,3824105627,3640170453
+
+// Chattering Bone - Pantheon 2.0 - PVE
+// Perks: Fluted Barrel / Flared Magwell / Bewildering Burst / Kinetic Tremors
+// MW: Reload Speed | Mod: Tactical
+//notes:Chattering Bone | Source: Pantheon 2.0 | Use: PVE | MW: Reload Speed | Mod: Tactical | Origin: Elliptical Orbit | Perks: Fluted Barrel / Flared Magwell / Bewildering Burst / Kinetic Tremors|tags:pve
+dimwishlist:item=501329015&perks=1840239774,3230963543,2289534249,3891536761
+
+// Reckless Oracle - Pantheon 2.0 - PVE
+// Perks: Fluted Barrel / Armor-Piercing Rounds / Destabilizing Rounds / Chaos Reshaped
+// MW: Reload Speed | Mod: Abundant Ammo
+//notes:Reckless Oracle | Source: Pantheon 2.0 | Use: PVE | MW: Reload Speed | Mod: Abundant Ammo | Origin: Photoinhibition | Perks: Fluted Barrel / Armor-Piercing Rounds / Destabilizing Rounds / Chaos Reshaped|tags:pve
+dimwishlist:item=4158265643&perks=1840239774,1968497646,2048641572,3640170453
+
+// Alone as a god - Pantheon 2.0 - PVE
+// Perks: Arrowhead Brake / Tactical Mag / Rewind Rounds / Kinetic Tremors
+// MW: Handling | Mod: Tactical
+//notes:Alone as a god | Source: Pantheon 2.0 | Use: PVE | MW: Handling | Mod: Tactical | Origin: Elliptical Orbit | Perks: Arrowhead Brake / Tactical Mag / Rewind Rounds / Kinetic Tremors|tags:pve
+dimwishlist:item=353884603&perks=839105230,106909392,3418782618,3891536761
+
+// Bane of Sorrow - Pantheon 2.0 - PVE
+// Perks: Fluted Barrel / Appended Mag / Destabilizing Rounds / Meganeura
+// MW: Reload Speed | Mod: Enhanced Backup Mag
+//notes:Bane of Sorrow | Source: Pantheon 2.0 | Use: PVE | MW: Reload Speed | Mod: Enhanced Backup Mag | Origin: Elliptical Orbit | Perks: Fluted Barrel / Appended Mag / Destabilizing Rounds / Meganeura|tags:pve
+dimwishlist:item=3779290676&perks=1840239774,1087426260,2048641572,657025441
+
+// Threat Level - Pantheon 2.0 - PVE
+// Perks: Barrel Shroud / Tactical Mag / Cascade Point / All-Star
+// MW: Handling | Mod: Enhanced Reload
+//notes:Threat Level | Source: Pantheon 2.0 | Use: PVE | MW: Handling | Mod: Enhanced Reload | Origin: Elliptical Orbit | Perks: Barrel Shroud / Tactical Mag / Cascade Point / All-Star|tags:pve
+dimwishlist:item=1523151869&perks=1300023272,106909392,3751912585,1226351311
+
+// Age-Old Bond - Last Wish / CRAFTING - PVE
+// Perks: Fluted Barrel / Flared Magwell / Meganeura / Rampage
+// MW: Reload Speed | Mod: Backup Mag
+//notes:Age-Old Bond | Source: Last Wish / CRAFTING | Use: PVE | MW: Reload Speed | Mod: Backup Mag | Origin: Explosive Pact | Perks: Fluted Barrel / Flared Magwell / Meganeura / Rampage|tags:pve
+dimwishlist:item=424291879&perks=1840239774,3230963543,657025441,3425386926
+
+// Transfiguration - Last Wish / CRAFTING - PVE
+// Perks: Fluted Barrel / Appended Mag / Rewind Rounds / Kinetic Tremors
+// MW: Handling | Mod: Backup Mag
+//notes:Transfiguration | Source: Last Wish / CRAFTING | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Explosive Pact | Perks: Fluted Barrel / Appended Mag / Rewind Rounds / Kinetic Tremors|tags:pve
+dimwishlist:item=3885259140&perks=1840239774,1087426260,3418782618,3891536761
+
+// Nation of Beasts - Last Wish / CRAFTING - PVE
+// Perks: Fluted Barrel / Flared Magwell / Gear Shift / Voltshot
+// MW: Handling | Mod: Backup Mag
+//notes:Nation of Beasts | Source: Last Wish / CRAFTING | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Explosive Pact | Perks: Fluted Barrel / Flared Magwell / Gear Shift / Voltshot|tags:pve
+dimwishlist:item=70083888&perks=1840239774,3230963543,654512643,2173046394
+
+// Tyranny of Heaven - Last Wish / CRAFTING - PVE
+// Perks: Elastic String / Compact Arrow Shaft / Burning Ambition / Incandescent
+// MW: Draw Time | Mod: Enhanced Draw Time
+//notes:Tyranny of Heaven | Source: Last Wish / CRAFTING | Use: PVE | MW: Draw Time | Mod: Enhanced Draw Time | Origin: Explosive Pact | Perks: Elastic String / Compact Arrow Shaft / Burning Ambition / Incandescent|tags:pve
+dimwishlist:item=3388655311&perks=2801223209,16392701,2890807135,4293542123
+
+// Chattering Bone - Last Wish / CRAFTING - PVE
+// Perks: Fluted Barrel / Flared Magwell / Kill Clip / Rampage
+// MW: Reload Speed | Mod: Enhanced Backup Mag
+//notes:Chattering Bone | Source: Last Wish / CRAFTING | Use: PVE | MW: Reload Speed | Mod: Enhanced Backup Mag | Origin: Explosive Pact | Perks: Fluted Barrel / Flared Magwell / Kill Clip / Rampage|tags:pve
+dimwishlist:item=501329015&perks=1840239774,3230963543,1015611457,3425386926
+
+// The Supremacy - Last Wish / CRAFTING - PVE
+// Perks: Arrowhead Brake / Appended Mag / Rewind Rounds / Kinetic Tremors
+// MW: Stability | Mod: Tactical
+//notes:The Supremacy | Source: Last Wish / CRAFTING | Use: PVE | MW: Stability | Mod: Tactical | Origin: Explosive Pact | Perks: Arrowhead Brake / Appended Mag / Rewind Rounds / Kinetic Tremors|tags:pve
+dimwishlist:item=2884596447&perks=839105230,1087426260,3418782618,3891536761
+
+// Techeun Force - Last Wish / CRAFTING - PVE
+// Perks: Arrowhead Brake / Ionized Battery / Rewind Rounds / Controlled Burst
+// MW: Charge Time | Mod: Enhanced Charge Time
+//notes:Techeun Force | Source: Last Wish / CRAFTING | Use: PVE | MW: Charge Time | Mod: Enhanced Charge Time | Origin: Explosive Pact | Perks: Arrowhead Brake / Ionized Battery / Rewind Rounds / Controlled Burst|tags:pve
+dimwishlist:item=3591141932&perks=839105230,1483536627,3418782618,2594592626
+
+// Apex Predator - Last Wish / CRAFTING - PVE
+// Perks: Quick Launch / Impact Casing / Cluster Bomb / Reaper's Tithe
+// MW: Handling | Mod: Tactical
+//notes:Apex Predator | Source: Last Wish / CRAFTING | Use: PVE | MW: Handling | Mod: Tactical | Origin: Explosive Pact | Perks: Quick Launch / Impact Casing / Cluster Bomb / Reaper's Tithe|tags:pve
+dimwishlist:item=1851777734&perks=3525010810,3796465595,1275731761,113508675
+
+// Accrued Redemption - Garden of Salvation / CRAFTING - PVE
+// Perks: Elastic String / Compact Arrow Shaft / Archer's Tempo / Kinetic Tremors
+// MW: Draw Time | Mod: Enhanced Draw Time
+//notes:Accrued Redemption | Source: Garden of Salvation / CRAFTING | Use: PVE | MW: Draw Time | Mod: Enhanced Draw Time | Origin: Photoinhibition | Perks: Elastic String / Compact Arrow Shaft / Archer's Tempo / Kinetic Tremors|tags:pve
+dimwishlist:item=3621336854&perks=2801223209,16392701,201365942,3891536761
+
+// Ancient Gospel - Garden of Salvation / CRAFTING - PVP
+// Perks: Smallbore / Accurized Rounds / Eye of the Storm / Precision Instrument
+// MW: Range | Mod: Enhanced Range
+//notes:Ancient Gospel | Source: Garden of Salvation / CRAFTING | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Photoinhibition | Perks: Smallbore / Accurized Rounds / Eye of the Storm / Precision Instrument|tags:pvp
+dimwishlist:item=963574173&perks=1482024992,3142289711,699525795,555281244
+
+// Omniscient Eye - Garden of Salvation / CRAFTING - PVE
+// Perks: Fluted Barrel / Tactical Mag / Fourth Time's the Charm / Elemental Honing
+// MW: Reload Speed | Mod: Tactical
+//notes:Omniscient Eye | Source: Garden of Salvation / CRAFTING | Use: PVE | MW: Reload Speed | Mod: Tactical | Origin: Photoinhibition | Perks: Fluted Barrel / Tactical Mag / Fourth Time's the Charm / Elemental Honing|tags:pve
+dimwishlist:item=147444292&perks=1840239774,106909392,1354429876,1089671869
+
+// Prophet of Doom - Garden of Salvation / CRAFTING - PVP
+// Perks: Barrel Shroud / Assault Mag / Threat Detector / Opening Shot
+// MW: Range | Mod: Enhanced Handling
+//notes:Prophet of Doom | Source: Garden of Salvation / CRAFTING | Use: PVP | MW: Range | Mod: Enhanced Handling | Origin: Photoinhibition | Perks: Barrel Shroud / Assault Mag / Threat Detector / Opening Shot|tags:pvp
+dimwishlist:item=2145441168&perks=1300023272,791862061,4071163871,47981717
+
+// Reckless Oracle - Garden of Salvation / CRAFTING - PVE
+// Perks: Fluted Barrel / Armor-Piercing Rounds / Destabilizing Rounds / One for All
+// MW: Reload Speed | Mod: Abundant Ammo
+//notes:Reckless Oracle | Source: Garden of Salvation / CRAFTING | Use: PVE | MW: Reload Speed | Mod: Abundant Ammo | Origin: Photoinhibition | Perks: Fluted Barrel / Armor-Piercing Rounds / Destabilizing Rounds / One for All|tags:pve
+dimwishlist:item=1992309064&perks=1840239774,1968497646,2048641572,4049631843
+
+// Sacred Provenance - Garden of Salvation / CRAFTING - PVE
+// Perks: Fluted Barrel / High-Caliber Rounds / Stopping Power / Firefly
+// MW: Handling | Mod: Tactical
+//notes:Sacred Provenance | Source: Garden of Salvation / CRAFTING | Use: PVE | MW: Handling | Mod: Tactical | Origin: Photoinhibition | Perks: Fluted Barrel / High-Caliber Rounds / Stopping Power / Firefly|tags:pve
+dimwishlist:item=2241507890&perks=1840239774,1561002382,1517798362,3824105627
+
+// Zealot's Reward - Garden of Salvation / CRAFTING - PVP
+// Perks: Hammer-Forged Rifling / Projection Fuse / Under Pressure / Closing Time
+// MW: Range | Mod: Ballistics
+//notes:Zealot's Reward | Source: Garden of Salvation / CRAFTING | Use: PVP | MW: Range | Mod: Ballistics | Origin: Photoinhibition | Perks: Hammer-Forged Rifling / Projection Fuse / Under Pressure / Closing Time|tags:pvp
+dimwishlist:item=2720651699&perks=3250034553,2969185026,1645158859,1194056669
+
+// Posterity - Deep Stone Crypt / CRAFTING - PVE
+// Perks: Fluted Barrel / Flared Magwell / Voltshot / Rampage
+// MW: Handling | Mod: Backup Mag
+//notes:Posterity | Source: Deep Stone Crypt / CRAFTING | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Bray Inheritance | Perks: Fluted Barrel / Flared Magwell / Voltshot / Rampage|tags:pve
+dimwishlist:item=3281285075&perks=1840239774,3230963543,2173046394,3425386926
+
+// Trustee - Deep Stone Crypt / CRAFTING - PVE
+// Perks: Fluted Barrel / Tactical Mag / Surplus / Meganeura
+// MW: Handling | Mod: Tactical
+//notes:Trustee | Source: Deep Stone Crypt / CRAFTING | Use: PVE | MW: Handling | Mod: Tactical | Origin: Bray Inheritance | Perks: Fluted Barrel / Tactical Mag / Surplus / Meganeura|tags:pve
+dimwishlist:item=1392919471&perks=1840239774,106909392,3436462433,657025441
+
+// Heritage - Deep Stone Crypt / CRAFTING - PVE
+// Perks: Fluted Barrel / Assault Mag / Reconstruction / Cascade Point
+// MW: Range | Mod: Backup Mag
+//notes:Heritage | Source: Deep Stone Crypt / CRAFTING | Use: PVE | MW: Range | Mod: Backup Mag | Origin: Bray Inheritance | Perks: Fluted Barrel / Assault Mag / Reconstruction / Cascade Point|tags:pve
+dimwishlist:item=4248569242&perks=1840239774,791862061,1523832109,3751912585
+
+// Succession - Deep Stone Crypt / CRAFTING - PVE
+// Perks: Fluted Barrel / Tactical Mag / Reconstruction / Elemental Honing
+// MW: Handling | Mod: Backup Mag
+//notes:Succession | Source: Deep Stone Crypt / CRAFTING | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Bray Inheritance | Perks: Fluted Barrel / Tactical Mag / Reconstruction / Elemental Honing|tags:pve
+dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,1089671869
+
+// Commemoration - Deep Stone Crypt / CRAFTING - PVE
+// Perks: Fluted Barrel / Appended Mag / Subsistence / Killing Tally
+// MW: Handling | Mod: Abundant Ammo
+//notes:Commemoration | Source: Deep Stone Crypt / CRAFTING | Use: PVE | MW: Handling | Mod: Abundant Ammo | Origin: Bray Inheritance | Perks: Fluted Barrel / Appended Mag / Subsistence / Killing Tally|tags:pve
+dimwishlist:item=4230965989&perks=1840239774,1087426260,1820235745,557221067
+
+// Bequest - Deep Stone Crypt / CRAFTING - PVE
+// Perks: Jagged Edge / Swordmaster's Guard / Jolting Feedback / Surrounded
+// MW: Impact | Mod: Enhanced Impact
+//notes:Bequest | Source: Deep Stone Crypt / CRAFTING | Use: PVE | MW: Impact | Mod: Enhanced Impact | Origin: Bray Inheritance | Perks: Jagged Edge / Swordmaster's Guard / Jolting Feedback / Surrounded|tags:pve
+dimwishlist:item=3366545721&perks=3666208348,269888150,3966416502,3708227201
+
+// Vision of Confluence (Timelost) - Vault of Glass - PVE
+// Perks: Fluted Barrel / Tactical Mag / Butterfly / Firefly
+// MW: Handling | Mod: Bandolier
+//notes:Vision of Confluence (Timelost) | Source: Vault of Glass | Use: PVE | MW: Handling | Mod: Bandolier | Origin: Timelost Magazine | Perks: Fluted Barrel / Tactical Mag / Butterfly / Firefly|tags:pve
+dimwishlist:item=337578911&perks=1840239774,106909392,198336270,3824105627
+
+// Fatebringer (Timelost) - Vault of Glass - PVE
+// Perks: Fluted Barrel / Tactical Mag / Impromptu Ammo / Firefly
+// MW: Handling | Mod: Bandolier
+//notes:Fatebringer (Timelost) | Source: Vault of Glass | Use: PVE | MW: Handling | Mod: Bandolier | Origin: Timelost Magazine | Perks: Fluted Barrel / Tactical Mag / Impromptu Ammo / Firefly|tags:pve
+dimwishlist:item=4219826183&perks=1840239774,106909392,2360347339,3824105627
+
+// Found Verdict (Timelost) - Vault of Glass - PVE
+// Perks: Full Choke / Assault Mag / Aggregate Charge / Trench Barrel
+// MW: Handd | Mod: Backup Mag
+//notes:Found Verdict (Timelost) | Source: Vault of Glass | Use: PVE | MW: Handd | Mod: Backup Mag | Origin: Timelost Magazine | Perks: Full Choke / Assault Mag / Aggregate Charge / Trench Barrel|tags:pve
+dimwishlist:item=851296754&perks=1047830412,791862061,3764420437,2360754333
+
+// Praedyth's Revenge (Timelost) - Vault of Glass - PVE
+// Perks: Fluted Barrel / Tactical Mag / Fourth Time's the Charm / Precision Instrument
+// MW: Reload Speed | Mod: Tactical
+//notes:Praedyth's Revenge (Timelost) | Source: Vault of Glass | Use: PVE | MW: Reload Speed | Mod: Tactical | Origin: Timelost Magazine | Perks: Fluted Barrel / Tactical Mag / Fourth Time's the Charm / Precision Instrument|tags:pve
+dimwishlist:item=2362652544&perks=1840239774,106909392,1354429876,555281244
+
+// Corrective Measure (Timelost) - Vault of Glass - PVE
+// Perks: Fluted Barrel / Accurized Rounds / Subsistence / Killing Tally
+// MW: Handling | Mod: Backup Mag
+//notes:Corrective Measure (Timelost) | Source: Vault of Glass | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Timelost Magazine | Perks: Fluted Barrel / Accurized Rounds / Subsistence / Killing Tally|tags:pve
+dimwishlist:item=2334480463&perks=1840239774,3142289711,1820235745,557221067
+
+// Hezen Vengeance (Timelost) - Vault of Glass - PVE
+// Perks: Quick Launch / Impact Casing / Overflow / Aggregate Charge
+// MW: Handling | Mod: Enhanced Reload
+//notes:Hezen Vengeance (Timelost) | Source: Vault of Glass | Use: PVE | MW: Handling | Mod: Enhanced Reload | Origin: Timelost Magazine | Perks: Quick Launch / Impact Casing / Overflow / Aggregate Charge|tags:pve
+dimwishlist:item=3623686757&perks=3525010810,3796465595,3643424744,3764420437
+
+// Submission (Adept) - Vow of the Disciple - PVE
+// Perks: Corkscrew Rifling / Flared Magwell / Kinetic Tremors / Chaos Reshaped
+// MW: Reload Speed | Mod: Enhanced Reload
+//notes:Submission (Adept) | Source: Vow of the Disciple | Use: PVE | MW: Reload Speed | Mod: Enhanced Reload | Origin: Souldrinker | Perks: Corkscrew Rifling / Flared Magwell / Kinetic Tremors / Chaos Reshaped|tags:pve
+dimwishlist:item=1941816543&perks=4090651448,3230963543,3891536761,3640170453
+
+// Insidious (Adept) - Vow of the Disciple - PVE
+// Perks: Fluted Barrel / Tactical Mag / Frenzy / Chaos Reshaped
+// MW: Handling | Mod: Backup Mag
+//notes:Insidious (Adept) | Source: Vow of the Disciple | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Souldrinker | Perks: Fluted Barrel / Tactical Mag / Frenzy / Chaos Reshaped|tags:pve
+dimwishlist:item=786352912&perks=1840239774,106909392,4104185692,3640170453
+
+// Forbearance (Adept) - Vow of the Disciple - PVE
+// Perks: Quick Launch / High-Velocity Rounds / Ambitious Assassin / Chain Reaction
+// MW: Blast Radius | Mod: Enhanced Blast Radius
+//notes:Forbearance (Adept) | Source: Vow of the Disciple | Use: PVE | MW: Blast Radius | Mod: Enhanced Blast Radius | Origin: Souldrinker | Perks: Quick Launch / High-Velocity Rounds / Ambitious Assassin / Chain Reaction|tags:pve
+dimwishlist:item=4038592169&perks=3525010810,2822142346,2010801679,2396489472
+
+// Deliverance (Adept) - Vow of the Disciple - PVE
+// Perks: Arrowhead Brake / Liquid Coils / Cornered / Surrounded
+// MW: Charge Time | Mod: Enhanced Charge Time
+//notes:Deliverance (Adept) | Source: Vow of the Disciple | Use: PVE | MW: Charge Time | Mod: Enhanced Charge Time | Origin: Souldrinker | Perks: Arrowhead Brake / Liquid Coils / Cornered / Surrounded|tags:pve
+dimwishlist:item=2943293195&perks=839105230,1687452232,1799762209,3708227201
+
+// Lubrae's Ruin (Adept) - Vow of the Disciple - PVE
+// Perks: Lightweight Emitter / Accurized Rounds / Close to Melee / Chaos Reshaped
+// MW: Reload Speed | Mod: Enhanced Shield Duration
+//notes:Lubrae's Ruin (Adept) | Source: Vow of the Disciple | Use: PVE | MW: Reload Speed | Mod: Enhanced Shield Duration | Origin: Souldrinker | Perks: Lightweight Emitter / Accurized Rounds / Close to Melee / Chaos Reshaped|tags:pve
+dimwishlist:item=1466006054&perks=594346985,3142289711,1782407750,3640170453
+
+// Cataclysmic (Adept) - Vow of the Disciple - PVE
+// Perks: Arrowhead Brake / Ionized Battery / Fourth Time's the Charm / Aggregate Charge
+// MW: Handling | Mod: Enhanced Charge Time
+//notes:Cataclysmic (Adept) | Source: Vow of the Disciple | Use: PVE | MW: Handling | Mod: Enhanced Charge Time | Origin: Souldrinker | Perks: Arrowhead Brake / Ionized Battery / Fourth Time's the Charm / Aggregate Charge|tags:pve
+dimwishlist:item=2886339027&perks=839105230,1483536627,1354429876,3764420437
+
+// Zaouli's Bane (Harrowed) - King's Fall - PVE
+// Perks: Fluted Barrel / Appended Mag / Explosive Payload / Firefly
+// MW: Handling | Mod: Bandolier
+//notes:Zaouli's Bane (Harrowed) | Source: King's Fall | Use: PVE | MW: Handling | Mod: Bandolier | Origin: Runneth Over | Perks: Fluted Barrel / Appended Mag / Explosive Payload / Firefly|tags:pve
+dimwishlist:item=291092617&perks=1840239774,1087426260,3038247973,3824105627
+
+// Smite of Merain (Harrowed) - King's Fall - PVE
+// Perks: Arrowhead Brake / Appended Mag / Demolitionist / Firefly
+// MW: Handling | Mod: Enhanced Handling
+//notes:Smite of Merain (Harrowed) | Source: King's Fall | Use: PVE | MW: Handling | Mod: Enhanced Handling | Origin: Runneth Over | Perks: Arrowhead Brake / Appended Mag / Demolitionist / Firefly|tags:pve
+dimwishlist:item=3407395594&perks=839105230,1087426260,3523296417,3824105627
+
+// Doom of Chelchis (Harrowed) - King's Fall - PVE
+// Perks: Fluted Barrel / Tactical Mag / Destabilizing Rounds / Unrelenting
+// MW: Handling | Mod: Tactical
+//notes:Doom of Chelchis (Harrowed) | Source: King's Fall | Use: PVE | MW: Handling | Mod: Tactical | Origin: Runneth Over | Perks: Fluted Barrel / Tactical Mag / Destabilizing Rounds / Unrelenting|tags:pve
+dimwishlist:item=1184692845&perks=1840239774,106909392,2048641572,3108830275
+
+// Defiance of Yasmin (Harrowed) - King's Fall - PVP
+// Perks: Corkscrew Rifling / Accurized Rounds / Snapshot Sights / Opening Shot
+// MW: Handling | Mod: Enhanced Handling
+//notes:Defiance of Yasmin (Harrowed) | Source: King's Fall | Use: PVP | MW: Handling | Mod: Enhanced Handling | Origin: Runneth Over | Perks: Corkscrew Rifling / Accurized Rounds / Snapshot Sights / Opening Shot|tags:pvp
+dimwishlist:item=3503019618&perks=4090651448,3142289711,957782887,47981717
+
+// Midha's Reckoning (Harrowed) - King's Fall - PVE
+// Perks: Arrowhead Brake / Enhanced Battery / Voltshot / Gear Shift
+// MW: Charge Time | Mod: Backup Mag
+//notes:Midha's Reckoning (Harrowed) | Source: King's Fall | Use: PVE | MW: Charge Time | Mod: Backup Mag | Origin: Runneth Over | Perks: Arrowhead Brake / Enhanced Battery / Voltshot / Gear Shift|tags:pve
+dimwishlist:item=3904516037&perks=839105230,2680121939,2173046394,654512643
+
+// Qullim's Terminus (Harrowed) - King's Fall - PVE
+// Perks: Fluted Barrel / Tactical Mag / Enlightened Action / Crystalline Corpsebloom
+// MW: Reload Speed | Mod: Backup Mag
+//notes:Qullim's Terminus (Harrowed) | Source: King's Fall | Use: PVE | MW: Reload Speed | Mod: Backup Mag | Origin: Runneth Over | Perks: Fluted Barrel / Tactical Mag / Enlightened Action / Crystalline Corpsebloom|tags:pve
+dimwishlist:item=3248429089&perks=1840239774,106909392,3828510309,2922950962
+
+// Rufus's Fury (Adept) - Root of Nightmares - PVP
+// Perks: Smallbore / High-Caliber Rounds / Keep Away / Tap the Trigger
+// MW: Range | Mod: Enhanced Range
+//notes:Rufus's Fury (Adept) | Source: Root of Nightmares | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Harmonic Resonance | Perks: Smallbore / High-Caliber Rounds / Keep Away / Tap the Trigger|tags:pvp
+dimwishlist:item=342514437&perks=1482024992,1561002382,3619207468,1890422124
+
+// Mykel's Reverence (Adept) - Root of Nightmares - PVP
+// Perks: Hammer-Forged Rifling / Ricochet Rounds / Rewind Rounds / Master of Arms
+// MW: Range | Mod: Enhanced Range
+//notes:Mykel's Reverence (Adept) | Source: Root of Nightmares | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Harmonic Resonance | Perks: Hammer-Forged Rifling / Ricochet Rounds / Rewind Rounds / Master of Arms|tags:pvp
+dimwishlist:item=1986287028&perks=3250034553,1885400500,3418782618,3081867624
+
+// Nessa's Oblation (Adept) - Root of Nightmares - PVE
+// Perks: Fluted Barrel / Assault Mag / Fourth Time's the Charm / Vorpal Weapon
+// MW: Range | Mod: Backup Mag
+//notes:Nessa's Oblation (Adept) | Source: Root of Nightmares | Use: PVE | MW: Range | Mod: Backup Mag | Origin: Harmonic Resonance | Perks: Fluted Barrel / Assault Mag / Fourth Time's the Charm / Vorpal Weapon|tags:pve
+dimwishlist:item=522366885&perks=1840239774,791862061,1354429876,1546637391
+
+// Acasia's Dejection (Adept) - Root of Nightmares - PVE
+// Perks: Fluted Barrel / Tactical Battery / Burning Ambition / Chaos Reshaped
+// MW: Handling | Mod: Backup Mag
+//notes:Acasia's Dejection (Adept) | Source: Root of Nightmares | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Harmonic Resonance | Perks: Fluted Barrel / Tactical Battery / Burning Ambition / Chaos Reshaped|tags:pve
+dimwishlist:item=3493494807&perks=1840239774,732557052,2890807135,3640170453
+
+// Koraxis's Distress (Adept) - Root of Nightmares - PVE
+// Perks: Quick Launch / Spike Grenades / Envious Arsenal / Bait and Switch
+// MW: Handling | Mod: Backup Mag
+//notes:Koraxis's Distress (Adept) | Source: Root of Nightmares | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Harmonic Resonance | Perks: Quick Launch / Spike Grenades / Envious Arsenal / Bait and Switch|tags:pve
+dimwishlist:item=495442100&perks=3525010810,3301904089,3987942396,3078487919
+
+// Briar's Contempt (Adept) - Root of Nightmares - PVE
+// Perks: Fluted Barrel / Ionized Battery / Rewind Rounds / Aggregate Charge
+// MW: Charge Time | Mod: Enhanced Charge Time
+//notes:Briar's Contempt (Adept) | Source: Root of Nightmares | Use: PVE | MW: Charge Time | Mod: Enhanced Charge Time | Origin: Harmonic Resonance | Perks: Fluted Barrel / Ionized Battery / Rewind Rounds / Aggregate Charge|tags:pve
+dimwishlist:item=2890082420&perks=1840239774,1483536627,3418782618,3764420437
+
+// Word of Crota (Adept) - Crota's End - PVE
+// Perks: Fluted Barrel / Flared Magwell / Dragonfly / Destabilizing Rounds
+// MW: Handling | Mod: Backup Mag
+//notes:Word of Crota (Adept) | Source: Crota's End | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Cursed Thrall | Perks: Fluted Barrel / Flared Magwell / Dragonfly / Destabilizing Rounds|tags:pve
+dimwishlist:item=3926103986&perks=1840239774,3230963543,2848615171,2048641572
+
+// Oversoul Edict (Adept) - Crota's End - PVP
+// Perks: Arrowhead Brake / Ricochet Rounds / Keep Away / Headseeker
+// MW: Range | Mod: Enhanced Range
+//notes:Oversoul Edict (Adept) | Source: Crota's End | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Cursed Thrall | Perks: Arrowhead Brake / Ricochet Rounds / Keep Away / Headseeker|tags:pvp
+dimwishlist:item=578105049&perks=839105230,1885400500,3619207468,460017080
+
+// Abyss Defiant (Adept) - Crota's End - PVE
+// Perks: Fluted Barrel / Flared Magwell / Stats for All / Sword Logic
+// MW: Handling | Mod: Backup Mag
+//notes:Abyss Defiant (Adept) | Source: Crota's End | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Cursed Thrall | Perks: Fluted Barrel / Flared Magwell / Stats for All / Sword Logic|tags:pve
+dimwishlist:item=3782662983&perks=1840239774,3230963543,1583705720,31345821
+
+// Fang of Ir Yût (Adept) - Crota's End - PVE
+// Perks: Fluted Barrel / Appended Mag / Surplus / Meganeura
+// MW: Handling | Mod: Tactical
+//notes:Fang of Ir Yût (Adept) | Source: Crota's End | Use: PVE | MW: Handling | Mod: Tactical | Origin: Cursed Thrall | Perks: Fluted Barrel / Appended Mag / Surplus / Meganeura|tags:pve
+dimwishlist:item=128782990&perks=1840239774,1087426260,3436462433,657025441
+
+// Swordbreaker (Adept) - Crota's End - PVE
+// Perks: Barrel Shroud / Assault Mag / Slice / Aggregate Charge
+// MW: Range | Mod: Backup Mag
+//notes:Swordbreaker (Adept) | Source: Crota's End | Use: PVE | MW: Range | Mod: Backup Mag | Origin: Cursed Thrall | Perks: Barrel Shroud / Assault Mag / Slice / Aggregate Charge|tags:pve
+dimwishlist:item=1239700299&perks=1300023272,791862061,923806249,3764420437
+
+// Song of Ir Yût (Adept) - Crota's End - PVE
+// Perks: Fluted Barrel / High-Caliber Rounds / Reconstruction / Sword Logic
+// MW: Handling | Mod: Backup Mag
+//notes:Song of Ir Yût (Adept) | Source: Crota's End | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Cursed Thrall | Perks: Fluted Barrel / High-Caliber Rounds / Reconstruction / Sword Logic|tags:pve
+dimwishlist:item=407511664&perks=1840239774,1561002382,1523832109,31345821
+
+// Imminence (Adept) - Salvation's Edge - PVE
+// Perks: Corkscrew Rifling / Flared Magwell / Enlightened Action / Chaos Reshaped
+// MW: Reload Speed | Mod: Backup Mag
+//notes:Imminence (Adept) | Source: Salvation's Edge | Use: PVE | MW: Reload Speed | Mod: Backup Mag | Origin: Collective Purpose | Perks: Corkscrew Rifling / Flared Magwell / Enlightened Action / Chaos Reshaped|tags:pve
+dimwishlist:item=3951511045&perks=4090651448,3230963543,3828510309,3640170453
+
+// Non-Denouement (Adept) - Salvation's Edge - PVE
+// Perks: Elastic String / Compact Arrow Shaft / Dragonfly / Voltshot
+// MW: Draw Time | Mod: Enhanced Draw Time
+//notes:Non-Denouement (Adept) | Source: Salvation's Edge | Use: PVE | MW: Draw Time | Mod: Enhanced Draw Time | Origin: Collective Purpose | Perks: Elastic String / Compact Arrow Shaft / Dragonfly / Voltshot|tags:pve
+dimwishlist:item=1039915310&perks=2801223209,16392701,2848615171,2173046394
+
+// Nullify (Adept) - Salvation's Edge - PVE
+// Perks: Fluted Barrel / Tactical Mag / Firefly / Sword Logic
+// MW: Handling | Mod: Backup Mag
+//notes:Nullify (Adept) | Source: Salvation's Edge | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Collective Purpose | Perks: Fluted Barrel / Tactical Mag / Firefly / Sword Logic|tags:pve
+dimwishlist:item=892183998&perks=1840239774,106909392,3824105627,31345821
+
+// Forthcoming Deviance (Adept) - Salvation's Edge - PVE
+// Perks: Auxiliary Reserves / Swap Mag / Repulsor Brace / Destabilizing Rounds
+// MW: Shield Duration | Mod: Enhanced Shield Duration
+//notes:Forthcoming Deviance (Adept) | Source: Salvation's Edge | Use: PVE | MW: Shield Duration | Mod: Enhanced Shield Duration | Origin: Collective Purpose | Perks: Auxiliary Reserves / Swap Mag / Repulsor Brace / Destabilizing Rounds|tags:pve
+dimwishlist:item=3123651616&perks=580685494,3721627275,776531651,2048641572
+
+// Critical Anomaly (Adept) - Salvation's Edge - PVE
+// Perks: Fluted Barrel / Tactical Mag / Rewind Rounds / Triple Tap
+// MW: Handling | Mod: Backup Mag
+//notes:Critical Anomaly (Adept) | Source: Salvation's Edge | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Collective Purpose | Perks: Fluted Barrel / Tactical Mag / Rewind Rounds / Triple Tap|tags:pve
+dimwishlist:item=172461430&perks=1840239774,106909392,3418782618,3400784728
+
+// Summum Bonum (Adept) - Salvation's Edge - PVE
+// Perks: Jagged Edge / Swordmaster's Guard / Attrition Orbs / Chaos Reshaped
+// MW: Impact | Mod: Enhanced Impact
+//notes:Summum Bonum (Adept) | Source: Salvation's Edge | Use: PVE | MW: Impact | Mod: Enhanced Impact | Origin: Collective Purpose | Perks: Jagged Edge / Swordmaster's Guard / Attrition Orbs / Chaos Reshaped|tags:pve
+dimwishlist:item=2001697739&perks=3666208348,269888150,243981275,3640170453
+
+// Vulpecula - The Shattered Throne - PVE
+// Perks: Fluted Barrel / Tactical Mag / Shoot to Loot / Explosive Payload
+// MW: Handling | Mod: Backup Mag
+//notes:Vulpecula | Source: The Shattered Throne | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Ignoble Deeds | Perks: Fluted Barrel / Tactical Mag / Shoot to Loot / Explosive Payload|tags:pve
+dimwishlist:item=1622998472&perks=1840239774,106909392,3700496672,3038247973
+
+// Fractethyst - The Shattered Throne - PVP
+// Perks: Barrel Shroud / Accurized Rounds / Quickdraw / Opening Shot
+// MW: Handling | Mod: Enhanced Range
+//notes:Fractethyst | Source: The Shattered Throne | Use: PVP | MW: Handling | Mod: Enhanced Range | Origin: Ignoble Deeds | Perks: Barrel Shroud / Accurized Rounds / Quickdraw / Opening Shot|tags:pvp
+dimwishlist:item=3184681056&perks=1300023272,3142289711,706527188,47981717
+
+// Canis Major - The Shattered Throne - PVE
+// Perks: Quick Launch / Spike Grenades / Reconstruction / Bait and Switch
+// MW: Handling | Mod: Backup Mag
+//notes:Canis Major | Source: The Shattered Throne | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Ignoble Deeds | Perks: Quick Launch / Spike Grenades / Reconstruction / Bait and Switch|tags:pve
+dimwishlist:item=2966714447&perks=3525010810,3301904089,1523832109,3078487919
+
+// Chrysura Melo - The Shattered Throne - PVE
+// Perks: Fluted Barrel / Tactical Mag / Physic / Attrition Orbs
+// MW: Handling | Mod: Backup Mag
+//notes:Chrysura Melo | Source: The Shattered Throne | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Ignoble Deeds | Perks: Fluted Barrel / Tactical Mag / Physic / Attrition Orbs|tags:pve
+dimwishlist:item=1750388538&perks=1840239774,106909392,2980589453,243981275
+
+// Premonition - Pit of Heresy - PVE
+// Perks: Arrowhead Brake / Appended Mag / Firefly / Destabilizing Rounds
+// MW: Handling | Mod: Tactical
+//notes:Premonition | Source: Pit of Heresy | Use: PVE | MW: Handling | Mod: Tactical | Origin: Loss | Perks: Arrowhead Brake / Appended Mag / Firefly / Destabilizing Rounds|tags:pve
+dimwishlist:item=1969802090&perks=839105230,1087426260,3824105627,2048641572
+
+// Heretic - Pit of Heresy - PVE
+// Perks: Quick Launch / Impact Casing / Supercharged Magazine / Gear Shift
+// MW: Handling | Mod: Enhanced Handling
+//notes:Heretic | Source: Pit of Heresy | Use: PVE | MW: Handling | Mod: Enhanced Handling | Origin: Loss | Perks: Quick Launch / Impact Casing / Supercharged Magazine / Gear Shift|tags:pve
+dimwishlist:item=2136808079&perks=3525010810,3796465595,1511100135,654512643
+
+// Blasphemer - Pit of Heresy - PVP
+// Perks: Fluted Barrel / Assault Mag / Threat Detector / Opening Shot
+// MW: Range | Mod: Enhanced Range
+//notes:Blasphemer | Source: Pit of Heresy | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Loss | Perks: Fluted Barrel / Assault Mag / Threat Detector / Opening Shot|tags:pvp
+dimwishlist:item=2782847179&perks=1840239774,791862061,4071163871,47981717
+
+// Apostate - Pit of Heresy - PVE
+// Perks: Corkscrew Rifling / Tactical Mag / Supercharged Magazine / Gear Shift
+// MW: Range | Mod: Backup Mag
+//notes:Apostate | Source: Pit of Heresy | Use: PVE | MW: Range | Mod: Backup Mag | Origin: Loss | Perks: Corkscrew Rifling / Tactical Mag / Supercharged Magazine / Gear Shift|tags:pve
+dimwishlist:item=846241149&perks=4090651448,106909392,1511100135,654512643
+
+// Judgment - Prophecy - PVP
+// Perks: Smallbore / Accurized Rounds / Rapid Hit / Timed Payload
+// MW: Range | Mod: Ballistics
+//notes:Judgment | Source: Prophecy | Use: PVP | MW: Range | Mod: Ballistics | Origin: Crossing Over | Perks: Smallbore / Accurized Rounds / Rapid Hit / Timed Payload|tags:pvp
+dimwishlist:item=1567585973&perks=1482024992,3142289711,247725512,1954620775
+
+// Darkest Before - Prophecy - PVP
+// Perks: Hammer-Forged Rifling / Ricochet Rounds / Elemental Capacitor / Kill Clip
+// MW: Range | Mod: Counterbalance Stock
+//notes:Darkest Before | Source: Prophecy | Use: PVP | MW: Range | Mod: Counterbalance Stock | Origin: Crossing Over | Perks: Hammer-Forged Rifling / Ricochet Rounds / Elemental Capacitor / Kill Clip|tags:pvp
+dimwishlist:item=435821040&perks=3250034553,1885400500,3511092054,1015611457
+
+// Prosecutor - Prophecy - PVP
+// Perks: Arrowhead Brake / Ricochet Rounds / Enlightened Action / Sword Logic
+// MW: Range | Mod: Ballistics
+//notes:Prosecutor | Source: Prophecy | Use: PVP | MW: Range | Mod: Ballistics | Origin: Crossing Over | Perks: Arrowhead Brake / Ricochet Rounds / Enlightened Action / Sword Logic|tags:pvp
+dimwishlist:item=1091550016&perks=839105230,1885400500,3828510309,31345821
+
+// Adjudicator - Prophecy - PVE
+// Perks: Fluted Barrel / Tactical Mag / Attrition Orbs / Kinetic Tremors
+// MW: Reload Speed | Mod: Enhanced Reload
+//notes:Adjudicator | Source: Prophecy | Use: PVE | MW: Reload Speed | Mod: Enhanced Reload | Origin: Crossing Over | Perks: Fluted Barrel / Tactical Mag / Attrition Orbs / Kinetic Tremors|tags:pve
+dimwishlist:item=140914741&perks=1840239774,106909392,243981275,3891536761
+
+// Relentless - Prophecy - PVP
+// Perks: Fluted Barrel / Appended Mag / Firefly / Paracausal Affinity
+// MW: Reload Speed | Mod: Backup Mag
+//notes:Relentless | Source: Prophecy | Use: PVP | MW: Reload Speed | Mod: Backup Mag | Origin: Crossing Over | Perks: Fluted Barrel / Appended Mag / Firefly / Paracausal Affinity|tags:pvp
+dimwishlist:item=3733988413&perks=1840239774,1087426260,3824105627,3215448563
+
+// A Sudden Death - Prophecy - PVP
+// Perks: Corkscrew Rifling / Accurized Rounds / Slideshot / Opening Shot
+// MW: Range | Mod: Enhanced Range
+//notes:A Sudden Death | Source: Prophecy | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Crossing Over | Perks: Corkscrew Rifling / Accurized Rounds / Slideshot / Opening Shot|tags:pvp
+dimwishlist:item=4097972038&perks=4090651448,3142289711,3161816588,47981717
+
+// Eyasluna - Grasp of Avarice - PVP
+// Perks: Hammer-Forged Rifling / Accurized Rounds / Slideshot / Precision Instrument
+// MW: Range | Mod: Enhanced Range
+//notes:Eyasluna | Source: Grasp of Avarice | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Unburied Treasure | Perks: Hammer-Forged Rifling / Accurized Rounds / Slideshot / Precision Instrument|tags:pvp
+dimwishlist:item=386864872&perks=3250034553,3142289711,3161816588,555281244
+
+// 1000 Yard Stare - Grasp of Avarice - PVP
+// Perks: Corkscrew Rifling / Accurized Rounds / Lone Wolf / Snapshot Sights
+// MW: Handling | Mod: Enhanced Handling
+//notes:1000 Yard Stare | Source: Grasp of Avarice | Use: PVP | MW: Handling | Mod: Enhanced Handling | Origin: Unburied Treasure | Perks: Corkscrew Rifling / Accurized Rounds / Lone Wolf / Snapshot Sights|tags:pvp
+dimwishlist:item=1648948519&perks=4090651448,3142289711,2579169598,957782887
+
+// Matador 64 - Grasp of Avarice - PVP
+// Perks: Barrel Shroud / Assault Mag / Threat Detector / Opening Shot
+// MW: Range | Mod: Enhanced Quick Access Sling
+//notes:Matador 64 | Source: Grasp of Avarice | Use: PVP | MW: Range | Mod: Enhanced Quick Access Sling | Origin: Unburied Treasure | Perks: Barrel Shroud / Assault Mag / Threat Detector / Opening Shot|tags:pvp
+dimwishlist:item=2563012876&perks=1300023272,791862061,4071163871,47981717
+
+// Hero of Ages - Grasp of Avarice - PVE
+// Perks: Tempered Edge / Swordmaster's Guard / Impromptu Ammo / Jolting Feedback
+// MW: Impact | Mod: Synergy
+//notes:Hero of Ages | Source: Grasp of Avarice | Use: PVE | MW: Impact | Mod: Synergy | Origin: Unburied Treasure | Perks: Tempered Edge / Swordmaster's Guard / Impromptu Ammo / Jolting Feedback|tags:pve
+dimwishlist:item=944708986&perks=938542991,269888150,2360347339,3966416502
+
+// Unforgiven - Duality - PVE
+// Perks: Fluted Barrel / Flared Magwell / Destabilizing Rounds / Chaos Reshaped
+// MW: Reload Speed | Mod: Enhanced Reload
+//notes:Unforgiven | Source: Duality | Use: PVE | MW: Reload Speed | Mod: Enhanced Reload | Origin: Bitterspite | Perks: Fluted Barrel / Flared Magwell / Destabilizing Rounds / Chaos Reshaped|tags:pve
+dimwishlist:item=234411205&perks=1840239774,3230963543,2048641572,3640170453
+
+// New Purpose - Duality - PVE
+// Perks: Arrowhead Brake / Tactical Mag / Rapid Hit / Meganeura
+// MW: Handling | Mod: Enhanced Handling
+//notes:New Purpose | Source: Duality | Use: PVE | MW: Handling | Mod: Enhanced Handling | Origin: Bitterspite | Perks: Arrowhead Brake / Tactical Mag / Rapid Hit / Meganeura|tags:pve
+dimwishlist:item=1400385226&perks=839105230,106909392,247725512,657025441
+
+// Lingering Dread - Duality - PVE
+// Perks: Quick Launch / High-Velocity Rounds / Subsistence / Chain Reaction
+// MW: Handling | Mod: Enhanced Reload
+//notes:Lingering Dread | Source: Duality | Use: PVE | MW: Handling | Mod: Enhanced Reload | Origin: Bitterspite | Perks: Quick Launch / High-Velocity Rounds / Subsistence / Chain Reaction|tags:pve
+dimwishlist:item=1745368385&perks=3525010810,2822142346,1820235745,2396489472
+
+// Stormchaser - Duality - PVE
+// Perks: Arrowhead Brake / Projection Fuse / Supercharged Magazine / Gear Shift
+// MW: Charge Time | Mod: Enhanced Charge Time
+//notes:Stormchaser | Source: Duality | Use: PVE | MW: Charge Time | Mod: Enhanced Charge Time | Origin: Bitterspite | Perks: Arrowhead Brake / Projection Fuse / Supercharged Magazine / Gear Shift|tags:pve
+dimwishlist:item=2862666249&perks=839105230,2969185026,1511100135,654512643
+
+// Long Arm - Spire of the Watcher - PVE
+// Perks: Fluted Barrel / Tactical Mag / Dual Loader / Redirection
+// MW: Reload Speed | Mod: Enhanced Reload
+//notes:Long Arm | Source: Spire of the Watcher | Use: PVE | MW: Reload Speed | Mod: Enhanced Reload | Origin: Tex Balanced Stock | Perks: Fluted Barrel / Tactical Mag / Dual Loader / Redirection|tags:pve
+dimwishlist:item=4249949938&perks=1840239774,106909392,25606670,3201496230
+
+// Liminal Vigil - Spire of the Watcher - PVE
+// Perks: Corkscrew Rifling / Appended Mag / Attrition Orbs / Frenzy
+// MW: Range | Mod: Backup Mag
+//notes:Liminal Vigil | Source: Spire of the Watcher | Use: PVE | MW: Range | Mod: Backup Mag | Origin: Tex Balanced Stock | Perks: Corkscrew Rifling / Appended Mag / Attrition Orbs / Frenzy|tags:pve
+dimwishlist:item=355893876&perks=4090651448,1087426260,243981275,4104185692
+
+// Wilderflight - Spire of the Watcher - PVE
+// Perks: Quick Launch / Spike Grenades / Envious Arsenal / Bait and Switch
+// MW: Handling | Mod: Quick Access Sling
+//notes:Wilderflight | Source: Spire of the Watcher | Use: PVE | MW: Handling | Mod: Quick Access Sling | Origin: Tex Balanced Stock | Perks: Quick Launch / Spike Grenades / Envious Arsenal / Bait and Switch|tags:pve
+dimwishlist:item=1206729100&perks=3525010810,3301904089,3987942396,3078487919
+
+// Terminus Horizon - Spire of the Watcher - PVE
+// Perks: Fluted Barrel / Appended Mag / Reconstruction / Jolting Feedback
+// MW: Handling | Mod: Backup Mag
+//notes:Terminus Horizon | Source: Spire of the Watcher | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Tex Balanced Stock | Perks: Fluted Barrel / Appended Mag / Reconstruction / Jolting Feedback|tags:pve
+dimwishlist:item=3984556130&perks=1840239774,1087426260,1523832109,3966416502
+
+// No Survivors - Ghosts of the Deep - PVP
+// Perks: Hammer-Forged Rifling / Ricochet Rounds / Rangefinder / Zen Moment
+// MW: Range | Mod: Ballistics
+//notes:No Survivors | Source: Ghosts of the Deep | Use: PVP | MW: Range | Mod: Ballistics | Origin: Restoration Ritual | Perks: Hammer-Forged Rifling / Ricochet Rounds / Rangefinder / Zen Moment|tags:pvp
+dimwishlist:item=4228149269&perks=3250034553,1885400500,2846385770,2387244414
+
+// New Pacific Epitaph - Ghosts of the Deep - PVE
+// Perks: Quick Launch / High-Velocity Rounds / Chain Reaction / Redirection
+// MW: Reload Speed | Mod: Tactical
+//notes:New Pacific Epitaph | Source: Ghosts of the Deep | Use: PVE | MW: Reload Speed | Mod: Tactical | Origin: Restoration Ritual | Perks: Quick Launch / High-Velocity Rounds / Chain Reaction / Redirection|tags:pve
+dimwishlist:item=2059741649&perks=3525010810,2822142346,2396489472,3201496230
+
+// Greasy Luck - Ghosts of the Deep - PVE
+// Perks: Supercooled Accelerator / Light Mag / Chaos Reshaped / Mega Kill Clip
+// MW: Reload Speed | Mod: Enhanced Shield Duration
+//notes:Greasy Luck | Source: Ghosts of the Deep | Use: PVE | MW: Reload Speed | Mod: Enhanced Shield Duration | Origin: Restoration Ritual | Perks: Supercooled Accelerator / Light Mag / Chaos Reshaped / Mega Kill Clip|tags:pve
+dimwishlist:item=4274165888&perks=1934171651,679225683,3640170453,2305480722
+
+// Cold Comfort - Ghosts of the Deep - PVE
+// Perks: Quick Launch / Impact Casing / Vorpal Weapon / Bipod
+// MW: Handling | Mod: Reload Speed
+//notes:Cold Comfort | Source: Ghosts of the Deep | Use: PVE | MW: Handling | Mod: Reload Speed | Origin: Restoration Ritual | Perks: Quick Launch / Impact Casing / Vorpal Weapon / Bipod|tags:pve
+dimwishlist:item=2287287549&perks=3525010810,3796465595,1546637391,1439600632
+
+// Vengeful Whisper - Warlord's Ruin - PVE
+// Perks: Elastic String / Compact Arrow Shaft / Explosive Head / Meganeura
+// MW: Draw Time | Mod: Enhanced Draw Time
+//notes:Vengeful Whisper | Source: Warlord's Ruin | Use: PVE | MW: Draw Time | Mod: Enhanced Draw Time | Origin: Sundering | Perks: Elastic String / Compact Arrow Shaft / Explosive Head / Meganeura|tags:pve
+dimwishlist:item=1054567917&perks=2801223209,16392701,3365897133,657025441
+
+// Indebted Kindness - Warlord's Ruin - PVE
+// Perks: Quick Launch / High-Explosive Ordnance / Air Trigger / Chain Reaction
+// MW: Reload Speed | Mod: Backup Mag
+//notes:Indebted Kindness | Source: Warlord's Ruin | Use: PVE | MW: Reload Speed | Mod: Backup Mag | Origin: Sundering | Perks: Quick Launch / High-Explosive Ordnance / Air Trigger / Chain Reaction|tags:pve
+dimwishlist:item=2554513694&perks=3525010810,1380253176,1421772400,2396489472
+
+// Naeem's Lance - Warlord's Ruin - PVE
+// Perks: Fluted Barrel / Tactical Mag / Rewind Rounds / Elemental Honing
+// MW: Reload Speed | Mod: Counterbalance Stock
+//notes:Naeem's Lance | Source: Warlord's Ruin | Use: PVE | MW: Reload Speed | Mod: Counterbalance Stock | Origin: Sundering | Perks: Fluted Barrel / Tactical Mag / Rewind Rounds / Elemental Honing|tags:pve
+dimwishlist:item=4119503981&perks=1840239774,106909392,3418782618,1089671869
+
+// Dragoncult Sickle - Warlord's Ruin - PVE
+// Perks: Jagged Edge / Swordmaster's Guard / Slice / Attrition Orbs
+// MW: Impact | Mod: Backup Mag
+//notes:Dragoncult Sickle | Source: Warlord's Ruin | Use: PVE | MW: Impact | Mod: Backup Mag | Origin: Sundering | Perks: Jagged Edge / Swordmaster's Guard / Slice / Attrition Orbs|tags:pve
+dimwishlist:item=3668817296&perks=3666208348,269888150,923806249,243981275
+
+// VS Pyroelectric Propellant - Vesper's Host - PVE
+// Perks: Hammer-Forged Rifling / Ricochet Rounds / Zen Moment / Gear Shift
+// MW: Range | Mod: Enhanced Range
+//notes:VS Pyroelectric Propellant | Source: Vesper's Host | Use: PVE | MW: Range | Mod: Enhanced Range | Origin: Bray Legacy | Perks: Hammer-Forged Rifling / Ricochet Rounds / Zen Moment / Gear Shift|tags:pve
+dimwishlist:item=2460368549&perks=3250034553,1885400500,2387244414,654512643
+
+// VS Velocity Baton - Vesper's Host - PVE
+// Perks: Quick Launch / High-Velocity Rounds / Reconstruction / Attrition Orbs
+// MW: Reload Speed | Mod: Tactcial
+//notes:VS Velocity Baton | Source: Vesper's Host | Use: PVE | MW: Reload Speed | Mod: Tactcial | Origin: Bray Legacy | Perks: Quick Launch / High-Velocity Rounds / Reconstruction / Attrition Orbs|tags:pve
+dimwishlist:item=2452936816&perks=3525010810,2822142346,1523832109,243981275
+
+// VS Gravitic Arrest - Vesper's Host - PVP
+// Perks: Hammer-Forged Rifling / Projection Fuse / Under Pressure / Closing Time
+// MW: Range | Mod: Ballistics
+//notes:VS Gravitic Arrest | Source: Vesper's Host | Use: PVP | MW: Range | Mod: Ballistics | Origin: Bray Legacy | Perks: Hammer-Forged Rifling / Projection Fuse / Under Pressure / Closing Time|tags:pvp
+dimwishlist:item=93061497&perks=3250034553,2969185026,1645158859,1194056669
+
+// VS Chill Inhibitor - Vesper's Host - PVE
+// Perks: Quick Launch / Spike Grenades / Envious Arsenal / Bait and Switch
+// MW: Handling | Mod: Backup Mag
+//notes:VS Chill Inhibitor | Source: Vesper's Host | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Bray Legacy | Perks: Quick Launch / Spike Grenades / Envious Arsenal / Bait and Switch|tags:pve
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3987942396,3078487919
+
+// Unloved - Sundered Doctrine - PVE
+// Perks: Fluted Barrel / Appended Mag / Dragonfly / Frenzy
+// MW: Handling | Mod: Backup Mag
+//notes:Unloved | Source: Sundered Doctrine | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Subjugation | Perks: Fluted Barrel / Appended Mag / Dragonfly / Frenzy|tags:pve
+dimwishlist:item=2485881870&perks=1840239774,1087426260,2848615171,4104185692
+
+// Unworthy - Sundered Doctrine - PVE
+// Perks: Fluted Barrel / Appended Mag / Firefly / Voltshot
+// MW: Handling | Mod: Tactical
+//notes:Unworthy | Source: Sundered Doctrine | Use: PVE | MW: Handling | Mod: Tactical | Origin: Subjugation | Perks: Fluted Barrel / Appended Mag / Firefly / Voltshot|tags:pve
+dimwishlist:item=2226158470&perks=1840239774,1087426260,3824105627,2173046394
+
+// Unsworn - Sundered Doctrine - PVE
+// Perks: Fluted Barrel / Enhanced Battery / Shoot to Loot / Chaos Reshaped
+// MW: Reload Speed | Mod: Abundant Ammo
+//notes:Unsworn | Source: Sundered Doctrine | Use: PVE | MW: Reload Speed | Mod: Abundant Ammo | Origin: Subjugation | Perks: Fluted Barrel / Enhanced Battery / Shoot to Loot / Chaos Reshaped|tags:pve
+dimwishlist:item=3462679024&perks=1840239774,2680121939,3700496672,3640170453
+
+// Unvoiced - Sundered Doctrine - PVE
+// Perks: Fluted Barrel / Assault Mag / Envious Arsenal / Bait and Switch
+// MW: Range | Mod: Backup Mag
+//notes:Unvoiced | Source: Sundered Doctrine | Use: PVE | MW: Range | Mod: Backup Mag | Origin: Subjugation | Perks: Fluted Barrel / Assault Mag / Envious Arsenal / Bait and Switch|tags:pve
+dimwishlist:item=3360937899&perks=1840239774,791862061,3987942396,3078487919
+
+// TAHOMA 01 - Distortions - PVE
+// Perks: Fluted Barrel / Enhanced Battery / Overflow / Rampage
+// MW: Charge Time | Mod: Enhanced Charge Time
+//notes:TAHOMA 01 | Source: Distortions | Use: PVE | MW: Charge Time | Mod: Enhanced Charge Time | Origin: Carrion Munitions | Perks: Fluted Barrel / Enhanced Battery / Overflow / Rampage|tags:pve
+dimwishlist:item=1225851434&perks=1840239774,2680121939,3643424744,3425386926
+
+// DECATUR 02 - Distortions - PVE
+// Perks: Fluted Barrel / Alloy Magazine / Physic / Reciprocity
+// MW: Reload Speed | Mod: Enhanced Reload
+//notes:DECATUR 02 | Source: Distortions | Use: PVE | MW: Reload Speed | Mod: Enhanced Reload | Origin: Carrion Munitions | Perks: Fluted Barrel / Alloy Magazine / Physic / Reciprocity|tags:pve
+dimwishlist:item=1850748385&perks=1840239774,1431678320,2980589453,692399809
+
+// IRONWOOD 03 - Distortions - PVE
+// Perks: Barrel Shroud / Tactical Mag / Repulsor Brace / Destabilizing Rounds
+// MW: Reload Speed | Mod: Enhanced Reload
+//notes:IRONWOOD 03 | Source: Distortions | Use: PVE | MW: Reload Speed | Mod: Enhanced Reload | Origin: Carrion Munitions | Perks: Barrel Shroud / Tactical Mag / Repulsor Brace / Destabilizing Rounds|tags:pve
+dimwishlist:item=2041617874&perks=1300023272,106909392,776531651,2048641572
+
+// DEADHORSE 04 - Distortions - PVE
+// Perks: Fluted Barrel / Appended Mag / Rimestealer / Crystalline Corpsebloom
+// MW: Reload Speed | Mod: Synergy
+//notes:DEADHORSE 04 | Source: Distortions | Use: PVE | MW: Reload Speed | Mod: Synergy | Origin: Carrion Munitions | Perks: Fluted Barrel / Appended Mag / Rimestealer / Crystalline Corpsebloom|tags:pve
+dimwishlist:item=822872238&perks=1840239774,1087426260,1955165503,2922950962
+
+// ALLEN 05 - Distortions - PVE
+// Perks: Fluted Barrel / Tactical Mag / Tear / Butterfly
+// MW: Handling | Mod: Enhanced Backup Mag
+//notes:ALLEN 05 | Source: Distortions | Use: PVE | MW: Handling | Mod: Enhanced Backup Mag | Origin: Carrion Munitions | Perks: Fluted Barrel / Tactical Mag / Tear / Butterfly|tags:pve
+dimwishlist:item=423677697&perks=1840239774,106909392,960997401,198336270
+
+// DIABLERETS 06 - Distortions - PVE
+// Perks: Fluted Barrel / High-Caliber Rounds / Subsistence / Meganeura
+// MW: Handling | Mod: Bandolier
+//notes:DIABLERETS 06 | Source: Distortions | Use: PVE | MW: Handling | Mod: Bandolier | Origin: Carrion Munitions | Perks: Fluted Barrel / High-Caliber Rounds / Subsistence / Meganeura|tags:pve
+dimwishlist:item=1120206506&perks=1840239774,1561002382,1820235745,657025441
+
+// Seventh Seraph Carbine - Cosmodrome - PVP
+// Perks: Smallbore / Seraph Rounds / Dynamic Sway Reduction / Kinetic Tremors
+// MW: Range | Mod: Ballistics
+//notes:Seventh Seraph Carbine | Source: Cosmodrome | Use: PVP | MW: Range | Mod: Ballistics | Origin: Rasputin's Arsenal | Perks: Smallbore / Seraph Rounds / Dynamic Sway Reduction / Kinetic Tremors|tags:pvp
+dimwishlist:item=2560370239&perks=1482024992,1140096971,1359896290,3891536761
+
+// Seventh Seraph Officer Revolver - Cosmodrome - PVE
+// Perks: Fluted Barrel / Tactical Mag / Bewildering Burst / Frenzy
+// MW: Handling | Mod: Backup Mag
+//notes:Seventh Seraph Officer Revolver | Source: Cosmodrome | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Eyes Up | Perks: Fluted Barrel / Tactical Mag / Bewildering Burst / Frenzy|tags:pve
+dimwishlist:item=3490736392&perks=1840239774,106909392,2289534249,4104185692
+
+// Seventh Seraph SI-2 - Cosmodrome - PVE
+// Perks: Fluted Barrel / Tactical Mag / Destabilizing Rounds / Demoralize
+// MW: Reload Speed | Mod: Backup Mag
+//notes:Seventh Seraph SI-2 | Source: Cosmodrome | Use: PVE | MW: Reload Speed | Mod: Backup Mag | Origin: Rasputin's Arsenal | Perks: Fluted Barrel / Tactical Mag / Destabilizing Rounds / Demoralize|tags:pve
+dimwishlist:item=453798564&perks=1840239774,106909392,2048641572,1464081238
+
+// Seventh Seraph VY-7 - Cosmodrome - PVE
+// Perks: Fluted Barrel / Flared Magwell / Ambitious Assassin / Frenzy
+// MW: Reload Speed | Mod: Backup Mag
+//notes:Seventh Seraph VY-7 | Source: Cosmodrome | Use: PVE | MW: Reload Speed | Mod: Backup Mag | Origin: Eyes Up | Perks: Fluted Barrel / Flared Magwell / Ambitious Assassin / Frenzy|tags:pve
+dimwishlist:item=1719169808&perks=1840239774,3230963543,2010801679,4104185692
+
+// Seventh Seraph CQC-12 - Cosmodrome - PVP
+// Perks: Barrel Shroud / Accurized Rounds / Quickdraw / Snapshot Sights
+// MW: Range | Mod: Enhanced Range
+//notes:Seventh Seraph CQC-12 | Source: Cosmodrome | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Rasputin's Arsenal | Perks: Barrel Shroud / Accurized Rounds / Quickdraw / Snapshot Sights|tags:pvp
+dimwishlist:item=1821724780&perks=1300023272,3142289711,706527188,957782887
+
+// Seventh Seraph SAW - Cosmodrome - PVE
+// Perks: Fluted Barrel / Tactical Mag / Collective Demolition / Killing Tally
+// MW: Handling | Mod: Synergy
+//notes:Seventh Seraph SAW | Source: Cosmodrome | Use: PVE | MW: Handling | Mod: Synergy | Origin: Rasputin's Arsenal | Perks: Fluted Barrel / Tactical Mag / Collective Demolition / Killing Tally|tags:pve
+dimwishlist:item=2584201248&perks=1840239774,106909392,4019266109,557221067
+
+// Battle Scar - EDZ - PVE
+// Perks: Fluted Barrel / Tactical Mag / Shoot to Loot / All-Star
+// MW: Handling | Mod: Abundant Ammo
+//notes:Battle Scar | Source: EDZ | Use: PVE | MW: Handling | Mod: Abundant Ammo | Origin: Veteran's Wisdom | Perks: Fluted Barrel / Tactical Mag / Shoot to Loot / All-Star|tags:pve
+dimwishlist:item=1525080480&perks=1840239774,106909392,3700496672,1226351311
+
+// Scathelocke - EDZ - PVE
+// Perks: Fluted Barrel / Flared Magwell / Attrition Orbs / All-Star
+// MW: Handling | Mod: Backup Mag
+//notes:Scathelocke | Source: EDZ | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Veteran's Wisdom | Perks: Fluted Barrel / Flared Magwell / Attrition Orbs / All-Star|tags:pve
+dimwishlist:item=3332538050&perks=1840239774,3230963543,243981275,1226351311
+
+// Parabellum - EDZ - PVE
+// Perks: Fluted Barrel / Tactical Mag / Heal Clip / Attrition Orbs
+// MW: Reload Speed | Mod: Tactical
+//notes:Parabellum | Source: EDZ | Use: PVE | MW: Reload Speed | Mod: Tactical | Origin: Veteran's Wisdom | Perks: Fluted Barrel / Tactical Mag / Heal Clip / Attrition Orbs|tags:pve
+dimwishlist:item=3926811686&perks=1840239774,106909392,3017780555,243981275
+
+// Cartesian Coordinate - EDZ - PVP
+// Perks: Hammer-Forged Rifling / Projection Fuse / Under Pressure / Successful Warm-Up
+// MW: Range | Mod: Enhanced Charge Time
+//notes:Cartesian Coordinate | Source: EDZ | Use: PVP | MW: Range | Mod: Enhanced Charge Time | Origin: Field-Tested | Perks: Hammer-Forged Rifling / Projection Fuse / Under Pressure / Successful Warm-Up|tags:pvp
+dimwishlist:item=3719824177&perks=3250034553,2969185026,1645158859,2652708987
+
+// Last Foray - EDZ - PVE
+// Perks: Fluted Barrel / Tactical Mag / Rewind Rounds / Triple Tap
+// MW: Handling | Mod: Backup Mag
+//notes:Last Foray | Source: EDZ | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Field-Tested | Perks: Fluted Barrel / Tactical Mag / Rewind Rounds / Triple Tap|tags:pve
+dimwishlist:item=4118936670&perks=1840239774,106909392,3418782618,3400784728
+
+// Nasreddin - EDZ - PVE
+// Perks: Jagged Edge / Swordmaster's Guard / Sharp Harvest / One for All
+// MW: Impact | Mod: Backup Mag
+//notes:Nasreddin | Source: EDZ | Use: PVE | MW: Impact | Mod: Backup Mag | Origin: Veteran's Wisdom | Perks: Jagged Edge / Swordmaster's Guard / Sharp Harvest / One for All|tags:pve
+dimwishlist:item=1979417829&perks=3666208348,269888150,4132187021,4049631843
+
+// Loud Lullaby - Moon - PVP
+// Perks: Fluted Barrel / Accurized Rounds / Slideshot / Precision Instrument
+// MW: Range | Mod: Ballistics
+//notes:Loud Lullaby | Source: Moon | Use: PVP | MW: Range | Mod: Ballistics | Origin: Loss | Perks: Fluted Barrel / Accurized Rounds / Slideshot / Precision Instrument|tags:pvp
+dimwishlist:item=868076517&perks=1840239774,3142289711,3161816588,555281244
+
+// One Small Step - Moon - PVE
+// Perks: Barrel Shroud / Tactical Mag / Proximity Power / Swashbuckler
+// MW: Range | Mod: Tactical
+//notes:One Small Step | Source: Moon | Use: PVE | MW: Range | Mod: Tactical | Origin: Loss | Perks: Barrel Shroud / Tactical Mag / Proximity Power / Swashbuckler|tags:pve
+dimwishlist:item=2527058296&perks=1300023272,106909392,4190679284,4082225868
+
+// Tranquility - Moon - PVE
+// Perks: Fluted Barrel / Tactical Mag / Rewind Rounds / Elemental Honing
+// MW: Handling | Mod: Backup Mag
+//notes:Tranquility | Source: Moon | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Loss | Perks: Fluted Barrel / Tactical Mag / Rewind Rounds / Elemental Honing|tags:pve
+dimwishlist:item=846241148&perks=1840239774,106909392,3418782618,1089671869
+
+// Arc Logic - Moon - PVP
+// Perks: Fluted Barrel / Accurized Rounds / Keep Away / Gear Shift
+// MW: Range | Mod: Enhanced Range
+//notes:Arc Logic | Source: Moon | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Loss | Perks: Fluted Barrel / Accurized Rounds / Keep Away / Gear Shift|tags:pvp
+dimwishlist:item=38064944&perks=1840239774,3142289711,3619207468,654512643
+
+// Dream Breaker - Moon - PVP
+// Perks: Smallbore / Projection Fuse / Under Pressure / Lone Wolf
+// MW: Charge Time | Mod: Enhanced Range
+//notes:Dream Breaker | Source: Moon | Use: PVP | MW: Charge Time | Mod: Enhanced Range | Origin: Loss | Perks: Smallbore / Projection Fuse / Under Pressure / Lone Wolf|tags:pvp
+dimwishlist:item=219610523&perks=1482024992,2969185026,1645158859,2579169598
+
+// Every Waking Moment - Moon - PVP
+// Perks: Fluted Barrel / Ricochet Rounds / Rangefinder / Target Lock
+// MW: Range | Mod: Enhanced Range
+//notes:Every Waking Moment | Source: Moon | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Loss | Perks: Fluted Barrel / Ricochet Rounds / Rangefinder / Target Lock|tags:pvp
+dimwishlist:item=1487476133&perks=1840239774,1885400500,2846385770,365154968
+
+// Love and Death - Moon - PVE
+// Perks: Quick Launch / High-Velocity Rounds / Envious Arsenal / Bait and Switch
+// MW: Blast Radius | Mod: Backup Mag
+//notes:Love and Death | Source: Moon | Use: PVE | MW: Blast Radius | Mod: Backup Mag | Origin: Loss | Perks: Quick Launch / High-Velocity Rounds / Envious Arsenal / Bait and Switch|tags:pve
+dimwishlist:item=3482299617&perks=3525010810,2822142346,3987942396,3078487919
+
+// A Fine Memorial - Moon - PVE
+// Perks: Fluted Barrel / Appended Mag / Eddy Current / Mega Kill Clip
+// MW: Handling | Mod: Backup Mag
+//notes:A Fine Memorial | Source: Moon | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Loss | Perks: Fluted Barrel / Appended Mag / Eddy Current / Mega Kill Clip|tags:pve
+dimwishlist:item=3211332727&perks=1840239774,1087426260,684456054,2305480722
+
+// Night Terror - Moon - PVE
+// Perks: Honed Edge / Swordmaster's Guard / Eager Edge / Gear Shift
+// MW: Impact | Mod: Backup Mag
+//notes:Night Terror | Source: Moon | Use: PVE | MW: Impact | Mod: Backup Mag | Origin: Loss | Perks: Honed Edge / Swordmaster's Guard / Eager Edge / Gear Shift|tags:pve
+dimwishlist:item=2729232863&perks=2827049491,269888150,2077819806,654512643
+
+// True Prophecy - Nessus - PVP
+// Perks: Fluted Barrel / Accurized Rounds / Lone Wolf / Precision Instrument
+// MW: Handling | Mod: Ballistics
+//notes:True Prophecy | Source: Nessus | Use: PVP | MW: Handling | Mod: Ballistics | Origin: Fail-deadly | Perks: Fluted Barrel / Accurized Rounds / Lone Wolf / Precision Instrument|tags:pvp
+dimwishlist:item=960948343&perks=1840239774,3142289711,2579169598,555281244
+
+// Pluperfect - Nessus - PVE
+// Perks: Fluted Barrel / Flared Magwell / Stopping Power / All-Star
+// MW: Handling | Mod: Backup Mag
+//notes:Pluperfect | Source: Nessus | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Fail-deadly | Perks: Fluted Barrel / Flared Magwell / Stopping Power / All-Star|tags:pve
+dimwishlist:item=2203881482&perks=1840239774,3230963543,1517798362,1226351311
+
+// Trophy Hunter - Nessus - PVE
+// Perks: Fluted Barrel / Tactical Mag / Auto-Loading Holster / Withering Gaze
+// MW: Handling | Mod: Enhanced Handling
+//notes:Trophy Hunter | Source: Nessus | Use: PVE | MW: Handling | Mod: Enhanced Handling | Origin: Fail-deadly | Perks: Fluted Barrel / Tactical Mag / Auto-Loading Holster / Withering Gaze|tags:pve
+dimwishlist:item=2566169398&perks=1840239774,106909392,3300816228,1134488199
+
+// The Deicide - Nessus - PVE
+// Perks: Full Choke / Appended Mag / Auto-Loading Holster / One-Two Punch
+// MW: Handling | Mod: Tactical
+//notes:The Deicide | Source: Nessus | Use: PVE | MW: Handling | Mod: Tactical | Origin: Fail-deadly | Perks: Full Choke / Appended Mag / Auto-Loading Holster / One-Two Punch|tags:pve
+dimwishlist:item=1517780158&perks=1047830412,1087426260,3300816228,2679249093
+
+// Pyroclastic Flow - Nessus - PVE
+// Perks: Quick Launch / Impact Casing / Cluster Bomb / Bipod
+// MW: Reload Speed | Mod: Enhanced Reload
+//notes:Pyroclastic Flow | Source: Nessus | Use: PVE | MW: Reload Speed | Mod: Enhanced Reload | Origin: Fail-deadly | Perks: Quick Launch / Impact Casing / Cluster Bomb / Bipod|tags:pve
+dimwishlist:item=3161496501&perks=3525010810,3796465595,1275731761,1439600632
+
+// Temporal Clause - Nessus - PVE
+// Perks: Fluted Barrel / Appended Mag / Enlightened Action / Mega Kill Clip
+// MW: Handling | Mod: Backup Mag
+//notes:Temporal Clause | Source: Nessus | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Fail-deadly | Perks: Fluted Barrel / Appended Mag / Enlightened Action / Mega Kill Clip|tags:pve
+dimwishlist:item=3132669561&perks=1840239774,1087426260,3828510309,2305480722
+
+// Tigerspite - Dreaming City - PVP
+// Perks: Smallbore / Ricochet Rounds / Moving Target / Kinetic Tremors
+// MW: Range | Mod: Enhanced Range
+//notes:Tigerspite | Source: Dreaming City | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Advanced Reflexes | Perks: Smallbore / Ricochet Rounds / Moving Target / Kinetic Tremors|tags:pvp
+dimwishlist:item=2465372924&perks=1482024992,1885400500,588594999,3891536761
+
+// Vouchsafe - Dreaming City - PVE
+// Perks: Fluted Barrel / Tactical Mag / Shoot to Loot / Explosive Payload
+// MW: Handling | Mod: Tactical
+//notes:Vouchsafe | Source: Dreaming City | Use: PVE | MW: Handling | Mod: Tactical | Origin: Advanced Reflexes | Perks: Fluted Barrel / Tactical Mag / Shoot to Loot / Explosive Payload|tags:pve
+dimwishlist:item=3218302023&perks=1840239774,106909392,3700496672,3038247973
+
+// Waking Vigil - Dreaming City - PVP
+// Perks: Hammer-Forged Rifling / Ricochet Rounds / Rangefinder / Opening Shot
+// MW: Range | Mod: Enhanced Range
+//notes:Waking Vigil | Source: Dreaming City | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Advanced Reflexes | Perks: Hammer-Forged Rifling / Ricochet Rounds / Rangefinder / Opening Shot|tags:pvp
+dimwishlist:item=3723679465&perks=3250034553,1885400500,2846385770,47981717
+
+// Retold Tale - Dreaming City - PVP
+// Perks: Barrel Shroud / Accurized Rounds / Quickdraw / Closing Time
+// MW: Range | Mod: Enhanced Handling
+//notes:Retold Tale | Source: Dreaming City | Use: PVP | MW: Range | Mod: Enhanced Handling | Origin: Advanced Reflexes | Perks: Barrel Shroud / Accurized Rounds / Quickdraw / Closing Time|tags:pvp
+dimwishlist:item=3442151842&perks=1300023272,3142289711,706527188,1194056669
+
+// Twilight Oath - Dreaming City - PVP
+// Perks: Fluted Barrel / Accurized Rounds / Opening Shot / Snapshot Sights
+// MW: Handling | Mod: Anti-Flinch
+//notes:Twilight Oath | Source: Dreaming City | Use: PVP | MW: Handling | Mod: Anti-Flinch | Origin: Advanced Reflexes | Perks: Fluted Barrel / Accurized Rounds / Opening Shot / Snapshot Sights|tags:pvp
+dimwishlist:item=3297863558&perks=1840239774,3142289711,47981717,957782887
+
+// Sleepless - Dreaming City - PVE
+// Perks: Quick Launch / High-Velocity Rounds / Impulse Amplifier / Chain Reaction
+// MW: Velocity | Mod: Aerodynamics
+//notes:Sleepless | Source: Dreaming City | Use: PVE | MW: Velocity | Mod: Aerodynamics | Origin: Advanced Reflexes | Perks: Quick Launch / High-Velocity Rounds / Impulse Amplifier / Chain Reaction|tags:pve
+dimwishlist:item=1738552769&perks=3525010810,2822142346,951095735,2396489472
+
+// Abide the Return - Dreaming City - PVE
+// Perks: Honed Edge / Swordmaster's Guard / Unrelenting / Eager Edge
+// MW: Impact | Mod: Backup Mag
+//notes:Abide the Return | Source: Dreaming City | Use: PVE | MW: Impact | Mod: Backup Mag | Origin: Advanced Reflexes | Perks: Honed Edge / Swordmaster's Guard / Unrelenting / Eager Edge|tags:pve
+dimwishlist:item=1291270049&perks=2827049491,269888150,3108830275,2077819806
+
+// Subzero Salvo - Europa - PVE
+// Perks: Quick Launch / Impact Casing / Supercharged Magazine / Bipod
+// MW: Velocity | Mod: Enhanced Velocity
+//notes:Subzero Salvo | Source: Europa | Use: PVE | MW: Velocity | Mod: Enhanced Velocity | Origin: Winterized Gear | Perks: Quick Launch / Impact Casing / Supercharged Magazine / Bipod|tags:pve
+dimwishlist:item=978122008&perks=3525010810,3796465595,1511100135,1439600632
+
+// Bonechiller - Europa - PVP
+// Perks: Corkscrew Rifling / Accurized Rounds / Threat Detector / Opening Shot
+// MW: Range | Mod: Enhanced Handling
+//notes:Bonechiller | Source: Europa | Use: PVP | MW: Range | Mod: Enhanced Handling | Origin: Winterized Gear | Perks: Corkscrew Rifling / Accurized Rounds / Threat Detector / Opening Shot|tags:pvp
+dimwishlist:item=4037745684&perks=4090651448,3142289711,4071163871,47981717
+
+// Arctic Haze - Europa - PVE
+// Perks: Corkscrew Rifling / Flared Magwell / Heal Clip / Frenzy
+// MW: Range | Mod: Backup Mag
+//notes:Arctic Haze | Source: Europa | Use: PVE | MW: Range | Mod: Backup Mag | Origin: Winterized Gear | Perks: Corkscrew Rifling / Flared Magwell / Heal Clip / Frenzy|tags:pve
+dimwishlist:item=2187337757&perks=4090651448,3230963543,3017780555,4104185692
+
+// High Albedo - Europa - PVE
+// Perks: Quick Launch / High-Velocity Rounds / Blast Distributor / Recombination
+// MW: Handling | Mod: Backup Mag
+//notes:High Albedo | Source: Europa | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Winterized Gear | Perks: Quick Launch / High-Velocity Rounds / Blast Distributor / Recombination|tags:pve
+dimwishlist:item=2662459958&perks=3525010810,2822142346,1017229899,469285294
+
+// Hailing Confusion - Europa - PVP
+// Perks: Arrowhead Brake / Ricochet Rounds / Zen Moment / Kill Clip
+// MW: Range | Mod: Enhanced Range
+//notes:Hailing Confusion | Source: Europa | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Winterized Gear | Perks: Arrowhead Brake / Ricochet Rounds / Zen Moment / Kill Clip|tags:pvp
+dimwishlist:item=4236134153&perks=839105230,1885400500,2387244414,1015611457
+
+// Thermal Erosion - Europa - PVE
+// Perks: Fluted Barrel / Flared Magwell / Incandescent / Mega Kill Clip
+// MW: Reload Speed | Mod: Backup Mag
+//notes:Thermal Erosion | Source: Europa | Use: PVE | MW: Reload Speed | Mod: Backup Mag | Origin: Winterized Gear | Perks: Fluted Barrel / Flared Magwell / Incandescent / Mega Kill Clip|tags:pve
+dimwishlist:item=642545454&perks=1840239774,3230963543,4293542123,2305480722
+
+// Coriolis Force - Europa - PVE
+// Perks: Fluted Barrel / Enhanced Battery / Lead from Gold / Destabilizing Rounds
+// MW: Charge Time | Mod: Tactical
+//notes:Coriolis Force | Source: Europa | Use: PVE | MW: Charge Time | Mod: Tactical | Origin: Winterized Gear | Perks: Fluted Barrel / Enhanced Battery / Lead from Gold / Destabilizing Rounds|tags:pve
+dimwishlist:item=856316142&perks=1840239774,2680121939,1556840489,2048641572
+
+// Biting Winds - Europa - PVE
+// Perks: Elastic String / Compact Arrow Shaft / Bewildering Burst / Kinetic Tremors
+// MW: Draw Time | Mod: Enhanced Draw Time
+//notes:Biting Winds | Source: Europa | Use: PVE | MW: Draw Time | Mod: Enhanced Draw Time | Origin: Winterized Gear | Perks: Elastic String / Compact Arrow Shaft / Bewildering Burst / Kinetic Tremors|tags:pve
+dimwishlist:item=2485400469&perks=2801223209,16392701,2289534249,3891536761
+
+// Come to Pass - Savathûn's Throne World / CRAFTING - PVE
+// Perks: Fluted Barrel / Appended Mag / Genesis / Turnabout
+// MW: Handling | Mod: Backup Mag
+//notes:Come to Pass | Source: Savathûn's Throne World / CRAFTING | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Psychohack | Perks: Fluted Barrel / Appended Mag / Genesis / Turnabout|tags:pve
+dimwishlist:item=927567426&perks=1840239774,1087426260,3096702027,2209918983
+
+// Fel Taradiddle - Savathûn's Throne World / CRAFTING - PVE
+// Perks: Elastic String / Compact Arrow Shaft / Impulse Amplifier / Sword Logic
+// MW: Draw Time | Mod: Enhanced Draw Time
+//notes:Fel Taradiddle | Source: Savathûn's Throne World / CRAFTING | Use: PVE | MW: Draw Time | Mod: Enhanced Draw Time | Origin: Psychohack | Perks: Elastic String / Compact Arrow Shaft / Impulse Amplifier / Sword Logic|tags:pve
+dimwishlist:item=1399109800&perks=2801223209,16392701,951095735,31345821
+
+// Pointed Inquiry - Savathûn's Throne World / CRAFTING - PVE
+// Perks: Fluted Barrel / Armor-Piercing Rounds / Genesis / Adaptive Munitions
+// MW: Handling | Mod: Backup Mag
+//notes:Pointed Inquiry | Source: Savathûn's Throne World / CRAFTING | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Psychohack | Perks: Fluted Barrel / Armor-Piercing Rounds / Genesis / Adaptive Munitions|tags:pve
+dimwishlist:item=297296830&perks=1840239774,1968497646,3096702027,1048183818
+
+// Empirical Evidence - Savathûn's Throne World / CRAFTING - PVP
+// Perks: Corkscrew Rifling / Ricochet Rounds / Tunnel Vision / Adagio
+// MW: Range | Mod: Ballistics
+//notes:Empirical Evidence | Source: Savathûn's Throne World / CRAFTING | Use: PVP | MW: Range | Mod: Ballistics | Origin: Psychohack | Perks: Corkscrew Rifling / Ricochet Rounds / Tunnel Vision / Adagio|tags:pvp
+dimwishlist:item=2607304614&perks=4090651448,1885400500,2946784966,3673922083
+
+// Forensic Nightmare - Savathûn's Throne World / CRAFTING - PVE
+// Perks: Fluted Barrel / Flared Magwell / Rimestealer / Swashbuckler
+// MW: Reload Speed | Mod: Tactical
+//notes:Forensic Nightmare | Source: Savathûn's Throne World / CRAFTING | Use: PVE | MW: Reload Speed | Mod: Tactical | Origin: Psychohack | Perks: Fluted Barrel / Flared Magwell / Rimestealer / Swashbuckler|tags:pve
+dimwishlist:item=1526296434&perks=1840239774,3230963543,1955165503,4082225868
+
+// Likely Suspect - Savathûn's Throne World / CRAFTING - PVE
+// Perks: Fluted Barrel / Enhanced Battery / Repulsor Brace / Destabilizing Rounds
+// MW: Charge Time | Mod: Enhanced Charge Time
+//notes:Likely Suspect | Source: Savathûn's Throne World / CRAFTING | Use: PVE | MW: Charge Time | Mod: Enhanced Charge Time | Origin: Psychohack | Perks: Fluted Barrel / Enhanced Battery / Repulsor Brace / Destabilizing Rounds|tags:pve
+dimwishlist:item=1994645182&perks=1840239774,2680121939,776531651,2048641572
+
+// Father's Sins - Savathûn's Throne World / CRAFTING - PVE
+// Perks: Fluted Barrel / Tactical Mag / Triple Tap / Withering Gaze
+// MW: Reload Speed | Mod: Enhanced Reload
+//notes:Father's Sins | Source: Savathûn's Throne World / CRAFTING | Use: PVE | MW: Reload Speed | Mod: Enhanced Reload | Origin: Psychohack | Perks: Fluted Barrel / Tactical Mag / Triple Tap / Withering Gaze|tags:pve
+dimwishlist:item=3865728990&perks=1840239774,106909392,3400784728,1134488199
+
+// Tarnation - Savathûn's Throne World / CRAFTING - PVE
+// Perks: Quick Launch / Spike Grenades / Envious Assassin / Bait and Switch
+// MW: Reload Speed | Mod: Backup Mag
+//notes:Tarnation | Source: Savathûn's Throne World / CRAFTING | Use: PVE | MW: Reload Speed | Mod: Backup Mag | Origin: Psychohack | Perks: Quick Launch / Spike Grenades / Envious Assassin / Bait and Switch|tags:pve
+dimwishlist:item=2721157927&perks=3525010810,3301904089,968510818,3078487919
+
+// Red Herring - Savathûn's Throne World / CRAFTING - PVE
+// Perks: Quick Launch / Impact Casing / Reconstruction / Lasting Impression
+// MW: Handling | Mod: Quick Access Sling
+//notes:Red Herring | Source: Savathûn's Throne World / CRAFTING | Use: PVE | MW: Handling | Mod: Quick Access Sling | Origin: Psychohack | Perks: Quick Launch / Impact Casing / Reconstruction / Lasting Impression|tags:pve
+dimwishlist:item=3175851496&perks=3525010810,3796465595,1523832109,3927722942
+
+// Epochal Integration - Neomuna - PVP
+// Perks: Smallbore / Accurized Rounds / Slideshot / Magnificent Howl
+// MW: Range | Mod: Enhanced Range
+//notes:Epochal Integration | Source: Neomuna | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Nanotech Tracer Missiles | Perks: Smallbore / Accurized Rounds / Slideshot / Magnificent Howl|tags:pvp
+dimwishlist:item=3851394887&perks=1482024992,3142289711,3161816588,2720533289
+
+// Round Robin - Neomuna - PVP
+// Perks: Fluted Barrel / Ricochet Rounds / Keep Away / Precision Instrument
+// MW: Range | Mod: Ballistics
+//notes:Round Robin | Source: Neomuna | Use: PVP | MW: Range | Mod: Ballistics | Origin: Nanotech Tracer Missiles | Perks: Fluted Barrel / Ricochet Rounds / Keep Away / Precision Instrument|tags:pvp
+dimwishlist:item=2034215657&perks=1840239774,1885400500,3619207468,555281244
+
+// Synchronic Roulette - Neomuna - PVE
+// Perks: Fluted Barrel / Flared Magwell / Enlightened Action / Chaos Reshaped
+// MW: Handling | Mod: Backup Mag
+//notes:Synchronic Roulette | Source: Neomuna | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Nanotech Tracer Missiles | Perks: Fluted Barrel / Flared Magwell / Enlightened Action / Chaos Reshaped|tags:pve
+dimwishlist:item=3752860091&perks=1840239774,3230963543,3828510309,3640170453
+
+// Basso Ostinato - Neomuna - PVE
+// Perks: Full Choke / Tactical Mag / Grave Robber / Trench Barrel
+// MW: Handling | Mod: Quick Access Sling
+//notes:Basso Ostinato | Source: Neomuna | Use: PVE | MW: Handling | Mod: Quick Access Sling | Origin: Nanotech Tracer Missiles | Perks: Full Choke / Tactical Mag / Grave Robber / Trench Barrel|tags:pve
+dimwishlist:item=2573900604&perks=1047830412,106909392,1631667848,2360754333
+
+// Phyllotactic Spiral - Neomuna - PVP
+// Perks: Arrowhead Brake / Ricochet Rounds / Rapid Hit / Desperado
+// MW: Handling | Mod: Enhanced Range
+//notes:Phyllotactic Spiral | Source: Neomuna | Use: PVP | MW: Handling | Mod: Enhanced Range | Origin: Nanotech Tracer Missiles | Perks: Arrowhead Brake / Ricochet Rounds / Rapid Hit / Desperado|tags:pvp
+dimwishlist:item=3635821806&perks=839105230,1885400500,247725512,3047969693
+
+// Volta Bracket - Neomuna - PVP
+// Perks: Fluted Barrel / Flared Magwell / Lucky Shot / Mega Kill Clip
+// MW: Handling | Mod: Enhanced Reload
+//notes:Volta Bracket | Source: Neomuna | Use: PVP | MW: Handling | Mod: Enhanced Reload | Origin: Nanotech Tracer Missiles | Perks: Fluted Barrel / Flared Magwell / Lucky Shot / Mega Kill Clip|tags:pvp
+dimwishlist:item=3920310144&perks=1840239774,3230963543,2054520291,2305480722
+
+// Iterative Loop - Neomuna - PVE
+// Perks: Arrowhead Brake / Projection Fuse / Supercharged Magazine / Controlled Burst
+// MW: Charge Time | Mod: Enhanced Charge Time
+//notes:Iterative Loop | Source: Neomuna | Use: PVE | MW: Charge Time | Mod: Enhanced Charge Time | Origin: Nanotech Tracer Missiles | Perks: Arrowhead Brake / Projection Fuse / Supercharged Magazine / Controlled Burst|tags:pve
+dimwishlist:item=1289796511&perks=839105230,2969185026,1511100135,2594592626
+
+// Dimensional Hypotrochoid - Neomuna - PVE
+// Perks: Quick Launch / High-Velocity Rounds / Envious Arsenal / One for All
+// MW: Blast Radius | Mod: Backup Mag
+//notes:Dimensional Hypotrochoid | Source: Neomuna | Use: PVE | MW: Blast Radius | Mod: Backup Mag | Origin: Nanotech Tracer Missiles | Perks: Quick Launch / High-Velocity Rounds / Envious Arsenal / One for All|tags:pve
+dimwishlist:item=1311684613&perks=3525010810,2822142346,3987942396,4049631843
+
+// Circular Logic - Neomuna - PVE
+// Perks: Fluted Barrel / Flared Magwell / Firefly / Hatchling
+// MW: Reload Speed | Mod: Backup Mag
+//notes:Circular Logic | Source: Neomuna | Use: PVE | MW: Reload Speed | Mod: Backup Mag | Origin: Nanotech Tracer Missiles | Perks: Fluted Barrel / Flared Magwell / Firefly / Hatchling|tags:pve
+dimwishlist:item=2528793321&perks=1840239774,3230963543,3824105627,831391274
+
+// Bold Endings - The Pale Heart - PVE
+// Perks: Fluted Barrel / Tactical Mag / Headstone / Frenzy
+// MW: Handling | Mod: Backup Mag
+//notes:Bold Endings | Source: The Pale Heart | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Dealer's Choice | Perks: Fluted Barrel / Tactical Mag / Headstone / Frenzy|tags:pve
+dimwishlist:item=496728945&perks=1840239774,106909392,124408337,4104185692
+
+// No Hesitation - The Pale Heart - PVE
+// Perks: Arrowhead Brake / Tactical Mag / Physic / Chaos Reshaped
+// MW: Reload Speed | Mod: Backup Mag
+//notes:No Hesitation | Source: The Pale Heart | Use: PVE | MW: Reload Speed | Mod: Backup Mag | Origin: Dealer's Choice | Perks: Arrowhead Brake / Tactical Mag / Physic / Chaos Reshaped|tags:pve
+dimwishlist:item=1801007332&perks=839105230,106909392,2980589453,3640170453
+
+// The Call - The Pale Heart - PVE
+// Perks: Quick Launch / Tactical Mag / Impulse Amplifier / Chaos Reshaped
+// MW: Blast Radius | Mod: Backup Mag
+//notes:The Call | Source: The Pale Heart | Use: PVE | MW: Blast Radius | Mod: Backup Mag | Origin: Dealer's Choice | Perks: Quick Launch / Tactical Mag / Impulse Amplifier / Chaos Reshaped|tags:pve
+dimwishlist:item=3947966653&perks=3525010810,106909392,951095735,3640170453
+
+// Someday - The Pale Heart - PVE
+// Perks: Corkscrew Rifling / Accurized Rounds / Threat Detector / Opening Shot
+// MW: Handling | Mod: Enhanced Handling
+//notes:Someday | Source: The Pale Heart | Use: PVE | MW: Handling | Mod: Enhanced Handling | Origin: Dealer's Choice | Perks: Corkscrew Rifling / Accurized Rounds / Threat Detector / Opening Shot|tags:pve
+dimwishlist:item=3232203524&perks=4090651448,3142289711,4071163871,47981717
+
+// Axial Lacuna - The Pale Heart - PVE
+// Perks: Fluted Barrel / Enhanced Battery / Heal Clip / Reservoir Burst
+// MW: Charge Time | Mod: Enhanced Reload
+//notes:Axial Lacuna | Source: The Pale Heart | Use: PVE | MW: Charge Time | Mod: Enhanced Reload | Origin: Dealer's Choice | Perks: Fluted Barrel / Enhanced Battery / Heal Clip / Reservoir Burst|tags:pve
+dimwishlist:item=3867373351&perks=1840239774,2680121939,3017780555,1427256713
+
+// False Idols - The Pale Heart - PVE
+// Perks: Tempered Edge / Swordmaster's Guard / Eager Edge / Chain Reaction
+// MW: Impact | Mod: Backup Mag
+//notes:False Idols | Source: The Pale Heart | Use: PVE | MW: Impact | Mod: Backup Mag | Origin: Dealer's Choice | Perks: Tempered Edge / Swordmaster's Guard / Eager Edge / Chain Reaction|tags:pve
+dimwishlist:item=4207120603&perks=938542991,269888150,2077819806,2396489472
+
+// Embraced Identity - The Pale Heart - PVE
+// Perks: Fluted Barrel / Tactical Mag / Withering Gaze / Fourth Time's the Charm
+// MW: Handling | Mod: Backup Mag
+//notes:Embraced Identity | Source: The Pale Heart | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Dealer's Choice | Perks: Fluted Barrel / Tactical Mag / Withering Gaze / Fourth Time's the Charm|tags:pve
+dimwishlist:item=2821677368&perks=1840239774,106909392,1134488199,1354429876
+
+// Pro Memoria - The Pale Heart - PVE
+// Perks: Fluted Barrel / Flared Magwell / Lucky Shot / Mega Kill Clip
+// MW: Reload Speed | Mod: Backup Mag
+//notes:Pro Memoria | Source: The Pale Heart | Use: PVE | MW: Reload Speed | Mod: Backup Mag | Origin: Dealer's Choice | Perks: Fluted Barrel / Flared Magwell / Lucky Shot / Mega Kill Clip|tags:pve
+dimwishlist:item=3605603507&perks=1840239774,3230963543,2054520291,2305480722
+
+// The Helmsman - Crucible Ops - PVP
+// Perks: Fluted Barrel / Accurized Rounds / Lone Wolf / Opening Shot
+// MW: Handling | Mod: Tactical
+//notes:The Helmsman | Source: Crucible Ops | Use: PVP | MW: Handling | Mod: Tactical | Origin: Roar of Battle | Perks: Fluted Barrel / Accurized Rounds / Lone Wolf / Opening Shot|tags:pvp
+dimwishlist:item=2325078119&perks=1840239774,3142289711,2579169598,47981717
+
+// Joxer's Longsword - Crucible Ops - PVE
+// Perks: Fluted Barrel / Appended Mag / Shoot to Loot / Withering Gaze
+// MW: Handling | Mod: Backup Mag
+//notes:Joxer's Longsword | Source: Crucible Ops | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Accelerated Assault | Perks: Fluted Barrel / Appended Mag / Shoot to Loot / Withering Gaze|tags:pve
+dimwishlist:item=157601190&perks=1840239774,1087426260,3700496672,1134488199
+
+// Better Devils - Crucible Ops - PVP
+// Perks: Smallbore / Accurized Rounds / Slideshot / Magnificent Howl
+// MW: Range | Mod: Enhanced Range
+//notes:Better Devils | Source: Crucible Ops | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Nadir Focus | Perks: Smallbore / Accurized Rounds / Slideshot / Magnificent Howl|tags:pvp
+dimwishlist:item=4059111041&perks=1482024992,3142289711,3161816588,2720533289
+
+// Unending Tempest - Crucible Ops - PVP
+// Perks: Smallbore / Accurized Rounds / Dynamic Sway Reduction / Target Lock
+// MW: Range | Mod: Ballistics
+//notes:Unending Tempest | Source: Crucible Ops | Use: PVP | MW: Range | Mod: Ballistics | Origin: Accelerated Assault | Perks: Smallbore / Accurized Rounds / Dynamic Sway Reduction / Target Lock|tags:pvp
+dimwishlist:item=2510526114&perks=1482024992,3142289711,1359896290,365154968
+
+// Randy's Throwing Knife - Crucible Ops - PVP
+// Perks: Fluted Barrel / Ricochet Rounds / Rapid Hit / Precision Instrument
+// MW: Handling | Mod: Ballistics
+//notes:Randy's Throwing Knife | Source: Crucible Ops | Use: PVP | MW: Handling | Mod: Ballistics | Origin: Accelerated Assault | Perks: Fluted Barrel / Ricochet Rounds / Rapid Hit / Precision Instrument|tags:pvp
+dimwishlist:item=4176824345&perks=1840239774,1885400500,247725512,555281244
+
+// Autumn Wind - Crucible Ops - PVP
+// Perks: Hammer-Forged Rifling / Ricochet Rounds / Zen Moment / Sword Logic
+// MW: Range | Mod: Counterbalance Stock
+//notes:Autumn Wind | Source: Crucible Ops | Use: PVP | MW: Range | Mod: Counterbalance Stock | Origin: Accelerated Assault | Perks: Hammer-Forged Rifling / Ricochet Rounds / Zen Moment / Sword Logic|tags:pvp
+dimwishlist:item=2150012407&perks=3250034553,1885400500,2387244414,31345821
+
+// Out of Bounds - Crucible Ops - PVE
+// Perks: Fluted Barrel / Flared Magwell / Voltshot / Frenzy
+// MW: Range | Mod: Backup Mag
+//notes:Out of Bounds | Source: Crucible Ops | Use: PVE | MW: Range | Mod: Backup Mag | Origin: Accelerated Assault | Perks: Fluted Barrel / Flared Magwell / Voltshot / Frenzy|tags:pve
+dimwishlist:item=2579239008&perks=1840239774,3230963543,2173046394,4104185692
+
+// Sorrow's Verse - Crucible Ops - PVP
+// Perks: Smallbore / Accurized Rounds / Rewind Rounds / Target Lock
+// MW: Range | Mod: Ballistics
+//notes:Sorrow's Verse | Source: Crucible Ops | Use: PVP | MW: Range | Mod: Ballistics | Origin: Accelerated Assault | Perks: Smallbore / Accurized Rounds / Rewind Rounds / Target Lock|tags:pvp
+dimwishlist:item=775830132&perks=1482024992,3142289711,3418782618,365154968
+
+// Survivor's Epitaph - Crucible Ops - PVE
+// Perks: Corkscrew Rifling / Tactical Mag / High-Impact Reserves / Precision Instrument
+// MW: Range | Mod: Backup Mag
+//notes:Survivor's Epitaph | Source: Crucible Ops | Use: PVE | MW: Range | Mod: Backup Mag | Origin: Tex Balanced Stock | Perks: Corkscrew Rifling / Tactical Mag / High-Impact Reserves / Precision Instrument|tags:pve
+dimwishlist:item=4059111040&perks=4090651448,106909392,2213355989,555281244
+
+// The Keening - Crucible Ops - PVP
+// Perks: Full Bore / Ricochet Rounds / Rapid Hit / Multikill Clip
+// MW: Range | Mod: Ballistics
+//notes:The Keening | Source: Crucible Ops | Use: PVP | MW: Range | Mod: Ballistics | Origin: Nadir Focus | Perks: Full Bore / Ricochet Rounds / Rapid Hit / Multikill Clip|tags:pvp
+dimwishlist:item=409551876&perks=202670084,1885400500,247725512,2458213969
+
+// Frozen Orbit - Crucible Ops - PVP
+// Perks: Fluted Barrel / Accurized Rounds / Moving Target / Snapshot Sights
+// MW: Handling | Mod: Enhanced Handling
+//notes:Frozen Orbit | Source: Crucible Ops | Use: PVP | MW: Handling | Mod: Enhanced Handling | Origin: Roar of Battle | Perks: Fluted Barrel / Accurized Rounds / Moving Target / Snapshot Sights|tags:pvp
+dimwishlist:item=3473290087&perks=1840239774,3142289711,588594999,957782887
+
+// Solemn Lie - Competitive PVP - PVP
+// Perks: Smallbore / Ricochet Rounds / Rangefinder / Eye of the Storm
+// MW: Range | Mod: Enhanced Range
+//notes:Solemn Lie | Source: Competitive PVP | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Smooth Grip | Perks: Smallbore / Ricochet Rounds / Rangefinder / Eye of the Storm|tags:pvp
+dimwishlist:item=1041028435&perks=1482024992,1885400500,2846385770,699525795
+
+// Rose - Competitive PVP - PVP
+// Perks: Smallbore / Accurized Rounds / Slideshot / Explosive Payload
+// MW: Range | Mod: Ballistics
+//notes:Rose | Source: Competitive PVP | Use: PVP | MW: Range | Mod: Ballistics | Origin: Smooth Grip | Perks: Smallbore / Accurized Rounds / Slideshot / Explosive Payload|tags:pvp
+dimwishlist:item=882778888&perks=1482024992,3142289711,3161816588,3038247973
+
+// Redrix's Estoc - Competitive PVP - PVP
+// Perks: Hammer-Forged Rifling / Accurized Rounds / Zen Moment / Sword Logic
+// MW: Range | Mod: Enhanced Range
+//notes:Redrix's Estoc | Source: Competitive PVP | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Fitted Stock | Perks: Hammer-Forged Rifling / Accurized Rounds / Zen Moment / Sword Logic|tags:pvp
+dimwishlist:item=3218364298&perks=3250034553,3142289711,2387244414,31345821
+
+// Mercurial Overreach - Competitive PVP - PVP
+// Perks: Fluted Barrel / Ricochet Rounds / Snapshot Sights / Opening Shot
+// MW: Range | Mod: Enhanced Range
+//notes:Mercurial Overreach | Source: Competitive PVP | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Short-Action Stock | Perks: Fluted Barrel / Ricochet Rounds / Snapshot Sights / Opening Shot|tags:pvp
+dimwishlist:item=2073794990&perks=1840239774,1885400500,957782887,47981717
+
+// Deadlock - Competitive PVP - PVP
+// Perks: Corkscrew Rifling / Assault Mag / Slideshot / Opening Shot
+// MW: Range | Mod: Enhanced Range
+//notes:Deadlock | Source: Competitive PVP | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Short-Action Stock | Perks: Corkscrew Rifling / Assault Mag / Slideshot / Opening Shot|tags:pvp
+dimwishlist:item=2035738085&perks=4090651448,791862061,3161816588,47981717
+
+// Belisarius-D - Competitive PVP - PVP
+// Perks: Fluted Barrel / Ricochet Rounds / Rapid Hit / Kill Clip
+// MW: Handling | Mod: Ballistics
+//notes:Belisarius-D | Source: Competitive PVP | Use: PVP | MW: Handling | Mod: Ballistics | Origin: Short-Action Stock | Perks: Fluted Barrel / Ricochet Rounds / Rapid Hit / Kill Clip|tags:pvp
+dimwishlist:item=2313726158&perks=1840239774,1885400500,247725512,1015611457
+
+// The Riposte - Competitive PVP - PVP
+// Perks: Hammer-Forged Rifling / Ricochet Rounds / Zen Moment / Target Lock
+// MW: Range | Mod: Ballistics
+//notes:The Riposte | Source: Competitive PVP | Use: PVP | MW: Range | Mod: Ballistics | Origin: Fitted Stock | Perks: Hammer-Forged Rifling / Ricochet Rounds / Zen Moment / Target Lock|tags:pvp
+dimwishlist:item=3754408118&perks=3250034553,1885400500,2387244414,365154968
+
+// Willful Hamartia - Trials of Osiris - PVP
+// Perks: Fluted Barrel / Particle Repeater / Rapid Hit / Kickstart
+// MW: Charge Time | Mod: Anti-Flinch
+//notes:Willful Hamartia | Source: Trials of Osiris | Use: PVP | MW: Charge Time | Mod: Anti-Flinch | Origin: Fleet Footed | Perks: Fluted Barrel / Particle Repeater / Rapid Hit / Kickstart|tags:pvp
+dimwishlist:item=1952295804&perks=1840239774,3868766766,247725512,1754714824
+
+// The Messenger - Trials of Osiris - PVP
+// Perks: Arrowhead Brake / High-Caliber Rounds / Rapid Hit / Desperado
+// MW: Handling | Mod: Enhanced Handling
+//notes:The Messenger | Source: Trials of Osiris | Use: PVP | MW: Handling | Mod: Enhanced Handling | Origin: Fleet Footed | Perks: Arrowhead Brake / High-Caliber Rounds / Rapid Hit / Desperado|tags:pvp
+dimwishlist:item=3658188704&perks=839105230,1561002382,247725512,3047969693
+
+// The Summoner - Trials of Osiris - PVP
+// Perks: Hammer-Forged Rifling / Ricochet Rounds / Zen Moment / Tap the Trigger
+// MW: Range | Mod: Ballistics
+//notes:The Summoner | Source: Trials of Osiris | Use: PVP | MW: Range | Mod: Ballistics | Origin: Roar of Battle | Perks: Hammer-Forged Rifling / Ricochet Rounds / Zen Moment / Tap the Trigger|tags:pvp
+dimwishlist:item=1820994983&perks=3250034553,1885400500,2387244414,1890422124
+
+// The Scholar - Trials of Osiris - PVP
+// Perks: Fluted Barrel / High-Caliber Rounds / Lone Wolf / Explosive Payload
+// MW: Handling | Mod: Tactical
+//notes:The Scholar | Source: Trials of Osiris | Use: PVP | MW: Handling | Mod: Tactical | Origin: Fleet Footed | Perks: Fluted Barrel / High-Caliber Rounds / Lone Wolf / Explosive Payload|tags:pvp
+dimwishlist:item=3790632261&perks=1840239774,1561002382,2579169598,3038247973
+
+// Sola's Scar - Trials of Osiris - PVE
+// Perks: Honed Edge / Swordmaster's Guard / Eager Edge / Vorpal Weapon
+// MW: Impact | Mod: Enhanced Backup Mag
+//notes:Sola's Scar | Source: Trials of Osiris | Use: PVE | MW: Impact | Mod: Enhanced Backup Mag | Origin: Fleet Footed | Perks: Honed Edge / Swordmaster's Guard / Eager Edge / Vorpal Weapon|tags:pve
+dimwishlist:item=4089030727&perks=2827049491,269888150,2077819806,1546637391
+
+// Aisha's Care - Trials of Osiris - PVP
+// Perks: Arrowhead Brake / Ricochet Rounds / Rapid Hit / Desperado
+// MW: Handling | Mod: Ballistics
+//notes:Aisha's Care | Source: Trials of Osiris | Use: PVP | MW: Handling | Mod: Ballistics | Origin: Omolon Fluid Dynamics | Perks: Arrowhead Brake / Ricochet Rounds / Rapid Hit / Desperado|tags:pvp
+dimwishlist:item=3614211586&perks=839105230,1885400500,247725512,3047969693
+
+// Exalted Truth - Trials of Osiris - PVP
+// Perks: Hammer-Forged Rifling / Accurized Rounds / Slideshot / Eye of the Storm
+// MW: Range | Mod: Ballistics
+//notes:Exalted Truth | Source: Trials of Osiris | Use: PVP | MW: Range | Mod: Ballistics | Origin: Roar of Battle | Perks: Hammer-Forged Rifling / Accurized Rounds / Slideshot / Eye of the Storm|tags:pvp
+dimwishlist:item=3436626079&perks=3250034553,3142289711,3161816588,699525795
+
+// Keen Thistle - Trials of Osiris - PVE
+// Perks: Fluted Barrel / Tactical Mag / Triple Tap / Fourth Time's the Charm
+// MW: Handling | Mod: Backup Mag
+//notes:Keen Thistle | Source: Trials of Osiris | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Häkke Breach Armaments | Perks: Fluted Barrel / Tactical Mag / Triple Tap / Fourth Time's the Charm|tags:pve
+dimwishlist:item=1893967086&perks=1840239774,106909392,3400784728,1354429876
+
+// The Inquisitor - Trials of Osiris - PVP
+// Perks: Fluted Barrel / Assault Mag / Lone Wolf / Opening Shot
+// MW: Range | Mod: Quick Access Sling
+//notes:The Inquisitor | Source: Trials of Osiris | Use: PVP | MW: Range | Mod: Quick Access Sling | Origin: Fleet Footed | Perks: Fluted Barrel / Assault Mag / Lone Wolf / Opening Shot|tags:pvp
+dimwishlist:item=51129316&perks=1840239774,791862061,2579169598,47981717
+
+// Igneous Hammer - Trials of Osiris - PVP
+// Perks: Fluted Barrel / Ricochet Rounds / Slideshot / Precision Instrument
+// MW: Range | Mod: Ballistics
+//notes:Igneous Hammer | Source: Trials of Osiris | Use: PVP | MW: Range | Mod: Ballistics | Origin: Fleet Footed | Perks: Fluted Barrel / Ricochet Rounds / Slideshot / Precision Instrument|tags:pvp
+dimwishlist:item=2776092652&perks=1840239774,1885400500,3161816588,555281244
+
+// Shayura's Wrath - Trials of Osiris - PVP
+// Perks: Fluted Barrel / Ricochet Rounds / Zen Moment / Kill Clip
+// MW: Range | Mod: Range
+//notes:Shayura's Wrath | Source: Trials of Osiris | Use: PVP | MW: Range | Mod: Range | Origin: Nadir Focus | Perks: Fluted Barrel / Ricochet Rounds / Zen Moment / Kill Clip|tags:pvp
+dimwishlist:item=2022294213&perks=1840239774,1885400500,2387244414,1015611457
+
+// Eye of Sol - Trials of Osiris - PVE
+// Perks: Fluted Barrel / Appended Mag / Rewind Rounds / Aggregate Charge
+// MW: Handling | Mod: Backup Mag
+//notes:Eye of Sol | Source: Trials of Osiris | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Roar of Battle | Perks: Fluted Barrel / Appended Mag / Rewind Rounds / Aggregate Charge|tags:pve
+dimwishlist:item=2499834165&perks=1840239774,1087426260,3418782618,3764420437
+
+// Exile's Curse - Trials of Osiris - PVP
+// Perks: Arrowhead Brake / Projection Fuse / Under Pressure / Closing Time
+// MW: Charge Time | Mod: Enhanced Charge Time
+//notes:Exile's Curse | Source: Trials of Osiris | Use: PVP | MW: Charge Time | Mod: Enhanced Charge Time | Origin: Wild Card | Perks: Arrowhead Brake / Projection Fuse / Under Pressure / Closing Time|tags:pvp
+dimwishlist:item=1117787139&perks=839105230,2969185026,1645158859,1194056669
+
+// Tomorrow's Answer - Trials of Osiris - PVE
+// Perks: Quick Launch / Impact Casing / Envious Arsenal / Explosive Light
+// MW: Velocity | Mod: Quick Access Sling
+//notes:Tomorrow's Answer | Source: Trials of Osiris | Use: PVE | MW: Velocity | Mod: Quick Access Sling | Origin: Fleet Footed | Perks: Quick Launch / Impact Casing / Envious Arsenal / Explosive Light|tags:pve
+dimwishlist:item=3009199534&perks=3525010810,3796465595,3987942396,3194351027
+
+// Felwinter's Lie - Iron Banner - PVP
+// Perks: Rifled Barrel / Accurized Rounds / Slickdraw / Iron Reach
+// MW: Range | Mod: Enhanced Range
+//notes:Felwinter's Lie | Source: Iron Banner | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Skulking Wolf | Perks: Rifled Barrel / Accurized Rounds / Slickdraw / Iron Reach|tags:pvp
+dimwishlist:item=218787950&perks=1332244541,3142289711,1821614984,591790007
+
+// Multimach CCX - Iron Banner - PVP
+// Perks: Smallbore / Accurized Rounds / Stopping Power / Target Lock
+// MW: Range | Mod: Ballistics
+//notes:Multimach CCX | Source: Iron Banner | Use: PVP | MW: Range | Mod: Ballistics | Origin: Field-Tested | Perks: Smallbore / Accurized Rounds / Stopping Power / Target Lock|tags:pvp
+dimwishlist:item=3026836571&perks=1482024992,3142289711,1517798362,365154968
+
+// Lethal Abundance - Iron Banner - PVP
+// Perks: Fluted Barrel / Accurized Rounds / Rewind Rounds / Onslaught
+// MW: Stability | Mod: Ballistics
+//notes:Lethal Abundance | Source: Iron Banner | Use: PVP | MW: Stability | Mod: Ballistics | Origin: Skulking Wolf | Perks: Fluted Barrel / Accurized Rounds / Rewind Rounds / Onslaught|tags:pvp
+dimwishlist:item=1884897339&perks=1840239774,3142289711,3418782618,95528736
+
+// The Forward Path - Iron Banner - PVP
+// Perks: Corkscrew Rifling / Accurized Rounds / Zen Moment / Iron Grip
+// MW: Range | Mod: Ballistics
+//notes:The Forward Path | Source: Iron Banner | Use: PVP | MW: Range | Mod: Ballistics | Origin: Skulking Wolf | Perks: Corkscrew Rifling / Accurized Rounds / Zen Moment / Iron Grip|tags:pvp
+dimwishlist:item=1884897338&perks=4090651448,3142289711,2387244414,11551321
+
+// Point of the Stag - Iron Banner - PVP
+// Perks: Elastic String / Compact Arrow Shaft / Hip-Fire Grip / Archer's Gambit
+// MW: Draw Time | Mod: Tension
+//notes:Point of the Stag | Source: Iron Banner | Use: PVP | MW: Draw Time | Mod: Tension | Origin: Wild Card | Perks: Elastic String / Compact Arrow Shaft / Hip-Fire Grip / Archer's Gambit|tags:pvp
+dimwishlist:item=911019136&perks=2801223209,16392701,1866048759,3414324643
+
+// The Wizened Rebuke - Iron Banner - PVP
+// Perks: Fluted Barrel / Projection Fuse / Iron Grip / Closing Time
+// MW: Charge Time | Mod: Enhanced Charge Time
+//notes:The Wizened Rebuke | Source: Iron Banner | Use: PVP | MW: Charge Time | Mod: Enhanced Charge Time | Origin: Skulking Wolf | Perks: Fluted Barrel / Projection Fuse / Iron Grip / Closing Time|tags:pvp
+dimwishlist:item=293709641&perks=1840239774,2969185026,11551321,1194056669
+
+// Pressurized Precision - Iron Banner - PVP
+// Perks: Hammer-Forged Rifling / Projection Fuse / Under Pressure / Closing Time
+// MW: Range | Mod: Ballistics
+//notes:Pressurized Precision | Source: Iron Banner | Use: PVP | MW: Range | Mod: Ballistics | Origin: Skulking Wolf | Perks: Hammer-Forged Rifling / Projection Fuse / Under Pressure / Closing Time|tags:pvp
+dimwishlist:item=293709640&perks=3250034553,2969185026,1645158859,1194056669
+
+// Crimil's Dagger - Iron Banner - PVP
+// Perks: Fluted Barrel / Accurized Rounds / Slideshot / Precision Instrument
+// MW: Range | Mod: Ballistics
+//notes:Crimil's Dagger | Source: Iron Banner | Use: PVP | MW: Range | Mod: Ballistics | Origin: Skulking Wolf | Perks: Fluted Barrel / Accurized Rounds / Slideshot / Precision Instrument|tags:pvp
+dimwishlist:item=1617917863&perks=1840239774,3142289711,3161816588,555281244
+
+// The Time-Worn Spire - Iron Banner - PVP
+// Perks: Hammer-Forged Rifling / Ricochet Rounds / Zen Moment / Elemental Honing
+// MW: Range | Mod: Counterbalance Stock
+//notes:The Time-Worn Spire | Source: Iron Banner | Use: PVP | MW: Range | Mod: Counterbalance Stock | Origin: Skulking Wolf | Perks: Hammer-Forged Rifling / Ricochet Rounds / Zen Moment / Elemental Honing|tags:pvp
+dimwishlist:item=2204165992&perks=3250034553,1885400500,2387244414,1089671869
+
+// Roar of the Bear - Iron Banner - PVP
+// Perks: Quick Launch / High-Velocity Rounds / Impulse Amplifier / Chain Reaction
+// MW: Velocity | Mod: Aerodynamics
+//notes:Roar of the Bear | Source: Iron Banner | Use: PVP | MW: Velocity | Mod: Aerodynamics | Origin: Skulking Wolf | Perks: Quick Launch / High-Velocity Rounds / Impulse Amplifier / Chain Reaction|tags:pvp
+dimwishlist:item=4009352833&perks=3525010810,2822142346,951095735,2396489472
+
+// Gunnora's Axe - Iron Banner - PVP
+// Perks: Fluted Barrel / Ricochet Rounds / Lone Wolf / Iron Reach
+// MW: Handling | Mod: Quick Access Sling
+//notes:Gunnora's Axe | Source: Iron Banner | Use: PVP | MW: Handling | Mod: Quick Access Sling | Origin: Skulking Wolf | Perks: Fluted Barrel / Ricochet Rounds / Lone Wolf / Iron Reach|tags:pvp
+dimwishlist:item=218787951&perks=1840239774,1885400500,2579169598,591790007
+
+// Occluded Finality - Iron Banner - PVP
+// Perks: Fluted Barrel / Ricochet Rounds / Snapshot Sights / Opening Shot
+// MW: Handling | Mod: Targeting Adjuster
+//notes:Occluded Finality | Source: Iron Banner | Use: PVP | MW: Handling | Mod: Targeting Adjuster | Origin: Skulking Wolf | Perks: Fluted Barrel / Ricochet Rounds / Snapshot Sights / Opening Shot|tags:pvp
+dimwishlist:item=852551895&perks=1840239774,1885400500,957782887,47981717
+
+// Gnawing Hunger - Gambit - PVE
+// Perks: Fluted Barrel / Tactical Mag / Subsistence / Destabilizing Rounds
+// MW: Handling | Mod: Backup Mag
+//notes:Gnawing Hunger | Source: Gambit | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Gun and Run | Perks: Fluted Barrel / Tactical Mag / Subsistence / Destabilizing Rounds|tags:pve
+dimwishlist:item=214545213&perks=1840239774,106909392,1820235745,2048641572
+
+// Hush - Gambit - PVE
+// Perks: Elastic String / Compact Arrow Shaft / Successful Warm-Up / Archer's Gambit
+// MW: Draw Time | Mod: Tension
+//notes:Hush | Source: Gambit | Use: PVE | MW: Draw Time | Mod: Tension | Origin: Gun and Run | Perks: Elastic String / Compact Arrow Shaft / Successful Warm-Up / Archer's Gambit|tags:pve
+dimwishlist:item=3962575203&perks=2801223209,16392701,2652708987,3414324643
+
+// 21% Delirium - Gambit - PVE
+// Perks: Fluted Barrel / Extended Mag / Reconstruction / Gear Shift
+// MW: Handling | Mod: Enhanced Handling
+//notes:21% Delirium | Source: Gambit | Use: PVE | MW: Handling | Mod: Enhanced Handling | Origin: Gun and Run | Perks: Fluted Barrel / Extended Mag / Reconstruction / Gear Shift|tags:pve
+dimwishlist:item=3001598094&perks=1840239774,2420895100,1523832109,654512643
+
+// Bad Omens - Gambit - PVE
+// Perks: Quick Launch / High-Velocity Rounds / Bipod / Kill Clip
+// MW: Handling | Mod: Tactical
+//notes:Bad Omens | Source: Gambit | Use: PVE | MW: Handling | Mod: Tactical | Origin: Gun and Run | Perks: Quick Launch / High-Velocity Rounds / Bipod / Kill Clip|tags:pve
+dimwishlist:item=1996201272&perks=3525010810,2822142346,1439600632,1015611457
+
+// Trust - Gambit - PVP
+// Perks: Fluted Barrel / Accurized Rounds / Keep Away / Explosive Payload
+// MW: Range | Mod: Enhanced Range
+//notes:Trust | Source: Gambit | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Gun and Run | Perks: Fluted Barrel / Accurized Rounds / Keep Away / Explosive Payload|tags:pvp
+dimwishlist:item=810474118&perks=1840239774,3142289711,3619207468,3038247973
+
+// Sole Survivor - Gambit - INVADE
+// Perks: Hammer-Forged Rifling / Ricochet Rounds / Snapshot Sights / Gear Shift
+// MW: Range | Mod: Enhanced Range
+//notes:Sole Survivor | Source: Gambit | Use: INVADE | MW: Range | Mod: Enhanced Range | Origin: Gun and Run | Perks: Hammer-Forged Rifling / Ricochet Rounds / Snapshot Sights / Gear Shift|tags:pvp
+dimwishlist:item=2920648677&perks=3250034553,1885400500,957782887,654512643
+
+// Spare Rations - Gambit - PVP
+// Perks: Smallbore / Accurized Rounds / Slideshot / Explosive Payload
+// MW: Range | Mod: Ballistics
+//notes:Spare Rations | Source: Gambit | Use: PVP | MW: Range | Mod: Ballistics | Origin: Gun and Run | Perks: Smallbore / Accurized Rounds / Slideshot / Explosive Payload|tags:pvp
+dimwishlist:item=3116356268&perks=1482024992,3142289711,3161816588,3038247973
+
+// Doomsday - Gambit - PVE
+// Perks: Linear Compensator / Augmented Drum / Eddy Current / Chain Reaction
+// MW: Blast Radius | Mod: Enhanced Blast Radius
+//notes:Doomsday | Source: Gambit | Use: PVE | MW: Blast Radius | Mod: Enhanced Blast Radius | Origin: Gun and Run | Perks: Linear Compensator / Augmented Drum / Eddy Current / Chain Reaction|tags:pve
+dimwishlist:item=713132408&perks=1441682018,1771897777,684456054,2396489472
+
+// Last Man Standing - Gambit - PVE
+// Perks: Barrel Shroud / Assault Mag / Lead from Gold / Discord
+// MW: Handling | Mod: Aerodynamics
+//notes:Last Man Standing | Source: Gambit | Use: PVE | MW: Handling | Mod: Aerodynamics | Origin: Gun and Run | Perks: Barrel Shroud / Assault Mag / Lead from Gold / Discord|tags:pve
+dimwishlist:item=4276696963&perks=1300023272,791862061,1556840489,3978468247
+
+// Bug-Out Bag - Gambit - PVE
+// Perks: Fluted Barrel / Appended Mag / Attrition Orbs / Frenzy
+// MW: Reload Speed | Mod: Backup Mag
+//notes:Bug-Out Bag | Source: Gambit | Use: PVE | MW: Reload Speed | Mod: Backup Mag | Origin: Gun and Run | Perks: Fluted Barrel / Appended Mag / Attrition Orbs / Frenzy|tags:pve
+dimwishlist:item=3327901954&perks=1840239774,1087426260,243981275,4104185692
+
+// Bygones - Gambit - PVE
+// Perks: Fluted Barrel / Appended Mag / Stopping Power / All-Star
+// MW: Reload Speed | Mod: Tactical
+//notes:Bygones | Source: Gambit | Use: PVE | MW: Reload Speed | Mod: Tactical | Origin: Gun and Run | Perks: Fluted Barrel / Appended Mag / Stopping Power / All-Star|tags:pve
+dimwishlist:item=767170345&perks=1840239774,1087426260,1517798362,1226351311
+
+// Python - Gambit - PVE
+// Perks: Barrel Shroud / Assault Mag / Overflow / Withering Gaze
+// MW: Handling | Mod: Backup Mag
+//notes:Python | Source: Gambit | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Gun and Run | Perks: Barrel Shroud / Assault Mag / Overflow / Withering Gaze|tags:pve
+dimwishlist:item=4276696962&perks=1300023272,791862061,3643424744,1134488199
+
+// Allied Demand - Vendor Exclusive Gear (Lord Saladin) - PVP
+// Perks: Fluted Barrel / Ricochet Rounds / Rapid Hit / Iron Reach
+// MW: Range | Mod: Enhanced Range
+//notes:Allied Demand | Source: Vendor Exclusive Gear (Lord Saladin) | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Field-Tested | Perks: Fluted Barrel / Ricochet Rounds / Rapid Hit / Iron Reach|tags:pvp
+dimwishlist:item=1532276803&perks=1840239774,1885400500,247725512,591790007
+
+// Archon's Thunder - Vendor Exclusive Gear (Lord Saladin) - PVP
+// Perks: Fluted Barrel / Steady Rounds / High-Impact Reserves / Killing Tally
+// MW: Range | Mod: Anti-Flinch
+//notes:Archon's Thunder | Source: Vendor Exclusive Gear (Lord Saladin) | Use: PVP | MW: Range | Mod: Anti-Flinch | Origin: Skulking Wolf | Perks: Fluted Barrel / Steady Rounds / High-Impact Reserves / Killing Tally|tags:pvp
+dimwishlist:item=2896109856&perks=1840239774,3177308360,2213355989,557221067
+
+// Bite of the Fox - Vendor Exclusive Gear (Lord Saladin) - PVP
+// Perks: Fluted Barrel / Accurized Rounds / Slickdraw / Iron Gaze
+// MW: Handling | Mod: Targeting Adjuster
+//notes:Bite of the Fox | Source: Vendor Exclusive Gear (Lord Saladin) | Use: PVP | MW: Handling | Mod: Targeting Adjuster | Origin: Skulking Wolf | Perks: Fluted Barrel / Accurized Rounds / Slickdraw / Iron Gaze|tags:pvp
+dimwishlist:item=1403800851&perks=1840239774,3142289711,1821614984,4152709778
+
+// Claws of the Wolf - Vendor Exclusive Gear (Lord Saladin) - PVP
+// Perks: Arrowhead Brake / Ricochet Rounds / Elemental Capacitor / Kill Clip
+// MW: Range | Mod: Enhanced Range
+//notes:Claws of the Wolf | Source: Vendor Exclusive Gear (Lord Saladin) | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Skulking Wolf | Perks: Arrowhead Brake / Ricochet Rounds / Elemental Capacitor / Kill Clip|tags:pvp
+dimwishlist:item=1505862304&perks=839105230,1885400500,3511092054,1015611457
+
+// Frontier's Cry - Vendor Exclusive Gear (Lord Saladin) - PVP
+// Perks: Hammer-Forged Rifling / Flared Magwell / Rapid Hit / Iron Reach
+// MW: Range | Mod: Enhanced Range
+//notes:Frontier's Cry | Source: Vendor Exclusive Gear (Lord Saladin) | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Skulking Wolf | Perks: Hammer-Forged Rifling / Flared Magwell / Rapid Hit / Iron Reach|tags:pvp
+dimwishlist:item=1141547457&perks=3250034553,3230963543,247725512,591790007
+
+// Jorum's Claw - Vendor Exclusive Gear (Lord Saladin) - PVP
+// Perks: Smallbore / Flared Magwell / Iron Grip / Headseeker
+// MW: Range | Mod: Enhanced Range
+//notes:Jorum's Claw | Source: Vendor Exclusive Gear (Lord Saladin) | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Skulking Wolf | Perks: Smallbore / Flared Magwell / Iron Grip / Headseeker|tags:pvp
+dimwishlist:item=62937067&perks=1482024992,3230963543,11551321,460017080
+
+// Peacebond - Vendor Exclusive Gear (Lord Saladin) - PVP
+// Perks: Hammer-Forged Rifling / Flared Magwell / Zen Moment / Kill Clip
+// MW: Reload Speed | Mod: Enhanced Range
+//notes:Peacebond | Source: Vendor Exclusive Gear (Lord Saladin) | Use: PVP | MW: Reload Speed | Mod: Enhanced Range | Origin: Skulking Wolf | Perks: Hammer-Forged Rifling / Flared Magwell / Zen Moment / Kill Clip|tags:pvp
+dimwishlist:item=3437370193&perks=3250034553,3230963543,2387244414,1015611457
+
+// Riiswalker - Vendor Exclusive Gear (Lord Saladin) - PVP
+// Perks: Barrel Shroud / Accurized Rounds / Slickdraw / Iron Reach
+// MW: Range | Mod: Enhanced Range
+//notes:Riiswalker | Source: Vendor Exclusive Gear (Lord Saladin) | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Skulking Wolf | Perks: Barrel Shroud / Accurized Rounds / Slickdraw / Iron Reach|tags:pvp
+dimwishlist:item=1764868900&perks=1300023272,3142289711,1821614984,591790007
+
+// The Hero's Burden - Vendor Exclusive Gear (Lord Saladin) - PVP
+// Perks: Smallbore / Accurized Rounds / Zen Moment / Iron Reach
+// MW: Stability | Mod: Ballistics
+//notes:The Hero's Burden | Source: Vendor Exclusive Gear (Lord Saladin) | Use: PVP | MW: Stability | Mod: Ballistics | Origin: Skulking Wolf | Perks: Smallbore / Accurized Rounds / Zen Moment / Iron Reach|tags:pvp
+dimwishlist:item=2488587246&perks=1482024992,3142289711,2387244414,591790007
+
+// Tinasha's Mastery - Vendor Exclusive Gear (Lord Saladin) - PVE
+// Perks: Quick Launch / Tactical Mag / Air Trigger / Chill Clip
+// MW: Blast Radius | Mod: Backup Mag
+//notes:Tinasha's Mastery | Source: Vendor Exclusive Gear (Lord Saladin) | Use: PVE | MW: Blast Radius | Mod: Backup Mag | Origin: Skulking Wolf | Perks: Quick Launch / Tactical Mag / Air Trigger / Chill Clip|tags:pve
+dimwishlist:item=480368036&perks=3525010810,106909392,1421772400,2978966579
+
+// Tusk of the Boar - Vendor Exclusive Gear (Lord Saladin) - PVE
+// Perks: Quick Launch / High-Velocity Rounds / Slideways / Chain Reaction
+// MW: Blast Radius | Mod: Aerodynamics
+//notes:Tusk of the Boar | Source: Vendor Exclusive Gear (Lord Saladin) | Use: PVE | MW: Blast Radius | Mod: Aerodynamics | Origin: Skulking Wolf | Perks: Quick Launch / High-Velocity Rounds / Slideways / Chain Reaction|tags:pve
+dimwishlist:item=1218113510&perks=3525010810,2822142346,2039302152,2396489472
+
+// Reed's Regret - Vendor Exclusive Gear (Saint-14) - PVE
+// Perks: Fluted Barrel / Ionized Battery / Triple Tap / Firing Line
+// MW: Charge Time | Mod: Enhanced Charge Time
+//notes:Reed's Regret | Source: Vendor Exclusive Gear (Saint-14) | Use: PVE | MW: Charge Time | Mod: Enhanced Charge Time | Origin: Veist Stinger | Perks: Fluted Barrel / Ionized Battery / Triple Tap / Firing Line|tags:pve
+dimwishlist:item=1399243961&perks=1840239774,1483536627,3400784728,1771339417
+
+// Yesterday's Question - Vendor Exclusive Gear (Saint-14) - PVE
+// Perks: Fluted Barrel / Flared Magwell / Fourth Time's the Charm / Vorpal Weapon
+// MW: Reload Speed | Mod: Backup Mag
+//notes:Yesterday's Question | Source: Vendor Exclusive Gear (Saint-14) | Use: PVE | MW: Reload Speed | Mod: Backup Mag | Origin: Roar of Battle | Perks: Fluted Barrel / Flared Magwell / Fourth Time's the Charm / Vorpal Weapon|tags:pve
+dimwishlist:item=2300143112&perks=1840239774,3230963543,1354429876,1546637391
+
+// The Last Dance - Vendor Exclusive Gear (Zavala - Fireteam Ops) - PVP
+// Perks: Hammer-Forged Rifling / Ricochet Rounds / Moving Target / Rangefinder
+// MW: Range | Mod: Enhanced Reload
+//notes:The Last Dance | Source: Vendor Exclusive Gear (Zavala - Fireteam Ops) | Use: PVP | MW: Range | Mod: Enhanced Reload | Origin: Vanguard Determination | Perks: Hammer-Forged Rifling / Ricochet Rounds / Moving Target / Rangefinder|tags:pvp
+dimwishlist:item=4045298483&perks=3250034553,1885400500,588594999,2846385770
+
+// The Third Axiom - Vendor Exclusive Gear (Zavala - Fireteam Ops) - PVP
+// Perks: Fluted Barrel / Ricochet Rounds / Killing Wind / Rampage
+// MW: Range | Mod: Ballistics
+//notes:The Third Axiom | Source: Vendor Exclusive Gear (Zavala - Fireteam Ops) | Use: PVP | MW: Range | Mod: Ballistics | Origin: Vanguard Determination | Perks: Fluted Barrel / Ricochet Rounds / Killing Wind / Rampage|tags:pvp
+dimwishlist:item=4156253727&perks=1840239774,1885400500,2450788523,3425386926
+
+// Empty Vessel - Vendor Exclusive Gear (Zavala - Fireteam Ops) - PVE
+// Perks: Quick Launch / High-Velocity Rounds / Genesis / Unrelenting
+// MW: Reload Speed | Mod: Tactical
+//notes:Empty Vessel | Source: Vendor Exclusive Gear (Zavala - Fireteam Ops) | Use: PVE | MW: Reload Speed | Mod: Tactical | Origin: Vanguard Determination | Perks: Quick Launch / High-Velocity Rounds / Genesis / Unrelenting|tags:pve
+dimwishlist:item=4255586669&perks=3525010810,2822142346,3096702027,3108830275
+
+// Spoiler Alert - Vendor Exclusive Gear (Zavala - Fireteam Ops) - PVP
+// Perks: Hammer-Forged Rifling / Ricochet Rounds / Killing Wind / Swashbuckler
+// MW: Range | Mod: Enhanced Range
+//notes:Spoiler Alert | Source: Vendor Exclusive Gear (Zavala - Fireteam Ops) | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Vanguard Determination | Perks: Hammer-Forged Rifling / Ricochet Rounds / Killing Wind / Swashbuckler|tags:pvp
+dimwishlist:item=4045298482&perks=3250034553,1885400500,2450788523,4082225868
+
+// Xenoclast IV - Vendor Exclusive Gear (Zavala - Fireteam Ops) - PVE
+// Perks: Barrel Shroud / Tactical Mag / Genesis / Thresh
+// MW: Handling | Mod: Backup Mag
+//notes:Xenoclast IV | Source: Vendor Exclusive Gear (Zavala - Fireteam Ops) | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Vanguard Determination | Perks: Barrel Shroud / Tactical Mag / Genesis / Thresh|tags:pve
+dimwishlist:item=2891672170&perks=1300023272,106909392,3096702027,2726471870
+
+// Fortissimo-11 - Vendor Exclusive Gear (Zavala - Fireteam Ops) - PVE
+// Perks: Fluted Barrel / Assault Mag / Fourth Time's the Charm / Surrounded
+// MW: Handling | Mod: Backup Mag
+//notes:Fortissimo-11 | Source: Vendor Exclusive Gear (Zavala - Fireteam Ops) | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Vanguard Determination | Perks: Fluted Barrel / Assault Mag / Fourth Time's the Charm / Surrounded|tags:pve
+dimwishlist:item=2821430069&perks=1840239774,791862061,1354429876,3708227201
+
+// Origin Story - Vendor Exclusive Gear (Zavala - Fireteam Ops) - PVP
+// Perks: Smallbore / Ricochet Rounds / Zen Moment / Kinetic Tremors
+// MW: Handling | Mod: Enhanced Range
+//notes:Origin Story | Source: Vendor Exclusive Gear (Zavala - Fireteam Ops) | Use: PVP | MW: Handling | Mod: Enhanced Range | Origin: Nadir Focus | Perks: Smallbore / Ricochet Rounds / Zen Moment / Kinetic Tremors|tags:pvp
+dimwishlist:item=2826850739&perks=1482024992,1885400500,2387244414,3891536761
+
+// Shadow Price - Vendor Exclusive Gear (Zavala - Pinnacle Ops) - PVE
+// Perks: Fluted Barrel / Tactical Mag / Stats for All / Voltshot
+// MW: Handling | Mod: Backup Mag
+//notes:Shadow Price | Source: Vendor Exclusive Gear (Zavala - Pinnacle Ops) | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Problem Solver | Perks: Fluted Barrel / Tactical Mag / Stats for All / Voltshot|tags:pve
+dimwishlist:item=2322926844&perks=1840239774,106909392,1583705720,2173046394
+
+// Loaded Question - Vendor Exclusive Gear (Zavala - Pinnacle Ops) - PVE
+// Perks: Fluted Barrel / Enhanced Battery / Auto-Loading Holster / Controlled Burst
+// MW: Charge Time | Mod: Backup Mag
+//notes:Loaded Question | Source: Vendor Exclusive Gear (Zavala - Pinnacle Ops) | Use: PVE | MW: Charge Time | Mod: Backup Mag | Origin: Problem Solver | Perks: Fluted Barrel / Enhanced Battery / Auto-Loading Holster / Controlled Burst|tags:pve
+dimwishlist:item=3125454907&perks=1840239774,2680121939,3300816228,2594592626
+
+// PLUG ONE.1 - Vendor Exclusive Gear (Zavala - Pinnacle Ops) - PVP
+// Perks: Smallbore / Projection Fuse / Under Pressure / Kickstart
+// MW: Charge Time | Mod: Ballistics
+//notes:PLUG ONE.1 | Source: Vendor Exclusive Gear (Zavala - Pinnacle Ops) | Use: PVP | MW: Charge Time | Mod: Ballistics | Origin: Vanguard Determination | Perks: Smallbore / Projection Fuse / Under Pressure / Kickstart|tags:pvp
+dimwishlist:item=1289000550&perks=1482024992,2969185026,1645158859,1754714824
+
+// Rake Angle - Vendor Exclusive Gear (Zavala - Pinnacle Ops) - PVE
+// Perks: Low-Impedance Windings / Light Mag / Rimestealer / Swashbuckler
+// MW: Reload Speed | Mod: Bandolier
+//notes:Rake Angle | Source: Vendor Exclusive Gear (Zavala - Pinnacle Ops) | Use: PVE | MW: Reload Speed | Mod: Bandolier | Origin: Häkke Breach Armaments | Perks: Low-Impedance Windings / Light Mag / Rimestealer / Swashbuckler|tags:pve
+dimwishlist:item=2298039571&perks=2713678205,679225683,1955165503,4082225868
+
+// Wild Style - Vendor Exclusive Gear (Zavala - Pinnacle Ops) - PVE
+// Perks: Quick Launch / Spike Grenades / Reconstruction / Surrounded
+// MW: Handling | Mod: Quick Access Sling
+//notes:Wild Style | Source: Vendor Exclusive Gear (Zavala - Pinnacle Ops) | Use: PVE | MW: Handling | Mod: Quick Access Sling | Origin: Problem Solver | Perks: Quick Launch / Spike Grenades / Reconstruction / Surrounded|tags:pve
+dimwishlist:item=1332123064&perks=3525010810,3301904089,1523832109,3708227201
+
+// Wendigo GL3 - Vendor Exclusive Gear (Zavala - Pinnacle Ops) - PVE
+// Perks: Quick Launch / Spike Grenades / Impulse Amplifier / Explosive Light
+// MW: Reload Speed | Mod: Backup Mag
+//notes:Wendigo GL3 | Source: Vendor Exclusive Gear (Zavala - Pinnacle Ops) | Use: PVE | MW: Reload Speed | Mod: Backup Mag | Origin: Problem Solver | Perks: Quick Launch / Spike Grenades / Impulse Amplifier / Explosive Light|tags:pve
+dimwishlist:item=1854753404&perks=3525010810,3301904089,951095735,3194351027
+
+// Warden's Law - Vendor Exclusive Gear (Zavala - Pinnacle Ops) - PVE
+// Perks: Corkscrew Rifling / Tactical Mag / Fourth Time's the Charm / Vorpal Weapon
+// MW: Range | Mod: Backup Mag
+//notes:Warden's Law | Source: Vendor Exclusive Gear (Zavala - Pinnacle Ops) | Use: PVE | MW: Range | Mod: Backup Mag | Origin: Problem Solver | Perks: Corkscrew Rifling / Tactical Mag / Fourth Time's the Charm / Vorpal Weapon|tags:pve
+dimwishlist:item=1821529912&perks=4090651448,106909392,1354429876,1546637391
+
+// Scintillation - Vendor Exclusive Gear (Zavala - Pinnacle Ops) - PVE
+// Perks: Fluted Barrel / Liquid Coils / Rewind Rounds / Firing Line
+// MW: Charge Time | Mod: Enhanced Charge Time
+//notes:Scintillation | Source: Vendor Exclusive Gear (Zavala - Pinnacle Ops) | Use: PVE | MW: Charge Time | Mod: Enhanced Charge Time | Origin: Veist Stinger | Perks: Fluted Barrel / Liquid Coils / Rewind Rounds / Firing Line|tags:pve
+dimwishlist:item=2591257541&perks=1840239774,1687452232,3418782618,1771339417
+
+// Cruel Mercy - Vendor Exclusive Gear (Zavala - Pinnacle Ops) - PVE
+// Perks: Fluted Barrel / Appended Mag / Dragonfly / Frenzy
+// MW: Reload Speed | Mod: Bandolier
+//notes:Cruel Mercy | Source: Vendor Exclusive Gear (Zavala - Pinnacle Ops) | Use: PVE | MW: Reload Speed | Mod: Bandolier | Origin: Problem Solver | Perks: Fluted Barrel / Appended Mag / Dragonfly / Frenzy|tags:pve
+dimwishlist:item=233635202&perks=1840239774,1087426260,2848615171,4104185692
+
+// Mindbender's Ambition - Vendor Exclusive Gear (Zavala - Pinnacle Ops) - PVE
+// Perks: Barrel Shroud / Tactical Mag / Threat Detector / One-Two Punch
+// MW: Handling | Mod: Backup Mag
+//notes:Mindbender's Ambition | Source: Vendor Exclusive Gear (Zavala - Pinnacle Ops) | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Problem Solver | Perks: Barrel Shroud / Tactical Mag / Threat Detector / One-Two Punch|tags:pve
+dimwishlist:item=1094005544&perks=1300023272,106909392,4071163871,2679249093
+
+// Buzzard - Vendor Exclusive Gear (Zavala - Pinnacle Ops) - PVP
+// Perks: Hammer-Forged Rifling / High-Caliber Rounds / Encore / Rangefinder
+// MW: Range | Mod: Enhanced Range
+//notes:Buzzard | Source: Vendor Exclusive Gear (Zavala - Pinnacle Ops) | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Vanguard Determination | Perks: Hammer-Forged Rifling / High-Caliber Rounds / Encore / Rangefinder|tags:pvp
+dimwishlist:item=213264394&perks=3250034553,1561002382,1195158366,2846385770
+
+// Uzume RR4 - Vendor Exclusive Gear (Lord Shaax) - PVE
+// Perks: Fluted Barrel / Tactical Mag / Fourth Time's the Charm / Deconstruct
+// MW: Handling | Mod: Backup Mag
+//notes:Uzume RR4 | Source: Vendor Exclusive Gear (Lord Shaax) | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Problem Solver | Perks: Fluted Barrel / Tactical Mag / Fourth Time's the Charm / Deconstruct|tags:pve
+dimwishlist:item=2450917538&perks=1840239774,106909392,1354429876,3993379141
+
+// Retrofuturist - Vendor Exclusive Gear (Lord Shaax) - PVE
+// Perks: Smoothbore / Assault Mag / Quickdraw / Snapshot Sights
+// MW: Range | Mod: Enhanced Range
+//notes:Retrofuturist | Source: Vendor Exclusive Gear (Lord Shaax) | Use: PVE | MW: Range | Mod: Enhanced Range | Origin: Nadir Focus | Perks: Smoothbore / Assault Mag / Quickdraw / Snapshot Sights|tags:pve
+dimwishlist:item=1402766122&perks=466087222,791862061,706527188,957782887
+
+// Anonymous Autumn - Vendor Exclusive Gear (Lord Shaax) - PVP
+// Perks: Smallbore / Ricochet Rounds / Zen Moment / Adagio
+// MW: Range | Mod: Enhanced Range
+//notes:Anonymous Autumn | Source: Vendor Exclusive Gear (Lord Shaax) | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Field-Tested | Perks: Smallbore / Ricochet Rounds / Zen Moment / Adagio|tags:pvp
+dimwishlist:item=1051949956&perks=1482024992,1885400500,2387244414,3673922083
+
+// Last Perdition - Vendor Exclusive Gear (Lord Shaax) - PVP
+// Perks: Hammer-Forged Rifling / Tactical Mag / Moving Target / Kill Clip
+// MW: Range | Mod: Tactical
+//notes:Last Perdition | Source: Vendor Exclusive Gear (Lord Shaax) | Use: PVP | MW: Range | Mod: Tactical | Origin: Roar of Battle | Perks: Hammer-Forged Rifling / Tactical Mag / Moving Target / Kill Clip|tags:pvp
+dimwishlist:item=3364253967&perks=3250034553,106909392,588594999,1015611457
+
+// Aurvandil FR6 - Vendor Exclusive Gear (Banshee-44) - PVE
+// Perks: Fluted Barrel / Enhanced Battery / Reconstruction / Chill Clip
+// MW: Charge Time | Mod: Backup Mag
+//notes:Aurvandil FR6 | Source: Vendor Exclusive Gear (Banshee-44) | Use: PVE | MW: Charge Time | Mod: Backup Mag | Origin: Omolon Fluid Dynamics | Perks: Fluted Barrel / Enhanced Battery / Reconstruction / Chill Clip|tags:pve
+dimwishlist:item=963710795&perks=1840239774,2680121939,1523832109,2978966579
+
+// Maahes HC4 - Vendor Exclusive Gear (Banshee-44) - PVE
+// Perks: Fluted Barrel / Tactical Mag / Unrelenting / Frenzy
+// MW: Stability | Mod: Bandolier
+//notes:Maahes HC4 | Source: Vendor Exclusive Gear (Banshee-44) | Use: PVE | MW: Stability | Mod: Bandolier | Origin: Omolon Fluid Dynamics | Perks: Fluted Barrel / Tactical Mag / Unrelenting / Frenzy|tags:pve
+dimwishlist:item=1246793994&perks=1840239774,106909392,3108830275,4104185692
+
+// Watchful Eye - Vendor Exclusive Gear (Banshee-44) - PVE
+// Perks: Fluted Barrel / Extended Mag / Field Prep / Jolting Feedback
+// MW: Handling | Mod: Backup Mag
+//notes:Watchful Eye | Source: Vendor Exclusive Gear (Banshee-44) | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Willing Vessel | Perks: Fluted Barrel / Extended Mag / Field Prep / Jolting Feedback|tags:pve
+dimwishlist:item=1757177186&perks=1840239774,2420895100,2869569095,3966416502
+
+// Cold Denial - Vendor Exclusive Gear (Banshee-44) - PVP
+// Perks: Fluted Barrel / Ricochet Rounds / Zen Moment / Headseeker
+// MW: Reload Speed | Mod: Enhanced Reload
+//notes:Cold Denial | Source: Vendor Exclusive Gear (Banshee-44) | Use: PVP | MW: Reload Speed | Mod: Enhanced Reload | Origin: Paracausal Fluid | Perks: Fluted Barrel / Ricochet Rounds / Zen Moment / Headseeker|tags:pvp
+dimwishlist:item=1216130969&perks=1840239774,1885400500,2387244414,460017080
+
+// Ogma PR6 - Vendor Exclusive Gear (Banshee-44) - PVE
+// Perks: Fluted Barrel / Tactical Mag / Unrelenting / Dragonfly
+// MW: Reload Speed | Mod: Backup Mag
+//notes:Ogma PR6 | Source: Vendor Exclusive Gear (Banshee-44) | Use: PVE | MW: Reload Speed | Mod: Backup Mag | Origin: Omolon Fluid Dynamics | Perks: Fluted Barrel / Tactical Mag / Unrelenting / Dragonfly|tags:pve
+dimwishlist:item=2342054803&perks=1840239774,106909392,3108830275,2848615171
+
+// Patron of Lost Causes - Vendor Exclusive Gear (Banshee-44) - PVE
+// Perks: Fluted Barrel / Tactical Mag / Strategist / Explosive Payload
+// MW: Reload Speed | Mod: Backup Mag
+//notes:Patron of Lost Causes | Source: Vendor Exclusive Gear (Banshee-44) | Use: PVE | MW: Reload Speed | Mod: Backup Mag | Origin: Cast No Shadows | Perks: Fluted Barrel / Tactical Mag / Strategist / Explosive Payload|tags:pve
+dimwishlist:item=2249996761&perks=1840239774,106909392,880644845,3038247973
+
+// Live Fire - Vendor Exclusive Gear (Banshee-44) - PVP
+// Perks: Fluted Barrel / Ricochet Rounds / Rapid Hit / No Distractions
+// MW: Handling | Mod: Anti-Flinch
+//notes:Live Fire | Source: Vendor Exclusive Gear (Banshee-44) | Use: PVP | MW: Handling | Mod: Anti-Flinch | Origin: Field-Tested | Perks: Fluted Barrel / Ricochet Rounds / Rapid Hit / No Distractions|tags:pvp
+dimwishlist:item=3612142623&perks=1840239774,1885400500,247725512,2866798147
+
+// Glissando-47 - Vendor Exclusive Gear (Banshee-44) - PVP
+// Perks: Fluted Barrel / Ricochet Rounds / No Distractions / Box Breathing
+// MW: Reload Speed | Mod: Anti-Flinch
+//notes:Glissando-47 | Source: Vendor Exclusive Gear (Banshee-44) | Use: PVP | MW: Reload Speed | Mod: Anti-Flinch | Origin: Suros Synergy | Perks: Fluted Barrel / Ricochet Rounds / No Distractions / Box Breathing|tags:pvp
+dimwishlist:item=222606050&perks=1840239774,1885400500,2866798147,2551157718
+
+// Admetus-D - Vendor Exclusive Gear (Banshee-44) - PVE
+// Perks: Fluted Barrel / Appended Mag / Heal Clip / Frenzy
+// MW: Handling | Mod: Backup Mag
+//notes:Admetus-D | Source: Vendor Exclusive Gear (Banshee-44) | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Häkke Breach Armaments | Perks: Fluted Barrel / Appended Mag / Heal Clip / Frenzy|tags:pve
+dimwishlist:item=3156551029&perks=1840239774,1087426260,3017780555,4104185692
+
+// Ded Gramarye IV - Vendor Exclusive Gear (Banshee-44) - PVE
+// Perks: Barrel Shroud / Assault Mag / Discord / Chain Reaction
+// MW: Handling | Mod: Synergy
+//notes:Ded Gramarye IV | Source: Vendor Exclusive Gear (Banshee-44) | Use: PVE | MW: Handling | Mod: Synergy | Origin: Wild Card | Perks: Barrel Shroud / Assault Mag / Discord / Chain Reaction|tags:pve
+dimwishlist:item=499245245&perks=1300023272,791862061,3978468247,2396489472
+
+// Insurmountable - Vendor Exclusive Gear (Banshee-44) - PVE
+// Perks: Fluted Barrel / Tactical Mag / Repulsor Brace / Destabilizing Rounds
+// MW: Handling | Mod: Enhanced Handling
+//notes:Insurmountable | Source: Vendor Exclusive Gear (Banshee-44) | Use: PVE | MW: Handling | Mod: Enhanced Handling | Origin: Dark Ether Reaper | Perks: Fluted Barrel / Tactical Mag / Repulsor Brace / Destabilizing Rounds|tags:pve
+dimwishlist:item=414045521&perks=1840239774,106909392,776531651,2048641572
+
+// Abyssal Edge - Vendor Exclusive Gear (Banshee-44) - PVE
+// Perks: Honed Edge / Swordmaster's Guard / Duelist's Trance / Sword Logic
+// MW: Impact | Mod: Edge
+//notes:Abyssal Edge | Source: Vendor Exclusive Gear (Banshee-44) | Use: PVE | MW: Impact | Mod: Edge | Origin: Willing Vessel | Perks: Honed Edge / Swordmaster's Guard / Duelist's Trance / Sword Logic|tags:pve
+dimwishlist:item=547165496&perks=2827049491,269888150,3705817207,31345821
+
+// Night Watch - Vendor Exclusive Gear (Drifter) - PVE
+// Perks: Hammer-Forged Rifling / Flared Magwell / Rapid Hit / Explosive Payload
+// MW: Handling | Mod: Backup Mag
+//notes:Night Watch | Source: Vendor Exclusive Gear (Drifter) | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Gun and Run | Perks: Hammer-Forged Rifling / Flared Magwell / Rapid Hit / Explosive Payload|tags:pve
+dimwishlist:item=3504336176&perks=3250034553,3230963543,247725512,3038247973
+
+// Bottom Dollar - Vendor Exclusive Gear (Drifter) - PVP
+// Perks: Fluted Barrel / Accurized Rounds / Slideshot / Explosive Payload
+// MW: Range | Mod: Ballistics
+//notes:Bottom Dollar | Source: Vendor Exclusive Gear (Drifter) | Use: PVP | MW: Range | Mod: Ballistics | Origin: Gun and Run | Perks: Fluted Barrel / Accurized Rounds / Slideshot / Explosive Payload|tags:pvp
+dimwishlist:item=1046651176&perks=1840239774,3142289711,3161816588,3038247973
+
+// Herod-C - Vendor Exclusive Gear (Drifter) - PVP
+// Perks: Hammer-Forged Rifling / Ricochet Rounds / Dynamic Sway Reduction / Focused Fury
+// MW: Handling | Mod: Tactical
+//notes:Herod-C | Source: Vendor Exclusive Gear (Drifter) | Use: PVP | MW: Handling | Mod: Tactical | Origin: Häkke Breach Armaments | Perks: Hammer-Forged Rifling / Ricochet Rounds / Dynamic Sway Reduction / Focused Fury|tags:pvp
+dimwishlist:item=1788603939&perks=3250034553,1885400500,1359896290,2896038713
+
+// Yesteryear - Vendor Exclusive Gear (Drifter) - PVE
+// Perks: Fluted Barrel / High-Caliber Rounds / Slideways / Rampage
+// MW: Handling | Mod: Backup Mag
+//notes:Yesteryear | Source: Vendor Exclusive Gear (Drifter) | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Gun and Run | Perks: Fluted Barrel / High-Caliber Rounds / Slideways / Rampage|tags:pve
+dimwishlist:item=1141927949&perks=1840239774,1561002382,2039302152,3425386926
+
+// Laser Painter - Vendor Exclusive Gear (Drifter) - PVE
+// Perks: Arrowhead Brake / Enhanced Battery / Rapid Hit / Box Breathing
+// MW: Charge Time | Mod: Backup Mag
+//notes:Laser Painter | Source: Vendor Exclusive Gear (Drifter) | Use: PVE | MW: Charge Time | Mod: Backup Mag | Origin: Veist Stinger | Perks: Arrowhead Brake / Enhanced Battery / Rapid Hit / Box Breathing|tags:pve
+dimwishlist:item=3221722018&perks=839105230,2680121939,247725512,2551157718
+
+// Breakneck - Vendor Exclusive Gear (Drifter) - PVE
+// Perks: Fluted Barrel / High-Caliber Rounds / Enlightened Action / Onslaught
+// MW: Handling | Mod: Backup Mag
+//notes:Breakneck | Source: Vendor Exclusive Gear (Drifter) | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Gun and Run | Perks: Fluted Barrel / High-Caliber Rounds / Enlightened Action / Onslaught|tags:pve
+dimwishlist:item=2026755633&perks=1840239774,1561002382,3828510309,95528736
+
+// Lonesome - Vendor Exclusive Gear (Drifter) - PVP
+// Perks: Fluted Barrel / Ricochet Rounds / Rapid Hit / Kill Clip
+// MW: Range | Mod: Ballistics
+//notes:Lonesome | Source: Vendor Exclusive Gear (Drifter) | Use: PVP | MW: Range | Mod: Ballistics | Origin: Gun and Run | Perks: Fluted Barrel / Ricochet Rounds / Rapid Hit / Kill Clip|tags:pvp
+dimwishlist:item=2199171672&perks=1840239774,1885400500,247725512,1015611457
+
+// Vikala SMG4 - Sparrow Racing League (SRL) - PVP
+// Perks: Hammer-Forged Rifling / Projection Fuse / Delicate Tuning / Rangefinder
+// MW: Range | Mod: Enhanced Range
+//notes:Vikala SMG4 | Source: Sparrow Racing League (SRL) | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Featherweight | Perks: Hammer-Forged Rifling / Projection Fuse / Delicate Tuning / Rangefinder|tags:pvp
+dimwishlist:item=3210792817&perks=3250034553,2969185026,307683764,2846385770
+
+// Veillantif-D - Sparrow Racing League (SRL) - PVE
+// Perks: Quick Launch / Tactical Mag / Air Trigger / Sword Logic
+// MW: Handling | Mod: Backup Mag
+//notes:Veillantif-D | Source: Sparrow Racing League (SRL) | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Häkke Breach Armaments | Perks: Quick Launch / Tactical Mag / Air Trigger / Sword Logic|tags:pve
+dimwishlist:item=1361871430&perks=3525010810,106909392,1421772400,31345821
+
+// Crux Celeritas IV - Sparrow Racing League (SRL) - PVE
+// Perks: Quick Launch / Impact Casing / Air Trigger / Bipod
+// MW: Handling | Mod: Tactical
+//notes:Crux Celeritas IV | Source: Sparrow Racing League (SRL) | Use: PVE | MW: Handling | Mod: Tactical | Origin: Featherweight | Perks: Quick Launch / Impact Casing / Air Trigger / Bipod|tags:pve
+dimwishlist:item=391069235&perks=3525010810,3796465595,1421772400,1439600632
+
+// Snipehunt Mk. 47 - Sparrow Racing League (SRL) - PVE
+// Perks: Fluted Barrel / Flared Magwell / Jolting Feedback / Chaos Reshaped
+// MW: Reload Speed | Mod: Tactical
+//notes:Snipehunt Mk. 47 | Source: Sparrow Racing League (SRL) | Use: PVE | MW: Reload Speed | Mod: Tactical | Origin: Featherweight | Perks: Fluted Barrel / Flared Magwell / Jolting Feedback / Chaos Reshaped|tags:pve
+dimwishlist:item=193009988&perks=1840239774,3230963543,3966416502,3640170453
+
+// Accelerando-42 - Sparrow Racing League (SRL) - PVE
+// Perks: Fluted Barrel / Liquid Coils / Cornered / Controlled Burst
+// MW: Charge Time | Mod: Enhanced Charge Time
+//notes:Accelerando-42 | Source: Sparrow Racing League (SRL) | Use: PVE | MW: Charge Time | Mod: Enhanced Charge Time | Origin: Suros Synergy | Perks: Fluted Barrel / Liquid Coils / Cornered / Controlled Burst|tags:pve
+dimwishlist:item=3610531207&perks=1840239774,1687452232,1799762209,2594592626
+
+// Terciopelo-4bl - Sparrow Racing League (SRL) - PVE
+// Perks: Honed Edge / Swordmaster's Guard / Eager Edge / Chaos Reshaped
+// MW: Impact | Mod: Backup Mag
+//notes:Terciopelo-4bl | Source: Sparrow Racing League (SRL) | Use: PVE | MW: Impact | Mod: Backup Mag | Origin: Featherweight | Perks: Honed Edge / Swordmaster's Guard / Eager Edge / Chaos Reshaped|tags:pve
+dimwishlist:item=393652859&perks=2827049491,269888150,2077819806,3640170453
+
+// Chain of Command - Solo Ops - PVE
+// Perks: Fluted Barrel / Appended Mag / Subsistence / Meganeura
+// MW: Handling | Mod: Backup Mag
+//notes:Chain of Command | Source: Solo Ops | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Wild Card | Perks: Fluted Barrel / Appended Mag / Subsistence / Meganeura|tags:pve
+dimwishlist:item=1716620044&perks=1840239774,1087426260,1820235745,657025441
+
+// Cry Mutiny - Solo Ops - PVE
+// Perks: Quick Launch / High-Velocity Rounds / Impulse Amplifier / Mega Kill Clip
+// MW: Velocity | Mod: Backup Mag
+//notes:Cry Mutiny | Source: Solo Ops | Use: PVE | MW: Velocity | Mod: Backup Mag | Origin: Vanguard Determination | Perks: Quick Launch / High-Velocity Rounds / Impulse Amplifier / Mega Kill Clip|tags:pve
+dimwishlist:item=768696858&perks=3525010810,2822142346,951095735,2305480722
+
+// Fair Judgment - Solo Ops - PVE
+// Perks: Fluted Barrel / Flared Magwell / Deconstruct / Headstone
+// MW: Handling | Mod: Backup Mag
+//notes:Fair Judgment | Source: Solo Ops | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Vanguard Determination | Perks: Fluted Barrel / Flared Magwell / Deconstruct / Headstone|tags:pve
+dimwishlist:item=4113452819&perks=1840239774,3230963543,3993379141,124408337
+
+// Last Rite - Solo Ops - PVE
+// Perks: Fluted Barrel / Tactical Mag / Dual Loader / Firefly
+// MW: Handling | Mod: Backup Mag
+//notes:Last Rite | Source: Solo Ops | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Tex Balanced Stock | Perks: Fluted Barrel / Tactical Mag / Dual Loader / Firefly|tags:pve
+dimwishlist:item=3708636616&perks=1840239774,106909392,25606670,3824105627
+
+// Veles-X - Solo Ops - PVE
+// Perks: Fluted Barrel / Flared Magwell / Demoralize / Firefly
+// MW: Handling | Mod: Tactical
+//notes:Veles-X | Source: Solo Ops | Use: PVE | MW: Handling | Mod: Tactical | Origin: Vanguard Determination | Perks: Fluted Barrel / Flared Magwell / Demoralize / Firefly|tags:pve
+dimwishlist:item=438540299&perks=1840239774,3230963543,1464081238,3824105627
+
+// Perfect Pitch - Solo Ops - PVE
+// Perks: Fluted Barrel / Flared Magwell / Heal Clip / Incandescent
+// MW: Reload Speed | Mod: Backup Mag
+//notes:Perfect Pitch | Source: Solo Ops | Use: PVE | MW: Reload Speed | Mod: Backup Mag | Origin: Vanguard Determination | Perks: Fluted Barrel / Flared Magwell / Heal Clip / Incandescent|tags:pve
+dimwishlist:item=2191451996&perks=1840239774,3230963543,3017780555,4293542123
+
+// Chivalric Fire - Solo Ops - PVE
+// Perks: Tempered Edge / Heavy Guard / Tilting at Windmills / Eager Edge
+// MW: Impact | Mod: Backup Mag
+//notes:Chivalric Fire | Source: Solo Ops | Use: PVE | MW: Impact | Mod: Backup Mag | Origin: Vanguard Determination | Perks: Tempered Edge / Heavy Guard / Tilting at Windmills / Eager Edge|tags:pve
+dimwishlist:item=938936806&perks=938542991,2349202967,3526486541,2077819806
+
+// Ascendancy - Solo Ops - PVP
+// Perks: Volatile Launch / Black Powder / Impulse Amplifier / Chain Reaction
+// MW: Blast Radius | Mod: Enhanced Blast Radius
+//notes:Ascendancy | Source: Solo Ops | Use: PVP | MW: Blast Radius | Mod: Enhanced Blast Radius | Origin: Vanguard Determination | Perks: Volatile Launch / Black Powder / Impulse Amplifier / Chain Reaction|tags:pvp
+dimwishlist:item=1713388226&perks=1478423395,1996142143,951095735,2396489472
+
+// Reckless Endangerment - Solo Ops - PVE
+// Perks: Barrel Shroud / Tactical Mag / Dual Loader / All-Star
+// MW: Handling | Mod: Backup Mag
+//notes:Reckless Endangerment | Source: Solo Ops | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Vanguard Determination | Perks: Barrel Shroud / Tactical Mag / Dual Loader / All-Star|tags:pve
+dimwishlist:item=3085559077&perks=1300023272,106909392,25606670,1226351311
+
+// Ecliptic Distaff - Solo Ops - PVE
+// Perks: Low-Impedance Windings / Appended Mag / Disruption Break / Withering Gaze
+// MW: Shield Duration | Mod: Backup Mag
+//notes:Ecliptic Distaff | Source: Solo Ops | Use: PVE | MW: Shield Duration | Mod: Backup Mag | Origin: Noble Deeds | Perks: Low-Impedance Windings / Appended Mag / Disruption Break / Withering Gaze|tags:pve
+dimwishlist:item=1942143745&perks=2713678205,1087426260,1683379515,1134488199
+
+// Malediction - Solo Ops - PVP
+// Perks: Fluted Barrel / Accurized Rounds / Keep Away / Kill Clip
+// MW: Range | Mod: Enhanced Stability
+//notes:Malediction | Source: Solo Ops | Use: PVP | MW: Range | Mod: Enhanced Stability | Origin: Wild Card | Perks: Fluted Barrel / Accurized Rounds / Keep Away / Kill Clip|tags:pvp
+dimwishlist:item=979721268&perks=1840239774,3142289711,3619207468,1015611457
+
+// Resounding - Solo Ops - PVE
+// Perks: Fluted Barrel / Liquid Coils / Cornered / Surrounded
+// MW: Charge Time | Mod: Backup Mag
+//notes:Resounding | Source: Solo Ops | Use: PVE | MW: Charge Time | Mod: Backup Mag | Origin: Vanguard Determination | Perks: Fluted Barrel / Liquid Coils / Cornered / Surrounded|tags:pve
+dimwishlist:item=3273807888&perks=1840239774,1687452232,1799762209,3708227201
+
+// Convened Recurve - Fireteam Ops - PVE
+// Perks: Elastic String / Compact Arrow Shaft / Withering Gaze / Aggregate Charge
+// MW: Draw Time | Mod: Enhanced Draw Time
+//notes:Convened Recurve | Source: Fireteam Ops | Use: PVE | MW: Draw Time | Mod: Enhanced Draw Time | Origin: Accelerated Assault | Perks: Elastic String / Compact Arrow Shaft / Withering Gaze / Aggregate Charge|tags:pve
+dimwishlist:item=3667861447&perks=2801223209,16392701,1134488199,3764420437
+
+// Punching Out - Fireteam Ops - PVP
+// Perks: Hammer-Forged Rifling / Ricochet Rounds / Heal Clip / Kill Clip
+// MW: Range | Mod: Enhanced Range
+//notes:Punching Out | Source: Fireteam Ops | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Accelerated Assault | Perks: Hammer-Forged Rifling / Ricochet Rounds / Heal Clip / Kill Clip|tags:pvp
+dimwishlist:item=1469372193&perks=3250034553,1885400500,3017780555,1015611457
+
+// Prolonged Engagement - Fireteam Ops - PVP
+// Perks: Hammer-Forged Rifling / Ricochet Rounds / Dynamic Sway Reduction / Target Lock
+// MW: Range | Mod: Enhanced Range
+//notes:Prolonged Engagement | Source: Fireteam Ops | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Accelerated Assault | Perks: Hammer-Forged Rifling / Ricochet Rounds / Dynamic Sway Reduction / Target Lock|tags:pvp
+dimwishlist:item=2349907931&perks=3250034553,1885400500,1359896290,365154968
+
+// Nightshade - Fireteam Ops - PVP
+// Perks: Hammer-Forged Rifling / Ricochet Rounds / Keep Away / Kill Clip
+// MW: Range | Mod: Enhanced Range
+//notes:Nightshade | Source: Fireteam Ops | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Accelerated Assault | Perks: Hammer-Forged Rifling / Ricochet Rounds / Keep Away / Kill Clip|tags:pvp
+dimwishlist:item=1974641289&perks=3250034553,1885400500,3619207468,1015611457
+
+// Nameless Midnight - Fireteam Ops - PVE
+// Perks: Fluted Barrel / Tactical Mag / Shoot to Loot / Explosive Payload
+// MW: Handling | Mod: Backup Mag
+//notes:Nameless Midnight | Source: Fireteam Ops | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Accelerated Assault | Perks: Fluted Barrel / Tactical Mag / Shoot to Loot / Explosive Payload|tags:pve
+dimwishlist:item=1957301533&perks=1840239774,106909392,3700496672,3038247973
+
+// Cynosure - Fireteam Ops - PVE
+// Perks: Quick Launch / Impact Casing / Overflow / Lasting Impression
+// MW: Reload Speed | Mod: Tactical
+//notes:Cynosure | Source: Fireteam Ops | Use: PVE | MW: Reload Speed | Mod: Tactical | Origin: Accelerated Assault | Perks: Quick Launch / Impact Casing / Overflow / Lasting Impression|tags:pve
+dimwishlist:item=694275488&perks=3525010810,3796465595,3643424744,3927722942
+
+// Service Revolver - Fireteam Ops - PVE
+// Perks: Fluted Barrel / Tactical Mag / Shoot to Loot / Explosive Payload
+// MW: Handling | Mod: Backup Mag
+//notes:Service Revolver | Source: Fireteam Ops | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Accelerated Assault | Perks: Fluted Barrel / Tactical Mag / Shoot to Loot / Explosive Payload|tags:pve
+dimwishlist:item=3796682229&perks=1840239774,106909392,3700496672,3038247973
+
+// Main Ingredient - Fireteam Ops - PVE
+// Perks: Fluted Barrel / Liquid Coils / Trickle Charge / Gear Shift
+// MW: Charge Time | Mod: Enhanced Charge Time
+//notes:Main Ingredient | Source: Fireteam Ops | Use: PVE | MW: Charge Time | Mod: Enhanced Charge Time | Origin: Accelerated Assault | Perks: Fluted Barrel / Liquid Coils / Trickle Charge / Gear Shift|tags:pve
+dimwishlist:item=4046741099&perks=1840239774,1687452232,1115162408,654512643
+
+// Positive Outlook - Fireteam Ops - PVP
+// Perks: Smallbore / Ricochet Rounds / Zen Moment / Mega Kill Clip
+// MW: Range | Mod: Ballistics
+//notes:Positive Outlook | Source: Fireteam Ops | Use: PVP | MW: Range | Mod: Ballistics | Origin: Accelerated Assault | Perks: Smallbore / Ricochet Rounds / Zen Moment / Mega Kill Clip|tags:pvp
+dimwishlist:item=3625635456&perks=1482024992,1885400500,2387244414,2305480722
+
+// Aurora Dawn - Fireteam Ops - PVE
+// Perks: Tempered Edge / Swordmaster's Guard / Sharp Harvest / Cold Steel
+// MW: Impact | Mod: Backup Mag
+//notes:Aurora Dawn | Source: Fireteam Ops | Use: PVE | MW: Impact | Mod: Backup Mag | Origin: Accelerated Assault | Perks: Tempered Edge / Swordmaster's Guard / Sharp Harvest / Cold Steel|tags:pve
+dimwishlist:item=2111625436&perks=938542991,269888150,4132187021,3650930298
+
+// The Ringing Nail - Arena Ops - PVP
+// Perks: Smallbore / Ricochet Rounds / Zen Moment / Sword Logic
+// MW: Range | Mod: Enhanced Range
+//notes:The Ringing Nail | Source: Arena Ops | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Forge's Kin | Perks: Smallbore / Ricochet Rounds / Zen Moment / Sword Logic|tags:pvp
+dimwishlist:item=3326135421&perks=1482024992,1885400500,2387244414,31345821
+
+// The Spiteful Fang - Arena Ops - PVE
+// Perks: Elastic String / Compact Arrow Shaft / Headstone / Firefly
+// MW: Draw Time | Mod: Enhanced Draw Time
+//notes:The Spiteful Fang | Source: Arena Ops | Use: PVE | MW: Draw Time | Mod: Enhanced Draw Time | Origin: Forge's Kin | Perks: Elastic String / Compact Arrow Shaft / Headstone / Firefly|tags:pve
+dimwishlist:item=1094998581&perks=2801223209,16392701,124408337,3824105627
+
+// Tatara Gaze - Arena Ops - PVP
+// Perks: Fluted Barrel / Tactical Mag / Snapshot Sights / Mega Kill Clip
+// MW: Handling | Mod: Enhanced Handling
+//notes:Tatara Gaze | Source: Arena Ops | Use: PVP | MW: Handling | Mod: Enhanced Handling | Origin: Forge's Kin | Perks: Fluted Barrel / Tactical Mag / Snapshot Sights / Mega Kill Clip|tags:pvp
+dimwishlist:item=2531614757&perks=1840239774,106909392,957782887,2305480722
+
+// Kindled Orchid - Arena Ops - PVP
+// Perks: Smallbore / Accurized Rounds / Kill Clip / Magnificent Howl
+// MW: Range | Mod: Enhanced Range
+//notes:Kindled Orchid | Source: Arena Ops | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Forge's Kin | Perks: Smallbore / Accurized Rounds / Kill Clip / Magnificent Howl|tags:pvp
+dimwishlist:item=3961462214&perks=1482024992,3142289711,1015611457,2720533289
+
+// Stryker's Sure-Hand - Arena Ops - PVE
+// Perks: Hungry Edge / Swordmaster's Guard / Sharp Harvest / Impromptu Ammo
+// MW: Impact | Mod: Backup Mag
+//notes:Stryker's Sure-Hand | Source: Arena Ops | Use: PVE | MW: Impact | Mod: Backup Mag | Origin: Forge's Kin | Perks: Hungry Edge / Swordmaster's Guard / Sharp Harvest / Impromptu Ammo|tags:pve
+dimwishlist:item=2490460292&perks=436053704,269888150,4132187021,2360347339
+
+// Hammerhead - Arena Ops - PVE
+// Perks: Fluted Barrel / Flared Magwell / Rampage / Killing Wind
+// MW: Reload Speed | Mod: Backup Mag
+//notes:Hammerhead | Source: Arena Ops | Use: PVE | MW: Reload Speed | Mod: Backup Mag | Origin: Indomitability | Perks: Fluted Barrel / Flared Magwell / Rampage / Killing Wind|tags:pve
+dimwishlist:item=603242241&perks=1840239774,3230963543,3425386926,2450788523
+
+// Blast Furnace - Arena Ops - PVP
+// Perks: Fluted Barrel / Tactical Mag / Headseeker / Kill Clip
+// MW: Reload Speed | Mod: Tactical
+//notes:Blast Furnace | Source: Arena Ops | Use: PVP | MW: Reload Speed | Mod: Tactical | Origin: Indomitability | Perks: Fluted Barrel / Tactical Mag / Headseeker / Kill Clip|tags:pvp
+dimwishlist:item=2372514508&perks=1840239774,106909392,460017080,1015611457
+
+// No Feelings - Arena Ops - PVP
+// Perks: Arrowhead Brake / Accurized Rounds / Rapid Hit / Box Breathing
+// MW: Handling | Mod: Enhanced Handling
+//notes:No Feelings | Source: Arena Ops | Use: PVP | MW: Handling | Mod: Enhanced Handling | Origin: Forge's Kin | Perks: Arrowhead Brake / Accurized Rounds / Rapid Hit / Box Breathing|tags:pvp
+dimwishlist:item=1271275406&perks=839105230,3142289711,247725512,2551157718
+
+// Bellowing Giant - Arena Ops - PVE
+// Perks: Quick Launch / Impact Casing / Overflow / Bipod
+// MW: Handling | Mod: Quick Access Sling
+//notes:Bellowing Giant | Source: Arena Ops | Use: PVE | MW: Handling | Mod: Quick Access Sling | Origin: Forge's Kin | Perks: Quick Launch / Impact Casing / Overflow / Bipod|tags:pve
+dimwishlist:item=412265080&perks=3525010810,3796465595,3643424744,1439600632
+
+// Tempered Dynamo - Arena Ops - PVE
+// Perks: Fluted Barrel / Ionized Battery / Rewind Rounds / Gear Shift
+// MW: Charge Time | Mod: Enhanced Charge Time
+//notes:Tempered Dynamo | Source: Arena Ops | Use: PVE | MW: Charge Time | Mod: Enhanced Charge Time | Origin: Forge's Kin | Perks: Fluted Barrel / Ionized Battery / Rewind Rounds / Gear Shift|tags:pve
+dimwishlist:item=2274706510&perks=1840239774,1483536627,3418782618,654512643
+
+// Ouster Engine - Pinnacle Ops - PVE
+// Perks: Quick Launch / High-Velocity Rounds / Auto-Loading Holster / Chain Reaction
+// MW: Handling | Mod: Tactical
+//notes:Ouster Engine | Source: Pinnacle Ops | Use: PVE | MW: Handling | Mod: Tactical | Origin: Accelerated Assault | Perks: Quick Launch / High-Velocity Rounds / Auto-Loading Holster / Chain Reaction|tags:pve
+dimwishlist:item=2223968549&perks=3525010810,2822142346,3300816228,2396489472
+
+// Whatchamacallit - Pinnacle Ops - PVP
+// Perks: Hammer-Forged Rifling / Accurized Rounds / Enlightened Action / Sword Logic
+// MW: Range | Mod: Enhanced Range
+//notes:Whatchamacallit | Source: Pinnacle Ops | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Accelerated Assault | Perks: Hammer-Forged Rifling / Accurized Rounds / Enlightened Action / Sword Logic|tags:pvp
+dimwishlist:item=357669417&perks=3250034553,3142289711,3828510309,31345821
+
+// Salvager's Salvo - Pinnacle Ops - PVE
+// Perks: Quick Launch / Spike Grenades / Trickle Charge / Gear Shift
+// MW: Handling | Mod: Enhanced Velocity
+//notes:Salvager's Salvo | Source: Pinnacle Ops | Use: PVE | MW: Handling | Mod: Enhanced Velocity | Origin: Accelerated Assault | Perks: Quick Launch / Spike Grenades / Trickle Charge / Gear Shift|tags:pve
+dimwishlist:item=1692109318&perks=3525010810,3301904089,1115162408,654512643
+
+// Null Composure - Pinnacle Ops - PVE
+// Perks: Fluted Barrel / Ionized Battery / Reconstruction / Controlled Burst
+// MW: Charge Time | Mod: Enhanced Charge Time
+//notes:Null Composure | Source: Pinnacle Ops | Use: PVE | MW: Charge Time | Mod: Enhanced Charge Time | Origin: Accelerated Assault | Perks: Fluted Barrel / Ionized Battery / Reconstruction / Controlled Burst|tags:pve
+dimwishlist:item=2150643740&perks=1840239774,1483536627,1523832109,2594592626
+
+// Adored - Pinnacle Ops - PVP
+// Perks: Fluted Barrel / Accurized Rounds / Snapshot Sights / Closing Time
+// MW: Range | Mod: Anti-Flinch
+//notes:Adored | Source: Pinnacle Ops | Use: PVP | MW: Range | Mod: Anti-Flinch | Origin: Accelerated Assault | Perks: Fluted Barrel / Accurized Rounds / Snapshot Sights / Closing Time|tags:pvp
+dimwishlist:item=1405095983&perks=1840239774,3142289711,957782887,1194056669
+
+// Mint Retrograde - Pinnacle Ops - PVE
+// Perks: Quick Launch / Appended Mag / Rewind Rounds / Bait and Switch
+// MW: Handling | Mod: Backup Mag
+//notes:Mint Retrograde | Source: Pinnacle Ops | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Accelerated Assault | Perks: Quick Launch / Appended Mag / Rewind Rounds / Bait and Switch|tags:pve
+dimwishlist:item=42435996&perks=3525010810,1087426260,3418782618,3078487919
+
+// The Palindrome - Pinnacle Ops - PVP
+// Perks: Smallbore / Accurized Rounds / Explosive Payload / Master of Arms
+// MW: Range | Mod: Ballistics
+//notes:The Palindrome | Source: Pinnacle Ops | Use: PVP | MW: Range | Mod: Ballistics | Origin: Accelerated Assault | Perks: Smallbore / Accurized Rounds / Explosive Payload / Master of Arms|tags:pvp
+dimwishlist:item=2876244791&perks=1482024992,3142289711,3038247973,3081867624
+
+// Lotus-Eater - Pinnacle Ops - PVE
+// Perks: Quick Launch / Tactical Mag / Air Trigger / Destabilizing Rounds
+// MW: Reload Speed | Mod: Abundant Ammo
+//notes:Lotus-Eater | Source: Pinnacle Ops | Use: PVE | MW: Reload Speed | Mod: Abundant Ammo | Origin: Accelerated Assault | Perks: Quick Launch / Tactical Mag / Air Trigger / Destabilizing Rounds|tags:pve
+dimwishlist:item=924095500&perks=3525010810,106909392,1421772400,2048641572
+
+// The Slammer - Pinnacle Ops - PVE
+// Perks: Tempered Edge / Swordmaster's Guard / Eager Edge / Chaos Reshaped
+// MW: Impact | Mod: Backup Mag
+//notes:The Slammer | Source: Pinnacle Ops | Use: PVE | MW: Impact | Mod: Backup Mag | Origin: Accelerated Assault | Perks: Tempered Edge / Swordmaster's Guard / Eager Edge / Chaos Reshaped|tags:pve
+dimwishlist:item=2466028274&perks=938542991,269888150,2077819806,3640170453
+
+// D.F.A. - Pinnacle Ops - PVE
+// Perks: Fluted Barrel / Tactical Mag / Outlaw / Rampage
+// MW: Handling | Mod: Backup Mag
+//notes:D.F.A. | Source: Pinnacle Ops | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Problem Solver | Perks: Fluted Barrel / Tactical Mag / Outlaw / Rampage|tags:pve
+dimwishlist:item=575830664&perks=1840239774,106909392,1168162263,3425386926
+
+// The Hothead - Pinnacle Ops - PVE
+// Perks: Quick Launch / Impact Casing / Reconstruction / Bait and Switch
+// MW: Handling | Mod: Enhanced Handling
+//notes:The Hothead | Source: Pinnacle Ops | Use: PVE | MW: Handling | Mod: Enhanced Handling | Origin: Accelerated Assault | Perks: Quick Launch / Impact Casing / Reconstruction / Bait and Switch|tags:pve
+dimwishlist:item=1692372662&perks=3525010810,3796465595,1523832109,3078487919
+
+// Midnight Coup - Onslaught - PVE
+// Perks: Fluted Barrel / Tactical Mag / Explosive Payload / Kinetic Tremors
+// MW: Reload Speed | Mod: Backup Mag
+//notes:Midnight Coup | Source: Onslaught | Use: PVE | MW: Reload Speed | Mod: Backup Mag | Origin: Indomitability | Perks: Fluted Barrel / Tactical Mag / Explosive Payload / Kinetic Tremors|tags:pve
+dimwishlist:item=2763843898&perks=1840239774,106909392,3038247973,3891536761
+
+// Luna's Howl - Onslaught - PVP
+// Perks: Hammer-Forged Rifling / High-Caliber Rounds / Encore / Magnificent Howl
+// MW: Range | Mod: Enhanced Range
+//notes:Luna's Howl | Source: Onslaught | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Indomitability | Perks: Hammer-Forged Rifling / High-Caliber Rounds / Encore / Magnificent Howl|tags:pvp
+dimwishlist:item=2763843899&perks=3250034553,1561002382,1195158366,2720533289
+
+// Elsie's Rifle - Onslaught - PVP
+// Perks: Arrowhead Brake / Ricochet Rounds / Zen Moment / Headseeker
+// MW: Range | Mod: Enhanced Range
+//notes:Elsie's Rifle | Source: Onslaught | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Indomitability | Perks: Arrowhead Brake / Ricochet Rounds / Zen Moment / Headseeker|tags:pvp
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,460017080
+
+// Hung Jury SR4 - Onslaught - PVE
+// Perks: Fluted Barrel / Extended Mag / Shoot to Loot / Explosive Payload
+// MW: Reload Speed | Mod: Enhanced Reload
+//notes:Hung Jury SR4 | Source: Onslaught | Use: PVE | MW: Reload Speed | Mod: Enhanced Reload | Origin: Indomitability | Perks: Fluted Barrel / Extended Mag / Shoot to Loot / Explosive Payload|tags:pve
+dimwishlist:item=772231794&perks=1840239774,2420895100,3700496672,3038247973
+
+// The Recluse - Onslaught - PVE
+// Perks: Fluted Barrel / Armor-Piercing Rounds / Dimensional Shift / Chaos Reshaped
+// MW: Reload Speed | Mod: Enhanced Reload
+//notes:The Recluse | Source: Onslaught | Use: PVE | MW: Reload Speed | Mod: Enhanced Reload | Origin: Indomitability | Perks: Fluted Barrel / Armor-Piercing Rounds / Dimensional Shift / Chaos Reshaped|tags:pve
+dimwishlist:item=3257283337&perks=1840239774,1968497646,3182497402,3640170453
+
+// The Mountaintop - Onslaught - PVE
+// Perks: Hard Launch / Implosion Rounds / Auto-Loading Holster / Recombination
+// MW: Reload Speed | Mod: Tactical
+//notes:The Mountaintop | Source: Onslaught | Use: PVE | MW: Reload Speed | Mod: Tactical | Origin: Indomitability | Perks: Hard Launch / Implosion Rounds / Auto-Loading Holster / Recombination|tags:pve
+dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,469285294
+
+// Forbearance - Onslaught - PVE
+// Perks: Quick Launch / High-Velocity Rounds / Unrelenting / Voltshot
+// MW: Blast Radius | Mod: Enhanced Reload
+//notes:Forbearance | Source: Onslaught | Use: PVE | MW: Blast Radius | Mod: Enhanced Reload | Origin: Indomitability | Perks: Quick Launch / High-Velocity Rounds / Unrelenting / Voltshot|tags:pve
+dimwishlist:item=3736001860&perks=3525010810,2822142346,3108830275,2173046394
+
+// Succession - Onslaught - PVE
+// Perks: Fluted Barrel / Tactical Mag / Reconstruction / Aggregate Charge
+// MW: Handling | Mod: Backup Mag
+//notes:Succession | Source: Onslaught | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Indomitability | Perks: Fluted Barrel / Tactical Mag / Reconstruction / Aggregate Charge|tags:pve
+dimwishlist:item=2731922624&perks=1840239774,106909392,1523832109,3764420437
+
+// Edge Transit - Onslaught - PVE
+// Perks: Quick Launch / Spike Grenades / Cascade Point / Bait and Switch
+// MW: Handling | Mod: Quick Access Sling
+//notes:Edge Transit | Source: Onslaught | Use: PVE | MW: Handling | Mod: Quick Access Sling | Origin: Indomitability | Perks: Quick Launch / Spike Grenades / Cascade Point / Bait and Switch|tags:pve
+dimwishlist:item=568611923&perks=3525010810,3301904089,3751912585,3078487919
+
+// Falling Guillotine - Onslaught - PVE
+// Perks: Honed Edge / Swordmaster's Guard / Attrition Orbs / Eager Edge
+// MW: Impact | Mod: Enhanced Impact
+//notes:Falling Guillotine | Source: Onslaught | Use: PVE | MW: Impact | Mod: Enhanced Impact | Origin: Indomitability | Perks: Honed Edge / Swordmaster's Guard / Attrition Orbs / Eager Edge|tags:pve
+dimwishlist:item=1815105249&perks=2827049491,269888150,243981275,2077819806
+
+// Steelfeather Repeater - World Loot Pool - PVE
+// Perks: Fluted Barrel / Flared Magwell / Proximity Power / Swashbuckler
+// MW: Reload Speed | Mod: Backup Mag
+//notes:Steelfeather Repeater | Source: World Loot Pool | Use: PVE | MW: Reload Speed | Mod: Backup Mag | Origin: Cast No Shadows | Perks: Fluted Barrel / Flared Magwell / Proximity Power / Swashbuckler|tags:pve
+dimwishlist:item=771811870&perks=1840239774,3230963543,4190679284,4082225868
+
+// Perfect Paradox - World Loot Pool - PVE
+// Perks: Full Choke / Tactical Mag / Bewildering Burst / One-Two Punch
+// MW: Handling | Mod: Quick Access Sling
+//notes:Perfect Paradox | Source: World Loot Pool | Use: PVE | MW: Handling | Mod: Quick Access Sling | Origin: Cast No Shadows | Perks: Full Choke / Tactical Mag / Bewildering Burst / One-Two Punch|tags:pve
+dimwishlist:item=4108648762&perks=1047830412,106909392,2289534249,2679249093
+
+// Red Tape - World Loot Pool - PVE
+// Perks: Fluted Barrel / Tactical Mag / Rimestealer / Headstone
+// MW: Reload Speed | Mod: Enhanced Reload
+//notes:Red Tape | Source: World Loot Pool | Use: PVE | MW: Reload Speed | Mod: Enhanced Reload | Origin: Dark Eather Reaper | Perks: Fluted Barrel / Tactical Mag / Rimestealer / Headstone|tags:pve
+dimwishlist:item=3423493037&perks=1840239774,106909392,1955165503,124408337
+
+// Liturgy - World Loot Pool - PVE
+// Perks: Quick Launch / Spike Grenades / Envious Arsenal / Chill Clip
+// MW: Handling | Mod: Enhanced Handling
+//notes:Liturgy | Source: World Loot Pool | Use: PVE | MW: Handling | Mod: Enhanced Handling | Origin: Dark Eather Reaper | Perks: Quick Launch / Spike Grenades / Envious Arsenal / Chill Clip|tags:pve
+dimwishlist:item=2599338624&perks=3525010810,3301904089,3987942396,2978966579
+
+// Nox Perennial V - World Loot Pool - PVP
+// Perks: Corkscrew Rifling / Projection Fuse / Under Pressure / Kickstart
+// MW: Charge Time | Mod: Enhanced Charge Time
+//notes:Nox Perennial V | Source: World Loot Pool | Use: PVP | MW: Charge Time | Mod: Enhanced Charge Time | Origin: Wild Card | Perks: Corkscrew Rifling / Projection Fuse / Under Pressure / Kickstart|tags:pvp
+dimwishlist:item=2767393525&perks=4090651448,2969185026,1645158859,1754714824
+
+// Gridskipper - World Loot Pool - PVP
+// Perks: Arrowhead Brake / Ricochet Rounds / Zen Moment / Headseeker
+// MW: Range | Mod: Enhanced Range
+//notes:Gridskipper | Source: World Loot Pool | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Splicer Surge | Perks: Arrowhead Brake / Ricochet Rounds / Zen Moment / Headseeker|tags:pvp
+dimwishlist:item=3433930495&perks=839105230,1885400500,2387244414,460017080
+
+// Chroma Rush - World Loot Pool - PVP
+// Perks: Fluted Barrel / Accurized Rounds / Killing Wind / Kill Clip
+// MW: Range | Mod: Ballistics
+//notes:Chroma Rush | Source: World Loot Pool | Use: PVP | MW: Range | Mod: Ballistics | Origin: Splicer Surge | Perks: Fluted Barrel / Accurized Rounds / Killing Wind / Kill Clip|tags:pvp
+dimwishlist:item=2598420927&perks=1840239774,3142289711,2450788523,1015611457
+
+// Infinite Paths 8 - World Loot Pool - PVE
+// Perks: Corkscrew Rifling / Flared Magwell / Dragonfly / Voltshot
+// MW: Reload Speed | Mod: Backup Mag
+//notes:Infinite Paths 8 | Source: World Loot Pool | Use: PVE | MW: Reload Speed | Mod: Backup Mag | Origin: Radiolaria Transponder | Perks: Corkscrew Rifling / Flared Magwell / Dragonfly / Voltshot|tags:pve
+dimwishlist:item=3176697588&perks=4090651448,3230963543,2848615171,2173046394
+
+// Temptation's Hook - World Loot Pool - PVE
+// Perks: Honed Edge / Swordmaster's Guard / Impromptu Ammo / Chain Reaction
+// MW: Impact | Mod: Backup Mag
+//notes:Temptation's Hook | Source: World Loot Pool | Use: PVE | MW: Impact | Mod: Backup Mag | Origin: Paracausal Fluid | Perks: Honed Edge / Swordmaster's Guard / Impromptu Ammo / Chain Reaction|tags:pve
+dimwishlist:item=3977827673&perks=2827049491,269888150,2360347339,2396489472
+
+// Heliocentric QSc - World Loot Pool - PVE
+// Perks: Fluted Barrel / Tactical Mag / Heal Clip / Adrenaline Junkie
+// MW: Reload Speed | Mod: Backup Mag
+//notes:Heliocentric QSc | Source: World Loot Pool | Use: PVE | MW: Reload Speed | Mod: Backup Mag | Origin: Nadir Focus | Perks: Fluted Barrel / Tactical Mag / Heal Clip / Adrenaline Junkie|tags:pve
+dimwishlist:item=3998080529&perks=1840239774,106909392,3017780555,11612903
+
+// Death Adder - World Loot Pool - PVE
+// Perks: Fluted Barrel / Tactical Mag / Heal Clip / Burning Ambition
+// MW: Reload Speed | Mod: Enhanced Reload
+//notes:Death Adder | Source: World Loot Pool | Use: PVE | MW: Reload Speed | Mod: Enhanced Reload | Origin: Veist Stinger | Perks: Fluted Barrel / Tactical Mag / Heal Clip / Burning Ambition|tags:pve
+dimwishlist:item=2130249527&perks=1840239774,106909392,3017780555,2890807135
+
+// Brass Attacks - World Loot Pool - PVE
+// Perks: Fluted Barrel / Flared Magwell / Impromptu Ammo / Destabilizing Rounds
+// MW: Reload Speed | Mod: Bandolier
+//notes:Brass Attacks | Source: World Loot Pool | Use: PVE | MW: Reload Speed | Mod: Bandolier | Origin: Land Tank | Perks: Fluted Barrel / Flared Magwell / Impromptu Ammo / Destabilizing Rounds|tags:pve
+dimwishlist:item=1291040554&perks=1840239774,3230963543,2360347339,2048641572
+
+// Trendsetter - World Loot Pool - PVE
+// Perks: Fluted Barrel / Tactical Mag / Ambitious Assassin / Jolting Feedback
+// MW: Reload Speed | Mod: Synergy
+//notes:Trendsetter | Source: World Loot Pool | Use: PVE | MW: Reload Speed | Mod: Synergy | Origin: Nail, Meet Hammer | Perks: Fluted Barrel / Tactical Mag / Ambitious Assassin / Jolting Feedback|tags:pve
+dimwishlist:item=2863808104&perks=1840239774,106909392,2010801679,3966416502
+
+// Inbound Surveillance - World Loot Pool - PVE
+// Perks: Fluted Barrel / Steady Rounds / Bewildering Burst / Frenzy
+// MW: Handling | Mod: Backup Mag
+//notes:Inbound Surveillance | Source: World Loot Pool | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Nail, Meet Hammer | Perks: Fluted Barrel / Steady Rounds / Bewildering Burst / Frenzy|tags:pve
+dimwishlist:item=2776506837&perks=1840239774,3177308360,2289534249,4104185692
+
+// Sixth Sense - Events Engrams (Lawless) - PVE
+// Perks: Fluted Barrel / Flared Magwell / Lucky Shot / Tear
+// MW: Handling | Mod: Backup Mag
+//notes:Sixth Sense | Source: Events Engrams (Lawless) | Use: PVE | MW: Handling | Mod: Backup Mag | Origin: Nail, Meet Hammer | Perks: Fluted Barrel / Flared Magwell / Lucky Shot / Tear|tags:pve
+dimwishlist:item=3163473092&perks=1840239774,3230963543,2054520291,960997401
+
+// Hardline Cut - Events Engrams (Lawless) - PVE
+// Perks: Jagged Edge / Swordmaster's Guard / Sharp Harvest / Chain Reaction
+// MW: Impact | Mod: Backup Mag
+//notes:Hardline Cut | Source: Events Engrams (Lawless) | Use: PVE | MW: Impact | Mod: Backup Mag | Origin: Nail, Meet Hammer | Perks: Jagged Edge / Swordmaster's Guard / Sharp Harvest / Chain Reaction|tags:pve
+dimwishlist:item=3461043766&perks=3666208348,269888150,4132187021,2396489472
+
+// Stay Frosty - Events Engrams (Dawning) - PVP
+// Perks: Arrowhead Brake / Accurized Rounds / Lone Wolf / Headseeker
+// MW: Range | Mod: Enhanced Range
+//notes:Stay Frosty | Source: Events Engrams (Dawning) | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Omolon Fluid Dynamics | Perks: Arrowhead Brake / Accurized Rounds / Lone Wolf / Headseeker|tags:pvp
+dimwishlist:item=1123433952&perks=839105230,3142289711,2579169598,460017080
+
+// Albedo Wing - Events Engrams (Dawning) - PVE
+// Perks: Low-Impedance Windings / Appended Mag / Eddy Current / Voltshot
+// MW: Reload Speed | Mod: Backup Mag
+//notes:Albedo Wing | Source: Events Engrams (Dawning) | Use: PVE | MW: Reload Speed | Mod: Backup Mag | Origin: Dawning Surprise | Perks: Low-Impedance Windings / Appended Mag / Eddy Current / Voltshot|tags:pve
+dimwishlist:item=1845372864&perks=2713678205,1087426260,684456054,2173046394
+
+// Zephyr - Events Engrams (Dawning) - PVE
+// Perks: Jagged Edge / Swordmaster's Guard / Attrition Orbs / Surrounded
+// MW: Impact | Mod: Backup Mag
+//notes:Zephyr | Source: Events Engrams (Dawning) | Use: PVE | MW: Impact | Mod: Backup Mag | Origin: Dawning Surprise | Perks: Jagged Edge / Swordmaster's Guard / Attrition Orbs / Surrounded|tags:pve
+dimwishlist:item=1911078836&perks=3666208348,269888150,243981275,3708227201
+
+// Hullabaloo - Events Engrams (Guardian Games) - PVE
+// Perks: Quick Launch / High-Velocity Rounds / Voltshot / Chain Reaction
+// MW: Blast Radius | Mod: Backup Mag
+//notes:Hullabaloo | Source: Events Engrams (Guardian Games) | Use: PVE | MW: Blast Radius | Mod: Backup Mag | Origin: Classy Contender | Perks: Quick Launch / High-Velocity Rounds / Voltshot / Chain Reaction|tags:pve
+dimwishlist:item=657927352&perks=3525010810,2822142346,2173046394,2396489472
+
+// Taraxippos - Events Engrams (Guardian Games) - PVP
+// Perks: Arrowhead Brake / Flared Magwell / Zen Moment / Precision Instrument
+// MW: Range | Mod: Enhanced Range
+//notes:Taraxippos | Source: Events Engrams (Guardian Games) | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Omolon Fluid Dynamics | Perks: Arrowhead Brake / Flared Magwell / Zen Moment / Precision Instrument|tags:pvp
+dimwishlist:item=3007479950&perks=839105230,3230963543,2387244414,555281244
+
+// The Title - Events Engrams (Guardian Games) - PVE
+// Perks: Fluted Barrel / Armor-Piercing Rounds / Perpetual Motion / Destabilizing Rounds
+// MW: Reload Speed | Mod: Enhanced Reload
+//notes:The Title | Source: Events Engrams (Guardian Games) | Use: PVE | MW: Reload Speed | Mod: Enhanced Reload | Origin: Classy Contender | Perks: Fluted Barrel / Armor-Piercing Rounds / Perpetual Motion / Destabilizing Rounds|tags:pve
+dimwishlist:item=655712834&perks=1840239774,1968497646,1428297954,2048641572
+
+// Acosmic - Events Engrams (Eerie) - PVP
+// Perks: Volatile Launch / High-Explosive Ordnance / Impulse Amplifier / Chain Reaction
+// MW: Blast Radius | Mod: Enhanced Blast Radius
+//notes:Acosmic | Source: Events Engrams (Eerie) | Use: PVP | MW: Blast Radius | Mod: Enhanced Blast Radius | Origin: Search Party | Perks: Volatile Launch / High-Explosive Ordnance / Impulse Amplifier / Chain Reaction|tags:pvp
+dimwishlist:item=425681240&perks=1478423395,1380253176,951095735,2396489472
+
+// Horror Story - Events Engrams (Eerie) - PVP
+// Perks: Arrowhead Brake / Accurized Rounds / Dynamic Sway Reduction / Target Lock
+// MW: Range | Mod: Ballistics
+//notes:Horror Story | Source: Events Engrams (Eerie) | Use: PVP | MW: Range | Mod: Ballistics | Origin: Nadir Focus | Perks: Arrowhead Brake / Accurized Rounds / Dynamic Sway Reduction / Target Lock|tags:pvp
+dimwishlist:item=177568179&perks=839105230,3142289711,1359896290,365154968
+
+// Mechabre - Events Engrams (Eerie) - PVP
+// Perks: Fluted Barrel / Accurized Rounds / Lone Wolf / Opening Shot
+// MW: Handling | Mod: Enhanced Handling
+//notes:Mechabre | Source: Events Engrams (Eerie) | Use: PVP | MW: Handling | Mod: Enhanced Handling | Origin: Search Party | Perks: Fluted Barrel / Accurized Rounds / Lone Wolf / Opening Shot|tags:pvp
+dimwishlist:item=2477980485&perks=1840239774,3142289711,2579169598,47981717
+
+// Crowning Duologue - Events Engrams (Solstice) - PVE
+// Perks: Quick Launch / Impact Casing / Impulse Amplifier / Deconstruct
+// MW: Handling | Mod: Tactical
+//notes:Crowning Duologue | Source: Events Engrams (Solstice) | Use: PVE | MW: Handling | Mod: Tactical | Origin: Häkke Breach Armaments | Perks: Quick Launch / Impact Casing / Impulse Amplifier / Deconstruct|tags:pve
+dimwishlist:item=4106757302&perks=3525010810,3796465595,951095735,3993379141
+
+// Compass Rose - Events Engrams (Solstice) - PVP
+// Perks: Barrel Shroud / Assault Mag / Slideshot / Opening Shot
+// MW: Range | Mod: Enhanced Range
+//notes:Compass Rose | Source: Events Engrams (Solstice) | Use: PVP | MW: Range | Mod: Enhanced Range | Origin: Nadir Focus | Perks: Barrel Shroud / Assault Mag / Slideshot / Opening Shot|tags:pvp
+dimwishlist:item=4169225313&perks=1300023272,791862061,3161816588,47981717
+
+// Dawn Far Off - Events Engrams (Solstice) - PVE
+// Perks: Fluted Barrel / Armor-Piercing Rounds / Subsistence / Meganeura
+// MW: Handling | Mod: Bandolier
+//notes:Dawn Far Off | Source: Events Engrams (Solstice) | Use: PVE | MW: Handling | Mod: Bandolier | Origin: Dream Work | Perks: Fluted Barrel / Armor-Piercing Rounds / Subsistence / Meganeura|tags:pve
+dimwishlist:item=1484294659&perks=1840239774,1968497646,1820235745,657025441
+
+// Rapid Growth - Events Engrams (Solstice) - PVE
+// Perks: Fluted Barrel / Accurized Rounds / Trickle Charge / Gear Shift
+// MW: Range | Mod: Counterbalance Stock
+//notes:Rapid Growth | Source: Events Engrams (Solstice) | Use: PVE | MW: Range | Mod: Counterbalance Stock | Origin: Häkke Breach Armaments | Perks: Fluted Barrel / Accurized Rounds / Trickle Charge / Gear Shift|tags:pve
+dimwishlist:item=3856342856&perks=1840239774,3142289711,1115162408,654512643
+
+// Something New - Events Engrams (Solstice) - PVP
+// Perks: Smallbore / Ricochet Rounds / Rapid Hit / Precision Instrument
+// MW: Range | Mod: Ballistics
+//notes:Something New | Source: Events Engrams (Solstice) | Use: PVP | MW: Range | Mod: Ballistics | Origin: Nadir Focus | Perks: Smallbore / Ricochet Rounds / Rapid Hit / Precision Instrument|tags:pvp
+dimwishlist:item=586671776&perks=1482024992,1885400500,247725512,555281244
