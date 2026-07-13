@@ -1,3 +1,6 @@
+// No. 1: Rory
+// The below is optional but extra if you want it :)
+
 title:Monument of Triumph God Rolls
 description:Curated weapon rolls for Monument of Triumph weapons. Based on the Destiny 2 Weapon Rolls spreadsheet by kimo23.
 
